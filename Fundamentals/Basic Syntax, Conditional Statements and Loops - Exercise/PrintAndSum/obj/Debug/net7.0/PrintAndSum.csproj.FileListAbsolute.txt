@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\PrintAndSum\bin\Debug\net7.0\PrintAndSum.exe
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\PrintAndSum\bin\Debug\net7.0\PrintAndSum.deps.json
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\PrintAndSum\bin\Debug\net7.0\PrintAndSum.runtimeconfig.json
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\PrintAndSum\bin\Debug\net7.0\PrintAndSum.dll
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\PrintAndSum\bin\Debug\net7.0\PrintAndSum.pdb
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\PrintAndSum\obj\Debug\net7.0\PrintAndSum.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\PrintAndSum\obj\Debug\net7.0\PrintAndSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\PrintAndSum\obj\Debug\net7.0\PrintAndSum.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\PrintAndSum\obj\Debug\net7.0\PrintAndSum.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\PrintAndSum\obj\Debug\net7.0\PrintAndSum.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\PrintAndSum\obj\Debug\net7.0\PrintAndSum.dll
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\PrintAndSum\obj\Debug\net7.0\refint\PrintAndSum.dll
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\PrintAndSum\obj\Debug\net7.0\PrintAndSum.pdb
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\PrintAndSum\obj\Debug\net7.0\PrintAndSum.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\PrintAndSum\obj\Debug\net7.0\ref\PrintAndSum.dll

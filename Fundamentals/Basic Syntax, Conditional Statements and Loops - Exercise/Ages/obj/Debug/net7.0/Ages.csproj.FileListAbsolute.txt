@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Ages\bin\Debug\net7.0\Ages.exe
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Ages\bin\Debug\net7.0\Ages.deps.json
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Ages\bin\Debug\net7.0\Ages.runtimeconfig.json
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Ages\bin\Debug\net7.0\Ages.dll
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Ages\bin\Debug\net7.0\Ages.pdb
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Ages\obj\Debug\net7.0\Ages.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Ages\obj\Debug\net7.0\Ages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Ages\obj\Debug\net7.0\Ages.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Ages\obj\Debug\net7.0\Ages.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Ages\obj\Debug\net7.0\Ages.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Ages\obj\Debug\net7.0\Ages.dll
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Ages\obj\Debug\net7.0\refint\Ages.dll
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Ages\obj\Debug\net7.0\Ages.pdb
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Ages\obj\Debug\net7.0\Ages.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Ages\obj\Debug\net7.0\ref\Ages.dll

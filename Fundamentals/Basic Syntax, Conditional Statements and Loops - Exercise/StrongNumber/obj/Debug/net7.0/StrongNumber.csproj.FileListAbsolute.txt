@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\StrongNumber\bin\Debug\net7.0\StrongNumber.exe
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\StrongNumber\bin\Debug\net7.0\StrongNumber.deps.json
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\StrongNumber\bin\Debug\net7.0\StrongNumber.runtimeconfig.json
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\StrongNumber\bin\Debug\net7.0\StrongNumber.dll
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\StrongNumber\bin\Debug\net7.0\StrongNumber.pdb
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\StrongNumber\obj\Debug\net7.0\StrongNumber.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\StrongNumber\obj\Debug\net7.0\StrongNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\StrongNumber\obj\Debug\net7.0\StrongNumber.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\StrongNumber\obj\Debug\net7.0\StrongNumber.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\StrongNumber\obj\Debug\net7.0\StrongNumber.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\StrongNumber\obj\Debug\net7.0\StrongNumber.dll
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\StrongNumber\obj\Debug\net7.0\refint\StrongNumber.dll
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\StrongNumber\obj\Debug\net7.0\StrongNumber.pdb
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\StrongNumber\obj\Debug\net7.0\StrongNumber.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\StrongNumber\obj\Debug\net7.0\ref\StrongNumber.dll

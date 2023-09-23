@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\RageExpenses\bin\Debug\net7.0\RageExpenses.exe
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\RageExpenses\bin\Debug\net7.0\RageExpenses.deps.json
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\RageExpenses\bin\Debug\net7.0\RageExpenses.runtimeconfig.json
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\RageExpenses\bin\Debug\net7.0\RageExpenses.dll
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\RageExpenses\bin\Debug\net7.0\RageExpenses.pdb
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\RageExpenses\obj\Debug\net7.0\RageExpenses.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\RageExpenses\obj\Debug\net7.0\RageExpenses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\RageExpenses\obj\Debug\net7.0\RageExpenses.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\RageExpenses\obj\Debug\net7.0\RageExpenses.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\RageExpenses\obj\Debug\net7.0\RageExpenses.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\RageExpenses\obj\Debug\net7.0\RageExpenses.dll
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\RageExpenses\obj\Debug\net7.0\refint\RageExpenses.dll
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\RageExpenses\obj\Debug\net7.0\RageExpenses.pdb
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\RageExpenses\obj\Debug\net7.0\RageExpenses.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\RageExpenses\obj\Debug\net7.0\ref\RageExpenses.dll

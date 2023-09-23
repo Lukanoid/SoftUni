@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Login\bin\Debug\net7.0\Login.exe
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Login\bin\Debug\net7.0\Login.deps.json
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Login\bin\Debug\net7.0\Login.runtimeconfig.json
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Login\bin\Debug\net7.0\Login.dll
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Login\bin\Debug\net7.0\Login.pdb
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Login\obj\Debug\net7.0\Login.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Login\obj\Debug\net7.0\Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Login\obj\Debug\net7.0\Login.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Login\obj\Debug\net7.0\Login.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Login\obj\Debug\net7.0\Login.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Login\obj\Debug\net7.0\Login.dll
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Login\obj\Debug\net7.0\refint\Login.dll
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Login\obj\Debug\net7.0\Login.pdb
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Login\obj\Debug\net7.0\Login.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Login\obj\Debug\net7.0\ref\Login.dll

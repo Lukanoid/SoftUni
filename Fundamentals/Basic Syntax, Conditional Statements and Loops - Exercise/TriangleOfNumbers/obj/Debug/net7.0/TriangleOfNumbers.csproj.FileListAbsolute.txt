@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\TriangleOfNumbers\bin\Debug\net7.0\TriangleOfNumbers.exe
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\TriangleOfNumbers\bin\Debug\net7.0\TriangleOfNumbers.deps.json
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\TriangleOfNumbers\bin\Debug\net7.0\TriangleOfNumbers.runtimeconfig.json
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\TriangleOfNumbers\bin\Debug\net7.0\TriangleOfNumbers.dll
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\TriangleOfNumbers\bin\Debug\net7.0\TriangleOfNumbers.pdb
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\TriangleOfNumbers\obj\Debug\net7.0\TriangleOfNumbers.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\TriangleOfNumbers\obj\Debug\net7.0\TriangleOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\TriangleOfNumbers\obj\Debug\net7.0\TriangleOfNumbers.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\TriangleOfNumbers\obj\Debug\net7.0\TriangleOfNumbers.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\TriangleOfNumbers\obj\Debug\net7.0\TriangleOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\TriangleOfNumbers\obj\Debug\net7.0\TriangleOfNumbers.dll
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\TriangleOfNumbers\obj\Debug\net7.0\refint\TriangleOfNumbers.dll
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\TriangleOfNumbers\obj\Debug\net7.0\TriangleOfNumbers.pdb
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\TriangleOfNumbers\obj\Debug\net7.0\TriangleOfNumbers.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\TriangleOfNumbers\obj\Debug\net7.0\ref\TriangleOfNumbers.dll

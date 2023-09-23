@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\VendingMachine.02\bin\Debug\net7.0\VendingMachine.02.exe
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\VendingMachine.02\bin\Debug\net7.0\VendingMachine.02.deps.json
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\VendingMachine.02\bin\Debug\net7.0\VendingMachine.02.runtimeconfig.json
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\VendingMachine.02\bin\Debug\net7.0\VendingMachine.02.dll
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\VendingMachine.02\bin\Debug\net7.0\VendingMachine.02.pdb
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\VendingMachine.02\obj\Debug\net7.0\VendingMachine.02.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\VendingMachine.02\obj\Debug\net7.0\VendingMachine.02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\VendingMachine.02\obj\Debug\net7.0\VendingMachine.02.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\VendingMachine.02\obj\Debug\net7.0\VendingMachine.02.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\VendingMachine.02\obj\Debug\net7.0\VendingMachine.02.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\VendingMachine.02\obj\Debug\net7.0\VendingMachine.02.dll
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\VendingMachine.02\obj\Debug\net7.0\refint\VendingMachine.02.dll
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\VendingMachine.02\obj\Debug\net7.0\VendingMachine.02.pdb
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\VendingMachine.02\obj\Debug\net7.0\VendingMachine.02.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\VendingMachine.02\obj\Debug\net7.0\ref\VendingMachine.02.dll
