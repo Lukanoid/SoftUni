@@ -15,7 +15,7 @@ namespace Ages
             }
             else if (age <= 13)
             {
-                boundaries = "child";
+                boundaries = "childish";
             }
             else if (age <= 19)
             {
