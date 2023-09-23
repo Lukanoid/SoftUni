@@ -1,2 +1,2 @@
 # SoftUni
-SoftUni C# Fundamentals
+My repo for my SoftUni courses
