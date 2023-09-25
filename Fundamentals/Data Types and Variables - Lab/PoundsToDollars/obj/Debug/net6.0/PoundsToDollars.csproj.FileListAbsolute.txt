@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\PoundsToDollars\bin\Debug\net6.0\PoundsToDollars.exe
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\PoundsToDollars\bin\Debug\net6.0\PoundsToDollars.deps.json
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\PoundsToDollars\bin\Debug\net6.0\PoundsToDollars.runtimeconfig.json
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\PoundsToDollars\bin\Debug\net6.0\PoundsToDollars.dll
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\PoundsToDollars\bin\Debug\net6.0\PoundsToDollars.pdb
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\PoundsToDollars\obj\Debug\net6.0\PoundsToDollars.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\PoundsToDollars\obj\Debug\net6.0\PoundsToDollars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\PoundsToDollars\obj\Debug\net6.0\PoundsToDollars.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\PoundsToDollars\obj\Debug\net6.0\PoundsToDollars.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\PoundsToDollars\obj\Debug\net6.0\PoundsToDollars.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\PoundsToDollars\obj\Debug\net6.0\PoundsToDollars.dll
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\PoundsToDollars\obj\Debug\net6.0\refint\PoundsToDollars.dll
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\PoundsToDollars\obj\Debug\net6.0\PoundsToDollars.pdb
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\PoundsToDollars\obj\Debug\net6.0\PoundsToDollars.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\PoundsToDollars\obj\Debug\net6.0\ref\PoundsToDollars.dll
