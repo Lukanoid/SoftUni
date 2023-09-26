@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\ReversedChars\bin\Debug\net6.0\ReversedChars.exe
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\ReversedChars\bin\Debug\net6.0\ReversedChars.deps.json
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\ReversedChars\bin\Debug\net6.0\ReversedChars.runtimeconfig.json
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\ReversedChars\bin\Debug\net6.0\ReversedChars.dll
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\ReversedChars\bin\Debug\net6.0\ReversedChars.pdb
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\ReversedChars\obj\Debug\net6.0\ReversedChars.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\ReversedChars\obj\Debug\net6.0\ReversedChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\ReversedChars\obj\Debug\net6.0\ReversedChars.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\ReversedChars\obj\Debug\net6.0\ReversedChars.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\ReversedChars\obj\Debug\net6.0\ReversedChars.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\ReversedChars\obj\Debug\net6.0\ReversedChars.dll
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\ReversedChars\obj\Debug\net6.0\refint\ReversedChars.dll
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\ReversedChars\obj\Debug\net6.0\ReversedChars.pdb
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\ReversedChars\obj\Debug\net6.0\ReversedChars.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\ReversedChars\obj\Debug\net6.0\ref\ReversedChars.dll

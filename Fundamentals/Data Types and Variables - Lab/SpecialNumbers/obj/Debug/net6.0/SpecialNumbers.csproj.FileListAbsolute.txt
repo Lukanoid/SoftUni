@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\SpecialNumbers\bin\Debug\net6.0\SpecialNumbers.exe
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\SpecialNumbers\bin\Debug\net6.0\SpecialNumbers.deps.json
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\SpecialNumbers\bin\Debug\net6.0\SpecialNumbers.runtimeconfig.json
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\SpecialNumbers\bin\Debug\net6.0\SpecialNumbers.dll
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\SpecialNumbers\bin\Debug\net6.0\SpecialNumbers.pdb
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\SpecialNumbers\obj\Debug\net6.0\SpecialNumbers.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\SpecialNumbers\obj\Debug\net6.0\SpecialNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\SpecialNumbers\obj\Debug\net6.0\SpecialNumbers.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\SpecialNumbers\obj\Debug\net6.0\SpecialNumbers.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\SpecialNumbers\obj\Debug\net6.0\SpecialNumbers.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\SpecialNumbers\obj\Debug\net6.0\SpecialNumbers.dll
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\SpecialNumbers\obj\Debug\net6.0\refint\SpecialNumbers.dll
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\SpecialNumbers\obj\Debug\net6.0\SpecialNumbers.pdb
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\SpecialNumbers\obj\Debug\net6.0\SpecialNumbers.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\SpecialNumbers\obj\Debug\net6.0\ref\SpecialNumbers.dll

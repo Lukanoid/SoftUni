@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\CenturiesToMinutes\bin\Debug\net6.0\CenturiesToMinutes.exe
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\CenturiesToMinutes\bin\Debug\net6.0\CenturiesToMinutes.deps.json
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\CenturiesToMinutes\bin\Debug\net6.0\CenturiesToMinutes.runtimeconfig.json
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\CenturiesToMinutes\bin\Debug\net6.0\CenturiesToMinutes.dll
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\CenturiesToMinutes\bin\Debug\net6.0\CenturiesToMinutes.pdb
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\CenturiesToMinutes\obj\Debug\net6.0\CenturiesToMinutes.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\CenturiesToMinutes\obj\Debug\net6.0\CenturiesToMinutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\CenturiesToMinutes\obj\Debug\net6.0\CenturiesToMinutes.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\CenturiesToMinutes\obj\Debug\net6.0\CenturiesToMinutes.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\CenturiesToMinutes\obj\Debug\net6.0\CenturiesToMinutes.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\CenturiesToMinutes\obj\Debug\net6.0\CenturiesToMinutes.dll
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\CenturiesToMinutes\obj\Debug\net6.0\refint\CenturiesToMinutes.dll
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\CenturiesToMinutes\obj\Debug\net6.0\CenturiesToMinutes.pdb
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\CenturiesToMinutes\obj\Debug\net6.0\CenturiesToMinutes.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\CenturiesToMinutes\obj\Debug\net6.0\ref\CenturiesToMinutes.dll
