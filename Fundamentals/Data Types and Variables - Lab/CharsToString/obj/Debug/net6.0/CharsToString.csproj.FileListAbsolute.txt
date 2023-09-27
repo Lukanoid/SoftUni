@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\CharsToString\bin\Debug\net6.0\CharsToString.exe
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\CharsToString\bin\Debug\net6.0\CharsToString.deps.json
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\CharsToString\bin\Debug\net6.0\CharsToString.runtimeconfig.json
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\CharsToString\bin\Debug\net6.0\CharsToString.dll
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\CharsToString\bin\Debug\net6.0\CharsToString.pdb
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\CharsToString\obj\Debug\net6.0\CharsToString.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\CharsToString\obj\Debug\net6.0\CharsToString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\CharsToString\obj\Debug\net6.0\CharsToString.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\CharsToString\obj\Debug\net6.0\CharsToString.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\CharsToString\obj\Debug\net6.0\CharsToString.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\CharsToString\obj\Debug\net6.0\CharsToString.dll
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\CharsToString\obj\Debug\net6.0\refint\CharsToString.dll
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\CharsToString\obj\Debug\net6.0\CharsToString.pdb
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\CharsToString\obj\Debug\net6.0\CharsToString.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\CharsToString\obj\Debug\net6.0\ref\CharsToString.dll

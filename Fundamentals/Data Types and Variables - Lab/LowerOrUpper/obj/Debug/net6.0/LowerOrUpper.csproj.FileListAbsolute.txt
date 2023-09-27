@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\LowerOrUpper\bin\Debug\net6.0\LowerOrUpper.exe
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\LowerOrUpper\bin\Debug\net6.0\LowerOrUpper.deps.json
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\LowerOrUpper\bin\Debug\net6.0\LowerOrUpper.runtimeconfig.json
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\LowerOrUpper\bin\Debug\net6.0\LowerOrUpper.dll
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\LowerOrUpper\bin\Debug\net6.0\LowerOrUpper.pdb
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\LowerOrUpper\obj\Debug\net6.0\LowerOrUpper.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\LowerOrUpper\obj\Debug\net6.0\LowerOrUpper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\LowerOrUpper\obj\Debug\net6.0\LowerOrUpper.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\LowerOrUpper\obj\Debug\net6.0\LowerOrUpper.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\LowerOrUpper\obj\Debug\net6.0\LowerOrUpper.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\LowerOrUpper\obj\Debug\net6.0\LowerOrUpper.dll
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\LowerOrUpper\obj\Debug\net6.0\refint\LowerOrUpper.dll
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\LowerOrUpper\obj\Debug\net6.0\LowerOrUpper.pdb
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\LowerOrUpper\obj\Debug\net6.0\LowerOrUpper.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\LowerOrUpper\obj\Debug\net6.0\ref\LowerOrUpper.dll

@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\RefactorVolumeOfPyramid\bin\Debug\net6.0\RefactorVolumeOfPyramid.exe
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\RefactorVolumeOfPyramid\bin\Debug\net6.0\RefactorVolumeOfPyramid.deps.json
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\RefactorVolumeOfPyramid\bin\Debug\net6.0\RefactorVolumeOfPyramid.runtimeconfig.json
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\RefactorVolumeOfPyramid\bin\Debug\net6.0\RefactorVolumeOfPyramid.dll
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\RefactorVolumeOfPyramid\bin\Debug\net6.0\RefactorVolumeOfPyramid.pdb
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\RefactorVolumeOfPyramid\obj\Debug\net6.0\RefactorVolumeOfPyramid.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\RefactorVolumeOfPyramid\obj\Debug\net6.0\RefactorVolumeOfPyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\RefactorVolumeOfPyramid\obj\Debug\net6.0\RefactorVolumeOfPyramid.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\RefactorVolumeOfPyramid\obj\Debug\net6.0\RefactorVolumeOfPyramid.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\RefactorVolumeOfPyramid\obj\Debug\net6.0\RefactorVolumeOfPyramid.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\RefactorVolumeOfPyramid\obj\Debug\net6.0\RefactorVolumeOfPyramid.dll
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\RefactorVolumeOfPyramid\obj\Debug\net6.0\refint\RefactorVolumeOfPyramid.dll
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\RefactorVolumeOfPyramid\obj\Debug\net6.0\RefactorVolumeOfPyramid.pdb
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\RefactorVolumeOfPyramid\obj\Debug\net6.0\RefactorVolumeOfPyramid.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables\RefactorVolumeOfPyramid\obj\Debug\net6.0\ref\RefactorVolumeOfPyramid.dll
