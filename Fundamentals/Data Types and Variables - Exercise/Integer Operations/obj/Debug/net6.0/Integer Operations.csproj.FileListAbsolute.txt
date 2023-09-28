@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\Integer Operations\bin\Debug\net6.0\Integer Operations.exe
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\Integer Operations\bin\Debug\net6.0\Integer Operations.deps.json
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\Integer Operations\bin\Debug\net6.0\Integer Operations.runtimeconfig.json
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\Integer Operations\bin\Debug\net6.0\Integer Operations.dll
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\Integer Operations\bin\Debug\net6.0\Integer Operations.pdb
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\Integer Operations\obj\Debug\net6.0\Integer Operations.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\Integer Operations\obj\Debug\net6.0\Integer Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\Integer Operations\obj\Debug\net6.0\Integer Operations.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\Integer Operations\obj\Debug\net6.0\Integer Operations.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\Integer Operations\obj\Debug\net6.0\Integer Operations.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\Integer Operations\obj\Debug\net6.0\Integer Operations.dll
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\Integer Operations\obj\Debug\net6.0\refint\Integer Operations.dll
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\Integer Operations\obj\Debug\net6.0\Integer Operations.pdb
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\Integer Operations\obj\Debug\net6.0\Integer Operations.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\Integer Operations\obj\Debug\net6.0\ref\Integer Operations.dll

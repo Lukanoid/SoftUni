@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\SumDigits\bin\Debug\net6.0\SumDigits.exe
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\SumDigits\bin\Debug\net6.0\SumDigits.deps.json
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\SumDigits\bin\Debug\net6.0\SumDigits.runtimeconfig.json
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\SumDigits\bin\Debug\net6.0\SumDigits.dll
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\SumDigits\bin\Debug\net6.0\SumDigits.pdb
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\SumDigits\obj\Debug\net6.0\SumDigits.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\SumDigits\obj\Debug\net6.0\SumDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\SumDigits\obj\Debug\net6.0\SumDigits.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\SumDigits\obj\Debug\net6.0\SumDigits.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\SumDigits\obj\Debug\net6.0\SumDigits.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\SumDigits\obj\Debug\net6.0\SumDigits.dll
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\SumDigits\obj\Debug\net6.0\refint\SumDigits.dll
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\SumDigits\obj\Debug\net6.0\SumDigits.pdb
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\SumDigits\obj\Debug\net6.0\SumDigits.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\SumDigits\obj\Debug\net6.0\ref\SumDigits.dll
