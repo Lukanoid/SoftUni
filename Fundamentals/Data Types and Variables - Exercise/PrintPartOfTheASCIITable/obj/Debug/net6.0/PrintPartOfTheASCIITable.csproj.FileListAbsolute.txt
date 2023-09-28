@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\PrintPartOfTheASCIITable\bin\Debug\net6.0\PrintPartOfTheASCIITable.exe
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\PrintPartOfTheASCIITable\bin\Debug\net6.0\PrintPartOfTheASCIITable.deps.json
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\PrintPartOfTheASCIITable\bin\Debug\net6.0\PrintPartOfTheASCIITable.runtimeconfig.json
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\PrintPartOfTheASCIITable\bin\Debug\net6.0\PrintPartOfTheASCIITable.dll
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\PrintPartOfTheASCIITable\bin\Debug\net6.0\PrintPartOfTheASCIITable.pdb
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\PrintPartOfTheASCIITable\obj\Debug\net6.0\PrintPartOfTheASCIITable.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\PrintPartOfTheASCIITable\obj\Debug\net6.0\PrintPartOfTheASCIITable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\PrintPartOfTheASCIITable\obj\Debug\net6.0\PrintPartOfTheASCIITable.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\PrintPartOfTheASCIITable\obj\Debug\net6.0\PrintPartOfTheASCIITable.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\PrintPartOfTheASCIITable\obj\Debug\net6.0\PrintPartOfTheASCIITable.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\PrintPartOfTheASCIITable\obj\Debug\net6.0\PrintPartOfTheASCIITable.dll
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\PrintPartOfTheASCIITable\obj\Debug\net6.0\refint\PrintPartOfTheASCIITable.dll
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\PrintPartOfTheASCIITable\obj\Debug\net6.0\PrintPartOfTheASCIITable.pdb
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\PrintPartOfTheASCIITable\obj\Debug\net6.0\PrintPartOfTheASCIITable.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\PrintPartOfTheASCIITable\obj\Debug\net6.0\ref\PrintPartOfTheASCIITable.dll

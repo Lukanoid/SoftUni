@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\BeerKegs\obj\Debug\net6.0\BeerKegs.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\BeerKegs\obj\Debug\net6.0\BeerKegs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\BeerKegs\obj\Debug\net6.0\BeerKegs.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\BeerKegs\obj\Debug\net6.0\BeerKegs.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\BeerKegs\obj\Debug\net6.0\BeerKegs.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\BeerKegs\bin\Debug\net6.0\BeerKegs.exe
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\BeerKegs\bin\Debug\net6.0\BeerKegs.deps.json
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\BeerKegs\bin\Debug\net6.0\BeerKegs.runtimeconfig.json
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\BeerKegs\bin\Debug\net6.0\BeerKegs.dll
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\BeerKegs\bin\Debug\net6.0\BeerKegs.pdb
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\BeerKegs\obj\Debug\net6.0\BeerKegs.dll
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\BeerKegs\obj\Debug\net6.0\refint\BeerKegs.dll
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\BeerKegs\obj\Debug\net6.0\BeerKegs.pdb
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\BeerKegs\obj\Debug\net6.0\BeerKegs.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\BeerKegs\obj\Debug\net6.0\ref\BeerKegs.dll

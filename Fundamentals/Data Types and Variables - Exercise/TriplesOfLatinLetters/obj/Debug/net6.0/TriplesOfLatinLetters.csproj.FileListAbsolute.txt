@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\TriplesOfLatinLetters\bin\Debug\net6.0\TriplesOfLatinLetters.exe
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\TriplesOfLatinLetters\bin\Debug\net6.0\TriplesOfLatinLetters.deps.json
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\TriplesOfLatinLetters\bin\Debug\net6.0\TriplesOfLatinLetters.runtimeconfig.json
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\TriplesOfLatinLetters\bin\Debug\net6.0\TriplesOfLatinLetters.dll
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\TriplesOfLatinLetters\bin\Debug\net6.0\TriplesOfLatinLetters.pdb
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\TriplesOfLatinLetters\obj\Debug\net6.0\TriplesOfLatinLetters.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\TriplesOfLatinLetters\obj\Debug\net6.0\TriplesOfLatinLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\TriplesOfLatinLetters\obj\Debug\net6.0\TriplesOfLatinLetters.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\TriplesOfLatinLetters\obj\Debug\net6.0\TriplesOfLatinLetters.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\TriplesOfLatinLetters\obj\Debug\net6.0\TriplesOfLatinLetters.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\TriplesOfLatinLetters\obj\Debug\net6.0\TriplesOfLatinLetters.dll
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\TriplesOfLatinLetters\obj\Debug\net6.0\refint\TriplesOfLatinLetters.dll
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\TriplesOfLatinLetters\obj\Debug\net6.0\TriplesOfLatinLetters.pdb
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\TriplesOfLatinLetters\obj\Debug\net6.0\TriplesOfLatinLetters.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\TriplesOfLatinLetters\obj\Debug\net6.0\ref\TriplesOfLatinLetters.dll

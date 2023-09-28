@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\SumOfChars\bin\Debug\net6.0\SumOfChars.exe
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\SumOfChars\bin\Debug\net6.0\SumOfChars.deps.json
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\SumOfChars\bin\Debug\net6.0\SumOfChars.runtimeconfig.json
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\SumOfChars\bin\Debug\net6.0\SumOfChars.dll
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\SumOfChars\bin\Debug\net6.0\SumOfChars.pdb
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\SumOfChars\obj\Debug\net6.0\SumOfChars.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\SumOfChars\obj\Debug\net6.0\SumOfChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\SumOfChars\obj\Debug\net6.0\SumOfChars.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\SumOfChars\obj\Debug\net6.0\SumOfChars.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\SumOfChars\obj\Debug\net6.0\SumOfChars.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\SumOfChars\obj\Debug\net6.0\SumOfChars.dll
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\SumOfChars\obj\Debug\net6.0\refint\SumOfChars.dll
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\SumOfChars\obj\Debug\net6.0\SumOfChars.pdb
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\SumOfChars\obj\Debug\net6.0\SumOfChars.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\SumOfChars\obj\Debug\net6.0\ref\SumOfChars.dll

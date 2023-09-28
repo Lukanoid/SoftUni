@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\WaterOverflow\bin\Debug\net6.0\WaterOverflow.exe
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\WaterOverflow\bin\Debug\net6.0\WaterOverflow.deps.json
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\WaterOverflow\bin\Debug\net6.0\WaterOverflow.runtimeconfig.json
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\WaterOverflow\bin\Debug\net6.0\WaterOverflow.dll
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\WaterOverflow\bin\Debug\net6.0\WaterOverflow.pdb
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\WaterOverflow\obj\Debug\net6.0\WaterOverflow.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\WaterOverflow\obj\Debug\net6.0\WaterOverflow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\WaterOverflow\obj\Debug\net6.0\WaterOverflow.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\WaterOverflow\obj\Debug\net6.0\WaterOverflow.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\WaterOverflow\obj\Debug\net6.0\WaterOverflow.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\WaterOverflow\obj\Debug\net6.0\WaterOverflow.dll
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\WaterOverflow\obj\Debug\net6.0\refint\WaterOverflow.dll
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\WaterOverflow\obj\Debug\net6.0\WaterOverflow.pdb
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\WaterOverflow\obj\Debug\net6.0\WaterOverflow.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\WaterOverflow\obj\Debug\net6.0\ref\WaterOverflow.dll
