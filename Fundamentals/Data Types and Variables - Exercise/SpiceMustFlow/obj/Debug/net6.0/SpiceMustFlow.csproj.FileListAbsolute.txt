@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\SpiceMustFlow\bin\Debug\net6.0\SpiceMustFlow.exe
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\SpiceMustFlow\bin\Debug\net6.0\SpiceMustFlow.deps.json
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\SpiceMustFlow\bin\Debug\net6.0\SpiceMustFlow.runtimeconfig.json
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\SpiceMustFlow\bin\Debug\net6.0\SpiceMustFlow.dll
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\SpiceMustFlow\bin\Debug\net6.0\SpiceMustFlow.pdb
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\SpiceMustFlow\obj\Debug\net6.0\SpiceMustFlow.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\SpiceMustFlow\obj\Debug\net6.0\SpiceMustFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\SpiceMustFlow\obj\Debug\net6.0\SpiceMustFlow.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\SpiceMustFlow\obj\Debug\net6.0\SpiceMustFlow.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\SpiceMustFlow\obj\Debug\net6.0\SpiceMustFlow.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\SpiceMustFlow\obj\Debug\net6.0\SpiceMustFlow.dll
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\SpiceMustFlow\obj\Debug\net6.0\refint\SpiceMustFlow.dll
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\SpiceMustFlow\obj\Debug\net6.0\SpiceMustFlow.pdb
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\SpiceMustFlow\obj\Debug\net6.0\SpiceMustFlow.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\SpiceMustFlow\obj\Debug\net6.0\ref\SpiceMustFlow.dll

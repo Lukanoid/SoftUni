@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\Snowballs\bin\Debug\net6.0\Snowballs.exe
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\Snowballs\bin\Debug\net6.0\Snowballs.deps.json
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\Snowballs\bin\Debug\net6.0\Snowballs.runtimeconfig.json
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\Snowballs\bin\Debug\net6.0\Snowballs.dll
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\Snowballs\bin\Debug\net6.0\Snowballs.pdb
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\Snowballs\obj\Debug\net6.0\Snowballs.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\Snowballs\obj\Debug\net6.0\Snowballs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\Snowballs\obj\Debug\net6.0\Snowballs.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\Snowballs\obj\Debug\net6.0\Snowballs.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\Snowballs\obj\Debug\net6.0\Snowballs.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\Snowballs\obj\Debug\net6.0\Snowballs.dll
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\Snowballs\obj\Debug\net6.0\refint\Snowballs.dll
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\Snowballs\obj\Debug\net6.0\Snowballs.pdb
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\Snowballs\obj\Debug\net6.0\Snowballs.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\DataTypesAndVariables-Exercise\Snowballs\obj\Debug\net6.0\ref\Snowballs.dll
