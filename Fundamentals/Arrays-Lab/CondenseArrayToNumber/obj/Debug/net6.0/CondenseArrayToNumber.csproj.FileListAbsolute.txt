@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\Arrays-Lab\CondenseArrayToNumber\bin\Debug\net6.0\CondenseArrayToNumber.exe
+C:\Users\GRIGS\source\repos\Arrays-Lab\CondenseArrayToNumber\bin\Debug\net6.0\CondenseArrayToNumber.deps.json
+C:\Users\GRIGS\source\repos\Arrays-Lab\CondenseArrayToNumber\bin\Debug\net6.0\CondenseArrayToNumber.runtimeconfig.json
+C:\Users\GRIGS\source\repos\Arrays-Lab\CondenseArrayToNumber\bin\Debug\net6.0\CondenseArrayToNumber.dll
+C:\Users\GRIGS\source\repos\Arrays-Lab\CondenseArrayToNumber\bin\Debug\net6.0\CondenseArrayToNumber.pdb
+C:\Users\GRIGS\source\repos\Arrays-Lab\CondenseArrayToNumber\obj\Debug\net6.0\CondenseArrayToNumber.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\Arrays-Lab\CondenseArrayToNumber\obj\Debug\net6.0\CondenseArrayToNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\Arrays-Lab\CondenseArrayToNumber\obj\Debug\net6.0\CondenseArrayToNumber.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\Arrays-Lab\CondenseArrayToNumber\obj\Debug\net6.0\CondenseArrayToNumber.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\Arrays-Lab\CondenseArrayToNumber\obj\Debug\net6.0\CondenseArrayToNumber.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\Arrays-Lab\CondenseArrayToNumber\obj\Debug\net6.0\CondenseArrayToNumber.dll
+C:\Users\GRIGS\source\repos\Arrays-Lab\CondenseArrayToNumber\obj\Debug\net6.0\refint\CondenseArrayToNumber.dll
+C:\Users\GRIGS\source\repos\Arrays-Lab\CondenseArrayToNumber\obj\Debug\net6.0\CondenseArrayToNumber.pdb
+C:\Users\GRIGS\source\repos\Arrays-Lab\CondenseArrayToNumber\obj\Debug\net6.0\CondenseArrayToNumber.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\Arrays-Lab\CondenseArrayToNumber\obj\Debug\net6.0\ref\CondenseArrayToNumber.dll

@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\Arrays-Lab\EqualArrays\bin\Debug\net6.0\EqualArrays.exe
+C:\Users\GRIGS\source\repos\Arrays-Lab\EqualArrays\bin\Debug\net6.0\EqualArrays.deps.json
+C:\Users\GRIGS\source\repos\Arrays-Lab\EqualArrays\bin\Debug\net6.0\EqualArrays.runtimeconfig.json
+C:\Users\GRIGS\source\repos\Arrays-Lab\EqualArrays\bin\Debug\net6.0\EqualArrays.dll
+C:\Users\GRIGS\source\repos\Arrays-Lab\EqualArrays\bin\Debug\net6.0\EqualArrays.pdb
+C:\Users\GRIGS\source\repos\Arrays-Lab\EqualArrays\obj\Debug\net6.0\EqualArrays.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\Arrays-Lab\EqualArrays\obj\Debug\net6.0\EqualArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\Arrays-Lab\EqualArrays\obj\Debug\net6.0\EqualArrays.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\Arrays-Lab\EqualArrays\obj\Debug\net6.0\EqualArrays.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\Arrays-Lab\EqualArrays\obj\Debug\net6.0\EqualArrays.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\Arrays-Lab\EqualArrays\obj\Debug\net6.0\EqualArrays.dll
+C:\Users\GRIGS\source\repos\Arrays-Lab\EqualArrays\obj\Debug\net6.0\refint\EqualArrays.dll
+C:\Users\GRIGS\source\repos\Arrays-Lab\EqualArrays\obj\Debug\net6.0\EqualArrays.pdb
+C:\Users\GRIGS\source\repos\Arrays-Lab\EqualArrays\obj\Debug\net6.0\EqualArrays.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\Arrays-Lab\EqualArrays\obj\Debug\net6.0\ref\EqualArrays.dll

@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\Arrays-Lab\ReverseArrayOfStrings\bin\Debug\net6.0\ReverseArrayOfStrings.exe
+C:\Users\GRIGS\source\repos\Arrays-Lab\ReverseArrayOfStrings\bin\Debug\net6.0\ReverseArrayOfStrings.deps.json
+C:\Users\GRIGS\source\repos\Arrays-Lab\ReverseArrayOfStrings\bin\Debug\net6.0\ReverseArrayOfStrings.runtimeconfig.json
+C:\Users\GRIGS\source\repos\Arrays-Lab\ReverseArrayOfStrings\bin\Debug\net6.0\ReverseArrayOfStrings.dll
+C:\Users\GRIGS\source\repos\Arrays-Lab\ReverseArrayOfStrings\bin\Debug\net6.0\ReverseArrayOfStrings.pdb
+C:\Users\GRIGS\source\repos\Arrays-Lab\ReverseArrayOfStrings\obj\Debug\net6.0\ReverseArrayOfStrings.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\Arrays-Lab\ReverseArrayOfStrings\obj\Debug\net6.0\ReverseArrayOfStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\Arrays-Lab\ReverseArrayOfStrings\obj\Debug\net6.0\ReverseArrayOfStrings.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\Arrays-Lab\ReverseArrayOfStrings\obj\Debug\net6.0\ReverseArrayOfStrings.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\Arrays-Lab\ReverseArrayOfStrings\obj\Debug\net6.0\ReverseArrayOfStrings.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\Arrays-Lab\ReverseArrayOfStrings\obj\Debug\net6.0\ReverseArrayOfStrings.dll
+C:\Users\GRIGS\source\repos\Arrays-Lab\ReverseArrayOfStrings\obj\Debug\net6.0\refint\ReverseArrayOfStrings.dll
+C:\Users\GRIGS\source\repos\Arrays-Lab\ReverseArrayOfStrings\obj\Debug\net6.0\ReverseArrayOfStrings.pdb
+C:\Users\GRIGS\source\repos\Arrays-Lab\ReverseArrayOfStrings\obj\Debug\net6.0\ReverseArrayOfStrings.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\Arrays-Lab\ReverseArrayOfStrings\obj\Debug\net6.0\ref\ReverseArrayOfStrings.dll

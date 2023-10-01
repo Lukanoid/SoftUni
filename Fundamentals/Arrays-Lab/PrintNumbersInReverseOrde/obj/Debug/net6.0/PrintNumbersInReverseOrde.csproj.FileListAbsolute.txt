@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\Arrays-Lab\PrintNumbersInReverseOrde\bin\Debug\net6.0\PrintNumbersInReverseOrde.exe
+C:\Users\GRIGS\source\repos\Arrays-Lab\PrintNumbersInReverseOrde\bin\Debug\net6.0\PrintNumbersInReverseOrde.deps.json
+C:\Users\GRIGS\source\repos\Arrays-Lab\PrintNumbersInReverseOrde\bin\Debug\net6.0\PrintNumbersInReverseOrde.runtimeconfig.json
+C:\Users\GRIGS\source\repos\Arrays-Lab\PrintNumbersInReverseOrde\bin\Debug\net6.0\PrintNumbersInReverseOrde.dll
+C:\Users\GRIGS\source\repos\Arrays-Lab\PrintNumbersInReverseOrde\bin\Debug\net6.0\PrintNumbersInReverseOrde.pdb
+C:\Users\GRIGS\source\repos\Arrays-Lab\PrintNumbersInReverseOrde\obj\Debug\net6.0\PrintNumbersInReverseOrde.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\Arrays-Lab\PrintNumbersInReverseOrde\obj\Debug\net6.0\PrintNumbersInReverseOrde.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\Arrays-Lab\PrintNumbersInReverseOrde\obj\Debug\net6.0\PrintNumbersInReverseOrde.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\Arrays-Lab\PrintNumbersInReverseOrde\obj\Debug\net6.0\PrintNumbersInReverseOrde.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\Arrays-Lab\PrintNumbersInReverseOrde\obj\Debug\net6.0\PrintNumbersInReverseOrde.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\Arrays-Lab\PrintNumbersInReverseOrde\obj\Debug\net6.0\PrintNumbersInReverseOrde.dll
+C:\Users\GRIGS\source\repos\Arrays-Lab\PrintNumbersInReverseOrde\obj\Debug\net6.0\refint\PrintNumbersInReverseOrde.dll
+C:\Users\GRIGS\source\repos\Arrays-Lab\PrintNumbersInReverseOrde\obj\Debug\net6.0\PrintNumbersInReverseOrde.pdb
+C:\Users\GRIGS\source\repos\Arrays-Lab\PrintNumbersInReverseOrde\obj\Debug\net6.0\PrintNumbersInReverseOrde.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\Arrays-Lab\PrintNumbersInReverseOrde\obj\Debug\net6.0\ref\PrintNumbersInReverseOrde.dll

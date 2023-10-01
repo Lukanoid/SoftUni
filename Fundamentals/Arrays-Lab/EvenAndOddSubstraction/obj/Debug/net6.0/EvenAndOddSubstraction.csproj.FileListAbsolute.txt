@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\Arrays-Lab\EvenAndOddSubstraction\bin\Debug\net6.0\EvenAndOddSubstraction.exe
+C:\Users\GRIGS\source\repos\Arrays-Lab\EvenAndOddSubstraction\bin\Debug\net6.0\EvenAndOddSubstraction.deps.json
+C:\Users\GRIGS\source\repos\Arrays-Lab\EvenAndOddSubstraction\bin\Debug\net6.0\EvenAndOddSubstraction.runtimeconfig.json
+C:\Users\GRIGS\source\repos\Arrays-Lab\EvenAndOddSubstraction\bin\Debug\net6.0\EvenAndOddSubstraction.dll
+C:\Users\GRIGS\source\repos\Arrays-Lab\EvenAndOddSubstraction\bin\Debug\net6.0\EvenAndOddSubstraction.pdb
+C:\Users\GRIGS\source\repos\Arrays-Lab\EvenAndOddSubstraction\obj\Debug\net6.0\EvenAndOddSubstraction.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\Arrays-Lab\EvenAndOddSubstraction\obj\Debug\net6.0\EvenAndOddSubstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\Arrays-Lab\EvenAndOddSubstraction\obj\Debug\net6.0\EvenAndOddSubstraction.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\Arrays-Lab\EvenAndOddSubstraction\obj\Debug\net6.0\EvenAndOddSubstraction.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\Arrays-Lab\EvenAndOddSubstraction\obj\Debug\net6.0\EvenAndOddSubstraction.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\Arrays-Lab\EvenAndOddSubstraction\obj\Debug\net6.0\EvenAndOddSubstraction.dll
+C:\Users\GRIGS\source\repos\Arrays-Lab\EvenAndOddSubstraction\obj\Debug\net6.0\refint\EvenAndOddSubstraction.dll
+C:\Users\GRIGS\source\repos\Arrays-Lab\EvenAndOddSubstraction\obj\Debug\net6.0\EvenAndOddSubstraction.pdb
+C:\Users\GRIGS\source\repos\Arrays-Lab\EvenAndOddSubstraction\obj\Debug\net6.0\EvenAndOddSubstraction.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\Arrays-Lab\EvenAndOddSubstraction\obj\Debug\net6.0\ref\EvenAndOddSubstraction.dll
