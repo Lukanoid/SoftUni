@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\Arrays-Exercise\MagicSum\bin\Debug\net6.0\MagicSum.exe
+C:\Users\GRIGS\source\repos\Arrays-Exercise\MagicSum\bin\Debug\net6.0\MagicSum.deps.json
+C:\Users\GRIGS\source\repos\Arrays-Exercise\MagicSum\bin\Debug\net6.0\MagicSum.runtimeconfig.json
+C:\Users\GRIGS\source\repos\Arrays-Exercise\MagicSum\bin\Debug\net6.0\MagicSum.dll
+C:\Users\GRIGS\source\repos\Arrays-Exercise\MagicSum\bin\Debug\net6.0\MagicSum.pdb
+C:\Users\GRIGS\source\repos\Arrays-Exercise\MagicSum\obj\Debug\net6.0\MagicSum.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\Arrays-Exercise\MagicSum\obj\Debug\net6.0\MagicSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\Arrays-Exercise\MagicSum\obj\Debug\net6.0\MagicSum.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\Arrays-Exercise\MagicSum\obj\Debug\net6.0\MagicSum.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\Arrays-Exercise\MagicSum\obj\Debug\net6.0\MagicSum.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\Arrays-Exercise\MagicSum\obj\Debug\net6.0\MagicSum.dll
+C:\Users\GRIGS\source\repos\Arrays-Exercise\MagicSum\obj\Debug\net6.0\refint\MagicSum.dll
+C:\Users\GRIGS\source\repos\Arrays-Exercise\MagicSum\obj\Debug\net6.0\MagicSum.pdb
+C:\Users\GRIGS\source\repos\Arrays-Exercise\MagicSum\obj\Debug\net6.0\MagicSum.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\Arrays-Exercise\MagicSum\obj\Debug\net6.0\ref\MagicSum.dll

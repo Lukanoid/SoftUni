@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\Arrays-Exercise\CommonElements\bin\Debug\net6.0\CommonElements.exe
+C:\Users\GRIGS\source\repos\Arrays-Exercise\CommonElements\bin\Debug\net6.0\CommonElements.deps.json
+C:\Users\GRIGS\source\repos\Arrays-Exercise\CommonElements\bin\Debug\net6.0\CommonElements.runtimeconfig.json
+C:\Users\GRIGS\source\repos\Arrays-Exercise\CommonElements\bin\Debug\net6.0\CommonElements.dll
+C:\Users\GRIGS\source\repos\Arrays-Exercise\CommonElements\bin\Debug\net6.0\CommonElements.pdb
+C:\Users\GRIGS\source\repos\Arrays-Exercise\CommonElements\obj\Debug\net6.0\CommonElements.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\Arrays-Exercise\CommonElements\obj\Debug\net6.0\CommonElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\Arrays-Exercise\CommonElements\obj\Debug\net6.0\CommonElements.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\Arrays-Exercise\CommonElements\obj\Debug\net6.0\CommonElements.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\Arrays-Exercise\CommonElements\obj\Debug\net6.0\CommonElements.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\Arrays-Exercise\CommonElements\obj\Debug\net6.0\CommonElements.dll
+C:\Users\GRIGS\source\repos\Arrays-Exercise\CommonElements\obj\Debug\net6.0\refint\CommonElements.dll
+C:\Users\GRIGS\source\repos\Arrays-Exercise\CommonElements\obj\Debug\net6.0\CommonElements.pdb
+C:\Users\GRIGS\source\repos\Arrays-Exercise\CommonElements\obj\Debug\net6.0\CommonElements.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\Arrays-Exercise\CommonElements\obj\Debug\net6.0\ref\CommonElements.dll

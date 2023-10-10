@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\Arrays-Exercise\MaxSequenceOfEqualElements\bin\Debug\net6.0\MaxSequenceOfEqualElements.exe
+C:\Users\GRIGS\source\repos\Arrays-Exercise\MaxSequenceOfEqualElements\bin\Debug\net6.0\MaxSequenceOfEqualElements.deps.json
+C:\Users\GRIGS\source\repos\Arrays-Exercise\MaxSequenceOfEqualElements\bin\Debug\net6.0\MaxSequenceOfEqualElements.runtimeconfig.json
+C:\Users\GRIGS\source\repos\Arrays-Exercise\MaxSequenceOfEqualElements\bin\Debug\net6.0\MaxSequenceOfEqualElements.dll
+C:\Users\GRIGS\source\repos\Arrays-Exercise\MaxSequenceOfEqualElements\bin\Debug\net6.0\MaxSequenceOfEqualElements.pdb
+C:\Users\GRIGS\source\repos\Arrays-Exercise\MaxSequenceOfEqualElements\obj\Debug\net6.0\MaxSequenceOfEqualElements.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\Arrays-Exercise\MaxSequenceOfEqualElements\obj\Debug\net6.0\MaxSequenceOfEqualElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\Arrays-Exercise\MaxSequenceOfEqualElements\obj\Debug\net6.0\MaxSequenceOfEqualElements.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\Arrays-Exercise\MaxSequenceOfEqualElements\obj\Debug\net6.0\MaxSequenceOfEqualElements.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\Arrays-Exercise\MaxSequenceOfEqualElements\obj\Debug\net6.0\MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\Arrays-Exercise\MaxSequenceOfEqualElements\obj\Debug\net6.0\MaxSequenceOfEqualElements.dll
+C:\Users\GRIGS\source\repos\Arrays-Exercise\MaxSequenceOfEqualElements\obj\Debug\net6.0\refint\MaxSequenceOfEqualElements.dll
+C:\Users\GRIGS\source\repos\Arrays-Exercise\MaxSequenceOfEqualElements\obj\Debug\net6.0\MaxSequenceOfEqualElements.pdb
+C:\Users\GRIGS\source\repos\Arrays-Exercise\MaxSequenceOfEqualElements\obj\Debug\net6.0\MaxSequenceOfEqualElements.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\Arrays-Exercise\MaxSequenceOfEqualElements\obj\Debug\net6.0\ref\MaxSequenceOfEqualElements.dll

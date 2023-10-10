@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\Arrays-Exercise\ArrayRotation\bin\Debug\net6.0\ArrayRotation.exe
+C:\Users\GRIGS\source\repos\Arrays-Exercise\ArrayRotation\bin\Debug\net6.0\ArrayRotation.deps.json
+C:\Users\GRIGS\source\repos\Arrays-Exercise\ArrayRotation\bin\Debug\net6.0\ArrayRotation.runtimeconfig.json
+C:\Users\GRIGS\source\repos\Arrays-Exercise\ArrayRotation\bin\Debug\net6.0\ArrayRotation.dll
+C:\Users\GRIGS\source\repos\Arrays-Exercise\ArrayRotation\bin\Debug\net6.0\ArrayRotation.pdb
+C:\Users\GRIGS\source\repos\Arrays-Exercise\ArrayRotation\obj\Debug\net6.0\ArrayRotation.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\Arrays-Exercise\ArrayRotation\obj\Debug\net6.0\ArrayRotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\Arrays-Exercise\ArrayRotation\obj\Debug\net6.0\ArrayRotation.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\Arrays-Exercise\ArrayRotation\obj\Debug\net6.0\ArrayRotation.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\Arrays-Exercise\ArrayRotation\obj\Debug\net6.0\ArrayRotation.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\Arrays-Exercise\ArrayRotation\obj\Debug\net6.0\ArrayRotation.dll
+C:\Users\GRIGS\source\repos\Arrays-Exercise\ArrayRotation\obj\Debug\net6.0\refint\ArrayRotation.dll
+C:\Users\GRIGS\source\repos\Arrays-Exercise\ArrayRotation\obj\Debug\net6.0\ArrayRotation.pdb
+C:\Users\GRIGS\source\repos\Arrays-Exercise\ArrayRotation\obj\Debug\net6.0\ArrayRotation.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\Arrays-Exercise\ArrayRotation\obj\Debug\net6.0\ref\ArrayRotation.dll

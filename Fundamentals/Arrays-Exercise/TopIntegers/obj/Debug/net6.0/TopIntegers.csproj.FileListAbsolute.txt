@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\Arrays-Exercise\TopIntegers\bin\Debug\net6.0\TopIntegers.exe
+C:\Users\GRIGS\source\repos\Arrays-Exercise\TopIntegers\bin\Debug\net6.0\TopIntegers.deps.json
+C:\Users\GRIGS\source\repos\Arrays-Exercise\TopIntegers\bin\Debug\net6.0\TopIntegers.runtimeconfig.json
+C:\Users\GRIGS\source\repos\Arrays-Exercise\TopIntegers\bin\Debug\net6.0\TopIntegers.dll
+C:\Users\GRIGS\source\repos\Arrays-Exercise\TopIntegers\bin\Debug\net6.0\TopIntegers.pdb
+C:\Users\GRIGS\source\repos\Arrays-Exercise\TopIntegers\obj\Debug\net6.0\TopIntegers.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\Arrays-Exercise\TopIntegers\obj\Debug\net6.0\TopIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\Arrays-Exercise\TopIntegers\obj\Debug\net6.0\TopIntegers.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\Arrays-Exercise\TopIntegers\obj\Debug\net6.0\TopIntegers.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\Arrays-Exercise\TopIntegers\obj\Debug\net6.0\TopIntegers.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\Arrays-Exercise\TopIntegers\obj\Debug\net6.0\TopIntegers.dll
+C:\Users\GRIGS\source\repos\Arrays-Exercise\TopIntegers\obj\Debug\net6.0\refint\TopIntegers.dll
+C:\Users\GRIGS\source\repos\Arrays-Exercise\TopIntegers\obj\Debug\net6.0\TopIntegers.pdb
+C:\Users\GRIGS\source\repos\Arrays-Exercise\TopIntegers\obj\Debug\net6.0\TopIntegers.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\Arrays-Exercise\TopIntegers\obj\Debug\net6.0\ref\TopIntegers.dll

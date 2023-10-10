@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\Arrays-Exercise\ZigZagArrays\bin\Debug\net6.0\ZigZagArrays.exe
+C:\Users\GRIGS\source\repos\Arrays-Exercise\ZigZagArrays\bin\Debug\net6.0\ZigZagArrays.deps.json
+C:\Users\GRIGS\source\repos\Arrays-Exercise\ZigZagArrays\bin\Debug\net6.0\ZigZagArrays.runtimeconfig.json
+C:\Users\GRIGS\source\repos\Arrays-Exercise\ZigZagArrays\bin\Debug\net6.0\ZigZagArrays.dll
+C:\Users\GRIGS\source\repos\Arrays-Exercise\ZigZagArrays\bin\Debug\net6.0\ZigZagArrays.pdb
+C:\Users\GRIGS\source\repos\Arrays-Exercise\ZigZagArrays\obj\Debug\net6.0\ZigZagArrays.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\Arrays-Exercise\ZigZagArrays\obj\Debug\net6.0\ZigZagArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\Arrays-Exercise\ZigZagArrays\obj\Debug\net6.0\ZigZagArrays.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\Arrays-Exercise\ZigZagArrays\obj\Debug\net6.0\ZigZagArrays.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\Arrays-Exercise\ZigZagArrays\obj\Debug\net6.0\ZigZagArrays.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\Arrays-Exercise\ZigZagArrays\obj\Debug\net6.0\ZigZagArrays.dll
+C:\Users\GRIGS\source\repos\Arrays-Exercise\ZigZagArrays\obj\Debug\net6.0\refint\ZigZagArrays.dll
+C:\Users\GRIGS\source\repos\Arrays-Exercise\ZigZagArrays\obj\Debug\net6.0\ZigZagArrays.pdb
+C:\Users\GRIGS\source\repos\Arrays-Exercise\ZigZagArrays\obj\Debug\net6.0\ZigZagArrays.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\Arrays-Exercise\ZigZagArrays\obj\Debug\net6.0\ref\ZigZagArrays.dll
