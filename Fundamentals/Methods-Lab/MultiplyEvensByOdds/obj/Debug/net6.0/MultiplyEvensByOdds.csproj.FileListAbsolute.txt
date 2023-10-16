@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\MultiplyEvensByOdds\bin\Debug\net6.0\MultiplyEvensByOdds.exe
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\MultiplyEvensByOdds\bin\Debug\net6.0\MultiplyEvensByOdds.deps.json
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\MultiplyEvensByOdds\bin\Debug\net6.0\MultiplyEvensByOdds.runtimeconfig.json
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\MultiplyEvensByOdds\bin\Debug\net6.0\MultiplyEvensByOdds.dll
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\MultiplyEvensByOdds\bin\Debug\net6.0\MultiplyEvensByOdds.pdb
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\MultiplyEvensByOdds\obj\Debug\net6.0\MultiplyEvensByOdds.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\MultiplyEvensByOdds\obj\Debug\net6.0\MultiplyEvensByOdds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\MultiplyEvensByOdds\obj\Debug\net6.0\MultiplyEvensByOdds.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\MultiplyEvensByOdds\obj\Debug\net6.0\MultiplyEvensByOdds.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\MultiplyEvensByOdds\obj\Debug\net6.0\MultiplyEvensByOdds.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\MultiplyEvensByOdds\obj\Debug\net6.0\MultiplyEvensByOdds.dll
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\MultiplyEvensByOdds\obj\Debug\net6.0\refint\MultiplyEvensByOdds.dll
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\MultiplyEvensByOdds\obj\Debug\net6.0\MultiplyEvensByOdds.pdb
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\MultiplyEvensByOdds\obj\Debug\net6.0\MultiplyEvensByOdds.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\MultiplyEvensByOdds\obj\Debug\net6.0\ref\MultiplyEvensByOdds.dll

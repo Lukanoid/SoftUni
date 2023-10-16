@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\Calculations\bin\Debug\net6.0\Calculations.exe
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\Calculations\bin\Debug\net6.0\Calculations.deps.json
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\Calculations\bin\Debug\net6.0\Calculations.runtimeconfig.json
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\Calculations\bin\Debug\net6.0\Calculations.dll
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\Calculations\bin\Debug\net6.0\Calculations.pdb
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\Calculations\obj\Debug\net6.0\Calculations.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\Calculations\obj\Debug\net6.0\Calculations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\Calculations\obj\Debug\net6.0\Calculations.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\Calculations\obj\Debug\net6.0\Calculations.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\Calculations\obj\Debug\net6.0\Calculations.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\Calculations\obj\Debug\net6.0\Calculations.dll
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\Calculations\obj\Debug\net6.0\refint\Calculations.dll
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\Calculations\obj\Debug\net6.0\Calculations.pdb
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\Calculations\obj\Debug\net6.0\Calculations.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\Calculations\obj\Debug\net6.0\ref\Calculations.dll

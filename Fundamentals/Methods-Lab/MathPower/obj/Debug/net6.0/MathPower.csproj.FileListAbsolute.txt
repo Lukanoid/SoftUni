@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\MathPower\obj\Debug\net6.0\MathPower.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\MathPower\obj\Debug\net6.0\MathPower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\MathPower\obj\Debug\net6.0\MathPower.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\MathPower\obj\Debug\net6.0\MathPower.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\MathPower\obj\Debug\net6.0\MathPower.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\MathPower\bin\Debug\net6.0\MathPower.exe
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\MathPower\bin\Debug\net6.0\MathPower.deps.json
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\MathPower\bin\Debug\net6.0\MathPower.runtimeconfig.json
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\MathPower\bin\Debug\net6.0\MathPower.dll
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\MathPower\bin\Debug\net6.0\MathPower.pdb
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\MathPower\obj\Debug\net6.0\MathPower.dll
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\MathPower\obj\Debug\net6.0\refint\MathPower.dll
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\MathPower\obj\Debug\net6.0\MathPower.pdb
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\MathPower\obj\Debug\net6.0\MathPower.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\MathPower\obj\Debug\net6.0\ref\MathPower.dll

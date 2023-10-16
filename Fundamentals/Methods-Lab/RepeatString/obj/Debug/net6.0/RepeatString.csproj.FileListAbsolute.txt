@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\RepeatString\bin\Debug\net6.0\RepeatString.exe
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\RepeatString\bin\Debug\net6.0\RepeatString.deps.json
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\RepeatString\bin\Debug\net6.0\RepeatString.runtimeconfig.json
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\RepeatString\bin\Debug\net6.0\RepeatString.dll
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\RepeatString\bin\Debug\net6.0\RepeatString.pdb
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\RepeatString\obj\Debug\net6.0\RepeatString.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\RepeatString\obj\Debug\net6.0\RepeatString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\RepeatString\obj\Debug\net6.0\RepeatString.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\RepeatString\obj\Debug\net6.0\RepeatString.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\RepeatString\obj\Debug\net6.0\RepeatString.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\RepeatString\obj\Debug\net6.0\RepeatString.dll
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\RepeatString\obj\Debug\net6.0\refint\RepeatString.dll
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\RepeatString\obj\Debug\net6.0\RepeatString.pdb
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\RepeatString\obj\Debug\net6.0\RepeatString.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\RepeatString\obj\Debug\net6.0\ref\RepeatString.dll

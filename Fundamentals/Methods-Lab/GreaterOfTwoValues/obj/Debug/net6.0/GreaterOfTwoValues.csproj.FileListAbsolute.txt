@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\GreaterOfTwoValues\bin\Debug\net6.0\GreaterOfTwoValues.exe
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\GreaterOfTwoValues\bin\Debug\net6.0\GreaterOfTwoValues.deps.json
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\GreaterOfTwoValues\bin\Debug\net6.0\GreaterOfTwoValues.runtimeconfig.json
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\GreaterOfTwoValues\bin\Debug\net6.0\GreaterOfTwoValues.dll
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\GreaterOfTwoValues\bin\Debug\net6.0\GreaterOfTwoValues.pdb
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\GreaterOfTwoValues\obj\Debug\net6.0\GreaterOfTwoValues.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\GreaterOfTwoValues\obj\Debug\net6.0\GreaterOfTwoValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\GreaterOfTwoValues\obj\Debug\net6.0\GreaterOfTwoValues.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\GreaterOfTwoValues\obj\Debug\net6.0\GreaterOfTwoValues.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\GreaterOfTwoValues\obj\Debug\net6.0\GreaterOfTwoValues.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\GreaterOfTwoValues\obj\Debug\net6.0\GreaterOfTwoValues.dll
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\GreaterOfTwoValues\obj\Debug\net6.0\refint\GreaterOfTwoValues.dll
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\GreaterOfTwoValues\obj\Debug\net6.0\GreaterOfTwoValues.pdb
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\GreaterOfTwoValues\obj\Debug\net6.0\GreaterOfTwoValues.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\GreaterOfTwoValues\obj\Debug\net6.0\ref\GreaterOfTwoValues.dll

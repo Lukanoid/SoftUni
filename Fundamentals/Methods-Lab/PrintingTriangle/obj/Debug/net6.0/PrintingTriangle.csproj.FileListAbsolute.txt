@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\PrintingTriangle\bin\Debug\net6.0\PrintingTriangle.exe
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\PrintingTriangle\bin\Debug\net6.0\PrintingTriangle.deps.json
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\PrintingTriangle\bin\Debug\net6.0\PrintingTriangle.runtimeconfig.json
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\PrintingTriangle\bin\Debug\net6.0\PrintingTriangle.dll
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\PrintingTriangle\bin\Debug\net6.0\PrintingTriangle.pdb
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\PrintingTriangle\obj\Debug\net6.0\PrintingTriangle.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\PrintingTriangle\obj\Debug\net6.0\PrintingTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\PrintingTriangle\obj\Debug\net6.0\PrintingTriangle.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\PrintingTriangle\obj\Debug\net6.0\PrintingTriangle.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\PrintingTriangle\obj\Debug\net6.0\PrintingTriangle.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\PrintingTriangle\obj\Debug\net6.0\PrintingTriangle.dll
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\PrintingTriangle\obj\Debug\net6.0\refint\PrintingTriangle.dll
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\PrintingTriangle\obj\Debug\net6.0\PrintingTriangle.pdb
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\PrintingTriangle\obj\Debug\net6.0\PrintingTriangle.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\PrintingTriangle\obj\Debug\net6.0\ref\PrintingTriangle.dll

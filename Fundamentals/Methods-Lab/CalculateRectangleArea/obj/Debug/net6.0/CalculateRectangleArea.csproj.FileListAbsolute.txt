@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\CalculateRectangleArea\bin\Debug\net6.0\CalculateRectangleArea.exe
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\CalculateRectangleArea\bin\Debug\net6.0\CalculateRectangleArea.deps.json
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\CalculateRectangleArea\bin\Debug\net6.0\CalculateRectangleArea.runtimeconfig.json
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\CalculateRectangleArea\bin\Debug\net6.0\CalculateRectangleArea.dll
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\CalculateRectangleArea\bin\Debug\net6.0\CalculateRectangleArea.pdb
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\CalculateRectangleArea\obj\Debug\net6.0\CalculateRectangleArea.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\CalculateRectangleArea\obj\Debug\net6.0\CalculateRectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\CalculateRectangleArea\obj\Debug\net6.0\CalculateRectangleArea.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\CalculateRectangleArea\obj\Debug\net6.0\CalculateRectangleArea.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\CalculateRectangleArea\obj\Debug\net6.0\CalculateRectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\CalculateRectangleArea\obj\Debug\net6.0\CalculateRectangleArea.dll
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\CalculateRectangleArea\obj\Debug\net6.0\refint\CalculateRectangleArea.dll
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\CalculateRectangleArea\obj\Debug\net6.0\CalculateRectangleArea.pdb
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\CalculateRectangleArea\obj\Debug\net6.0\CalculateRectangleArea.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\SignOfIntegerNumbers\CalculateRectangleArea\obj\Debug\net6.0\ref\CalculateRectangleArea.dll
