@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\Methods-Exercise\TopNumber\bin\Debug\net6.0\TopNumber.exe
+C:\Users\GRIGS\source\repos\Methods-Exercise\TopNumber\bin\Debug\net6.0\TopNumber.deps.json
+C:\Users\GRIGS\source\repos\Methods-Exercise\TopNumber\bin\Debug\net6.0\TopNumber.runtimeconfig.json
+C:\Users\GRIGS\source\repos\Methods-Exercise\TopNumber\bin\Debug\net6.0\TopNumber.dll
+C:\Users\GRIGS\source\repos\Methods-Exercise\TopNumber\bin\Debug\net6.0\TopNumber.pdb
+C:\Users\GRIGS\source\repos\Methods-Exercise\TopNumber\obj\Debug\net6.0\TopNumber.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\Methods-Exercise\TopNumber\obj\Debug\net6.0\TopNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\Methods-Exercise\TopNumber\obj\Debug\net6.0\TopNumber.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\Methods-Exercise\TopNumber\obj\Debug\net6.0\TopNumber.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\Methods-Exercise\TopNumber\obj\Debug\net6.0\TopNumber.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\Methods-Exercise\TopNumber\obj\Debug\net6.0\TopNumber.dll
+C:\Users\GRIGS\source\repos\Methods-Exercise\TopNumber\obj\Debug\net6.0\refint\TopNumber.dll
+C:\Users\GRIGS\source\repos\Methods-Exercise\TopNumber\obj\Debug\net6.0\TopNumber.pdb
+C:\Users\GRIGS\source\repos\Methods-Exercise\TopNumber\obj\Debug\net6.0\TopNumber.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\Methods-Exercise\TopNumber\obj\Debug\net6.0\ref\TopNumber.dll

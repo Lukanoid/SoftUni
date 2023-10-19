@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\Methods-Exercise\NxNMatrix\bin\Debug\net6.0\NxNMatrix.exe
+C:\Users\GRIGS\source\repos\Methods-Exercise\NxNMatrix\bin\Debug\net6.0\NxNMatrix.deps.json
+C:\Users\GRIGS\source\repos\Methods-Exercise\NxNMatrix\bin\Debug\net6.0\NxNMatrix.runtimeconfig.json
+C:\Users\GRIGS\source\repos\Methods-Exercise\NxNMatrix\bin\Debug\net6.0\NxNMatrix.dll
+C:\Users\GRIGS\source\repos\Methods-Exercise\NxNMatrix\bin\Debug\net6.0\NxNMatrix.pdb
+C:\Users\GRIGS\source\repos\Methods-Exercise\NxNMatrix\obj\Debug\net6.0\NxNMatrix.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\Methods-Exercise\NxNMatrix\obj\Debug\net6.0\NxNMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\Methods-Exercise\NxNMatrix\obj\Debug\net6.0\NxNMatrix.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\Methods-Exercise\NxNMatrix\obj\Debug\net6.0\NxNMatrix.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\Methods-Exercise\NxNMatrix\obj\Debug\net6.0\NxNMatrix.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\Methods-Exercise\NxNMatrix\obj\Debug\net6.0\NxNMatrix.dll
+C:\Users\GRIGS\source\repos\Methods-Exercise\NxNMatrix\obj\Debug\net6.0\refint\NxNMatrix.dll
+C:\Users\GRIGS\source\repos\Methods-Exercise\NxNMatrix\obj\Debug\net6.0\NxNMatrix.pdb
+C:\Users\GRIGS\source\repos\Methods-Exercise\NxNMatrix\obj\Debug\net6.0\NxNMatrix.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\Methods-Exercise\NxNMatrix\obj\Debug\net6.0\ref\NxNMatrix.dll

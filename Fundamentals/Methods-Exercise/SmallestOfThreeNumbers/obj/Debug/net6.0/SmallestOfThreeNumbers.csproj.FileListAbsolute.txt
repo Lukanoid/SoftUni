@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\Methods-Exercise\SmallestOfThreeNumbers\bin\Debug\net6.0\SmallestOfThreeNumbers.exe
+C:\Users\GRIGS\source\repos\Methods-Exercise\SmallestOfThreeNumbers\bin\Debug\net6.0\SmallestOfThreeNumbers.deps.json
+C:\Users\GRIGS\source\repos\Methods-Exercise\SmallestOfThreeNumbers\bin\Debug\net6.0\SmallestOfThreeNumbers.runtimeconfig.json
+C:\Users\GRIGS\source\repos\Methods-Exercise\SmallestOfThreeNumbers\bin\Debug\net6.0\SmallestOfThreeNumbers.dll
+C:\Users\GRIGS\source\repos\Methods-Exercise\SmallestOfThreeNumbers\bin\Debug\net6.0\SmallestOfThreeNumbers.pdb
+C:\Users\GRIGS\source\repos\Methods-Exercise\SmallestOfThreeNumbers\obj\Debug\net6.0\SmallestOfThreeNumbers.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\Methods-Exercise\SmallestOfThreeNumbers\obj\Debug\net6.0\SmallestOfThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\Methods-Exercise\SmallestOfThreeNumbers\obj\Debug\net6.0\SmallestOfThreeNumbers.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\Methods-Exercise\SmallestOfThreeNumbers\obj\Debug\net6.0\SmallestOfThreeNumbers.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\Methods-Exercise\SmallestOfThreeNumbers\obj\Debug\net6.0\SmallestOfThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\Methods-Exercise\SmallestOfThreeNumbers\obj\Debug\net6.0\SmallestOfThreeNumbers.dll
+C:\Users\GRIGS\source\repos\Methods-Exercise\SmallestOfThreeNumbers\obj\Debug\net6.0\refint\SmallestOfThreeNumbers.dll
+C:\Users\GRIGS\source\repos\Methods-Exercise\SmallestOfThreeNumbers\obj\Debug\net6.0\SmallestOfThreeNumbers.pdb
+C:\Users\GRIGS\source\repos\Methods-Exercise\SmallestOfThreeNumbers\obj\Debug\net6.0\SmallestOfThreeNumbers.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\Methods-Exercise\SmallestOfThreeNumbers\obj\Debug\net6.0\ref\SmallestOfThreeNumbers.dll

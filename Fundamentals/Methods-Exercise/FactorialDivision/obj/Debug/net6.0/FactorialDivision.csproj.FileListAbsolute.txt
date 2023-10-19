@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\Methods-Exercise\FactorialDivision\obj\Debug\net6.0\FactorialDivision.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\Methods-Exercise\FactorialDivision\obj\Debug\net6.0\FactorialDivision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\Methods-Exercise\FactorialDivision\obj\Debug\net6.0\FactorialDivision.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\Methods-Exercise\FactorialDivision\obj\Debug\net6.0\FactorialDivision.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\Methods-Exercise\FactorialDivision\obj\Debug\net6.0\FactorialDivision.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\Methods-Exercise\FactorialDivision\bin\Debug\net6.0\FactorialDivision.exe
+C:\Users\GRIGS\source\repos\Methods-Exercise\FactorialDivision\bin\Debug\net6.0\FactorialDivision.deps.json
+C:\Users\GRIGS\source\repos\Methods-Exercise\FactorialDivision\bin\Debug\net6.0\FactorialDivision.runtimeconfig.json
+C:\Users\GRIGS\source\repos\Methods-Exercise\FactorialDivision\bin\Debug\net6.0\FactorialDivision.dll
+C:\Users\GRIGS\source\repos\Methods-Exercise\FactorialDivision\bin\Debug\net6.0\FactorialDivision.pdb
+C:\Users\GRIGS\source\repos\Methods-Exercise\FactorialDivision\obj\Debug\net6.0\FactorialDivision.dll
+C:\Users\GRIGS\source\repos\Methods-Exercise\FactorialDivision\obj\Debug\net6.0\refint\FactorialDivision.dll
+C:\Users\GRIGS\source\repos\Methods-Exercise\FactorialDivision\obj\Debug\net6.0\FactorialDivision.pdb
+C:\Users\GRIGS\source\repos\Methods-Exercise\FactorialDivision\obj\Debug\net6.0\FactorialDivision.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\Methods-Exercise\FactorialDivision\obj\Debug\net6.0\ref\FactorialDivision.dll

@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\Methods-Exercise\MiddleCharacters\bin\Debug\net6.0\MiddleCharacters.exe
+C:\Users\GRIGS\source\repos\Methods-Exercise\MiddleCharacters\bin\Debug\net6.0\MiddleCharacters.deps.json
+C:\Users\GRIGS\source\repos\Methods-Exercise\MiddleCharacters\bin\Debug\net6.0\MiddleCharacters.runtimeconfig.json
+C:\Users\GRIGS\source\repos\Methods-Exercise\MiddleCharacters\bin\Debug\net6.0\MiddleCharacters.dll
+C:\Users\GRIGS\source\repos\Methods-Exercise\MiddleCharacters\bin\Debug\net6.0\MiddleCharacters.pdb
+C:\Users\GRIGS\source\repos\Methods-Exercise\MiddleCharacters\obj\Debug\net6.0\MiddleCharacters.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\Methods-Exercise\MiddleCharacters\obj\Debug\net6.0\MiddleCharacters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\Methods-Exercise\MiddleCharacters\obj\Debug\net6.0\MiddleCharacters.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\Methods-Exercise\MiddleCharacters\obj\Debug\net6.0\MiddleCharacters.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\Methods-Exercise\MiddleCharacters\obj\Debug\net6.0\MiddleCharacters.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\Methods-Exercise\MiddleCharacters\obj\Debug\net6.0\MiddleCharacters.dll
+C:\Users\GRIGS\source\repos\Methods-Exercise\MiddleCharacters\obj\Debug\net6.0\refint\MiddleCharacters.dll
+C:\Users\GRIGS\source\repos\Methods-Exercise\MiddleCharacters\obj\Debug\net6.0\MiddleCharacters.pdb
+C:\Users\GRIGS\source\repos\Methods-Exercise\MiddleCharacters\obj\Debug\net6.0\MiddleCharacters.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\Methods-Exercise\MiddleCharacters\obj\Debug\net6.0\ref\MiddleCharacters.dll

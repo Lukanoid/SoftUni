@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\Methods-Exercise\AddAndSubtract\bin\Debug\net6.0\AddAndSubtract.exe
+C:\Users\GRIGS\source\repos\Methods-Exercise\AddAndSubtract\bin\Debug\net6.0\AddAndSubtract.deps.json
+C:\Users\GRIGS\source\repos\Methods-Exercise\AddAndSubtract\bin\Debug\net6.0\AddAndSubtract.runtimeconfig.json
+C:\Users\GRIGS\source\repos\Methods-Exercise\AddAndSubtract\bin\Debug\net6.0\AddAndSubtract.dll
+C:\Users\GRIGS\source\repos\Methods-Exercise\AddAndSubtract\bin\Debug\net6.0\AddAndSubtract.pdb
+C:\Users\GRIGS\source\repos\Methods-Exercise\AddAndSubtract\obj\Debug\net6.0\AddAndSubtract.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\Methods-Exercise\AddAndSubtract\obj\Debug\net6.0\AddAndSubtract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\Methods-Exercise\AddAndSubtract\obj\Debug\net6.0\AddAndSubtract.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\Methods-Exercise\AddAndSubtract\obj\Debug\net6.0\AddAndSubtract.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\Methods-Exercise\AddAndSubtract\obj\Debug\net6.0\AddAndSubtract.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\Methods-Exercise\AddAndSubtract\obj\Debug\net6.0\AddAndSubtract.dll
+C:\Users\GRIGS\source\repos\Methods-Exercise\AddAndSubtract\obj\Debug\net6.0\refint\AddAndSubtract.dll
+C:\Users\GRIGS\source\repos\Methods-Exercise\AddAndSubtract\obj\Debug\net6.0\AddAndSubtract.pdb
+C:\Users\GRIGS\source\repos\Methods-Exercise\AddAndSubtract\obj\Debug\net6.0\AddAndSubtract.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\Methods-Exercise\AddAndSubtract\obj\Debug\net6.0\ref\AddAndSubtract.dll
