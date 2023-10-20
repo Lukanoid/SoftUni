@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\Lists-Lab\Sum Adjacent Equal Numbers\bin\Debug\net6.0\Sum Adjacent Equal Numbers.exe
+C:\Users\GRIGS\source\repos\Lists-Lab\Sum Adjacent Equal Numbers\bin\Debug\net6.0\Sum Adjacent Equal Numbers.deps.json
+C:\Users\GRIGS\source\repos\Lists-Lab\Sum Adjacent Equal Numbers\bin\Debug\net6.0\Sum Adjacent Equal Numbers.runtimeconfig.json
+C:\Users\GRIGS\source\repos\Lists-Lab\Sum Adjacent Equal Numbers\bin\Debug\net6.0\Sum Adjacent Equal Numbers.dll
+C:\Users\GRIGS\source\repos\Lists-Lab\Sum Adjacent Equal Numbers\bin\Debug\net6.0\Sum Adjacent Equal Numbers.pdb
+C:\Users\GRIGS\source\repos\Lists-Lab\Sum Adjacent Equal Numbers\obj\Debug\net6.0\Sum Adjacent Equal Numbers.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\Lists-Lab\Sum Adjacent Equal Numbers\obj\Debug\net6.0\Sum Adjacent Equal Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\Lists-Lab\Sum Adjacent Equal Numbers\obj\Debug\net6.0\Sum Adjacent Equal Numbers.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\Lists-Lab\Sum Adjacent Equal Numbers\obj\Debug\net6.0\Sum Adjacent Equal Numbers.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\Lists-Lab\Sum Adjacent Equal Numbers\obj\Debug\net6.0\Sum Adjacent Equal Numbers.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\Lists-Lab\Sum Adjacent Equal Numbers\obj\Debug\net6.0\Sum Adjacent Equal Numbers.dll
+C:\Users\GRIGS\source\repos\Lists-Lab\Sum Adjacent Equal Numbers\obj\Debug\net6.0\refint\Sum Adjacent Equal Numbers.dll
+C:\Users\GRIGS\source\repos\Lists-Lab\Sum Adjacent Equal Numbers\obj\Debug\net6.0\Sum Adjacent Equal Numbers.pdb
+C:\Users\GRIGS\source\repos\Lists-Lab\Sum Adjacent Equal Numbers\obj\Debug\net6.0\Sum Adjacent Equal Numbers.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\Lists-Lab\Sum Adjacent Equal Numbers\obj\Debug\net6.0\ref\Sum Adjacent Equal Numbers.dll

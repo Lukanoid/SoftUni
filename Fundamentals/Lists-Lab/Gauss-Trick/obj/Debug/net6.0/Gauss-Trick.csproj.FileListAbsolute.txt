@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\Lists-Lab\Gauss-Trick\bin\Debug\net6.0\Gauss-Trick.exe
+C:\Users\GRIGS\source\repos\Lists-Lab\Gauss-Trick\bin\Debug\net6.0\Gauss-Trick.deps.json
+C:\Users\GRIGS\source\repos\Lists-Lab\Gauss-Trick\bin\Debug\net6.0\Gauss-Trick.runtimeconfig.json
+C:\Users\GRIGS\source\repos\Lists-Lab\Gauss-Trick\bin\Debug\net6.0\Gauss-Trick.dll
+C:\Users\GRIGS\source\repos\Lists-Lab\Gauss-Trick\bin\Debug\net6.0\Gauss-Trick.pdb
+C:\Users\GRIGS\source\repos\Lists-Lab\Gauss-Trick\obj\Debug\net6.0\Gauss-Trick.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\Lists-Lab\Gauss-Trick\obj\Debug\net6.0\Gauss-Trick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\Lists-Lab\Gauss-Trick\obj\Debug\net6.0\Gauss-Trick.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\Lists-Lab\Gauss-Trick\obj\Debug\net6.0\Gauss-Trick.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\Lists-Lab\Gauss-Trick\obj\Debug\net6.0\Gauss-Trick.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\Lists-Lab\Gauss-Trick\obj\Debug\net6.0\Gauss-Trick.dll
+C:\Users\GRIGS\source\repos\Lists-Lab\Gauss-Trick\obj\Debug\net6.0\refint\Gauss-Trick.dll
+C:\Users\GRIGS\source\repos\Lists-Lab\Gauss-Trick\obj\Debug\net6.0\Gauss-Trick.pdb
+C:\Users\GRIGS\source\repos\Lists-Lab\Gauss-Trick\obj\Debug\net6.0\Gauss-Trick.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\Lists-Lab\Gauss-Trick\obj\Debug\net6.0\ref\Gauss-Trick.dll

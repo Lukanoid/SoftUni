@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\Lists-Lab\RemoveNegativesAndReverse\bin\Debug\net6.0\RemoveNegativesAndReverse.exe
+C:\Users\GRIGS\source\repos\Lists-Lab\RemoveNegativesAndReverse\bin\Debug\net6.0\RemoveNegativesAndReverse.deps.json
+C:\Users\GRIGS\source\repos\Lists-Lab\RemoveNegativesAndReverse\bin\Debug\net6.0\RemoveNegativesAndReverse.runtimeconfig.json
+C:\Users\GRIGS\source\repos\Lists-Lab\RemoveNegativesAndReverse\bin\Debug\net6.0\RemoveNegativesAndReverse.dll
+C:\Users\GRIGS\source\repos\Lists-Lab\RemoveNegativesAndReverse\bin\Debug\net6.0\RemoveNegativesAndReverse.pdb
+C:\Users\GRIGS\source\repos\Lists-Lab\RemoveNegativesAndReverse\obj\Debug\net6.0\RemoveNegativesAndReverse.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\Lists-Lab\RemoveNegativesAndReverse\obj\Debug\net6.0\RemoveNegativesAndReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\Lists-Lab\RemoveNegativesAndReverse\obj\Debug\net6.0\RemoveNegativesAndReverse.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\Lists-Lab\RemoveNegativesAndReverse\obj\Debug\net6.0\RemoveNegativesAndReverse.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\Lists-Lab\RemoveNegativesAndReverse\obj\Debug\net6.0\RemoveNegativesAndReverse.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\Lists-Lab\RemoveNegativesAndReverse\obj\Debug\net6.0\RemoveNegativesAndReverse.dll
+C:\Users\GRIGS\source\repos\Lists-Lab\RemoveNegativesAndReverse\obj\Debug\net6.0\refint\RemoveNegativesAndReverse.dll
+C:\Users\GRIGS\source\repos\Lists-Lab\RemoveNegativesAndReverse\obj\Debug\net6.0\RemoveNegativesAndReverse.pdb
+C:\Users\GRIGS\source\repos\Lists-Lab\RemoveNegativesAndReverse\obj\Debug\net6.0\RemoveNegativesAndReverse.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\Lists-Lab\RemoveNegativesAndReverse\obj\Debug\net6.0\ref\RemoveNegativesAndReverse.dll

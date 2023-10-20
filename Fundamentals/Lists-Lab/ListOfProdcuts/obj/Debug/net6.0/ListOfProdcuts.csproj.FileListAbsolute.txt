@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\Lists-Lab\ListOfProdcuts\bin\Debug\net6.0\ListOfProdcuts.exe
+C:\Users\GRIGS\source\repos\Lists-Lab\ListOfProdcuts\bin\Debug\net6.0\ListOfProdcuts.deps.json
+C:\Users\GRIGS\source\repos\Lists-Lab\ListOfProdcuts\bin\Debug\net6.0\ListOfProdcuts.runtimeconfig.json
+C:\Users\GRIGS\source\repos\Lists-Lab\ListOfProdcuts\bin\Debug\net6.0\ListOfProdcuts.dll
+C:\Users\GRIGS\source\repos\Lists-Lab\ListOfProdcuts\bin\Debug\net6.0\ListOfProdcuts.pdb
+C:\Users\GRIGS\source\repos\Lists-Lab\ListOfProdcuts\obj\Debug\net6.0\ListOfProdcuts.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\Lists-Lab\ListOfProdcuts\obj\Debug\net6.0\ListOfProdcuts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\Lists-Lab\ListOfProdcuts\obj\Debug\net6.0\ListOfProdcuts.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\Lists-Lab\ListOfProdcuts\obj\Debug\net6.0\ListOfProdcuts.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\Lists-Lab\ListOfProdcuts\obj\Debug\net6.0\ListOfProdcuts.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\Lists-Lab\ListOfProdcuts\obj\Debug\net6.0\ListOfProdcuts.dll
+C:\Users\GRIGS\source\repos\Lists-Lab\ListOfProdcuts\obj\Debug\net6.0\refint\ListOfProdcuts.dll
+C:\Users\GRIGS\source\repos\Lists-Lab\ListOfProdcuts\obj\Debug\net6.0\ListOfProdcuts.pdb
+C:\Users\GRIGS\source\repos\Lists-Lab\ListOfProdcuts\obj\Debug\net6.0\ListOfProdcuts.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\Lists-Lab\ListOfProdcuts\obj\Debug\net6.0\ref\ListOfProdcuts.dll

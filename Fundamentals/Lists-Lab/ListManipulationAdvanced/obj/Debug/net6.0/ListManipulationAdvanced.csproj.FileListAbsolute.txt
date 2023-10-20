@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\Lists-Lab\ListManipulationAdvanced\bin\Debug\net6.0\ListManipulationAdvanced.exe
+C:\Users\GRIGS\source\repos\Lists-Lab\ListManipulationAdvanced\bin\Debug\net6.0\ListManipulationAdvanced.deps.json
+C:\Users\GRIGS\source\repos\Lists-Lab\ListManipulationAdvanced\bin\Debug\net6.0\ListManipulationAdvanced.runtimeconfig.json
+C:\Users\GRIGS\source\repos\Lists-Lab\ListManipulationAdvanced\bin\Debug\net6.0\ListManipulationAdvanced.dll
+C:\Users\GRIGS\source\repos\Lists-Lab\ListManipulationAdvanced\bin\Debug\net6.0\ListManipulationAdvanced.pdb
+C:\Users\GRIGS\source\repos\Lists-Lab\ListManipulationAdvanced\obj\Debug\net6.0\ListManipulationAdvanced.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\Lists-Lab\ListManipulationAdvanced\obj\Debug\net6.0\ListManipulationAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\Lists-Lab\ListManipulationAdvanced\obj\Debug\net6.0\ListManipulationAdvanced.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\Lists-Lab\ListManipulationAdvanced\obj\Debug\net6.0\ListManipulationAdvanced.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\Lists-Lab\ListManipulationAdvanced\obj\Debug\net6.0\ListManipulationAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\Lists-Lab\ListManipulationAdvanced\obj\Debug\net6.0\ListManipulationAdvanced.dll
+C:\Users\GRIGS\source\repos\Lists-Lab\ListManipulationAdvanced\obj\Debug\net6.0\refint\ListManipulationAdvanced.dll
+C:\Users\GRIGS\source\repos\Lists-Lab\ListManipulationAdvanced\obj\Debug\net6.0\ListManipulationAdvanced.pdb
+C:\Users\GRIGS\source\repos\Lists-Lab\ListManipulationAdvanced\obj\Debug\net6.0\ListManipulationAdvanced.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\Lists-Lab\ListManipulationAdvanced\obj\Debug\net6.0\ref\ListManipulationAdvanced.dll

@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\Lists-Lab\MerginLists\bin\Debug\net6.0\MerginLists.exe
+C:\Users\GRIGS\source\repos\Lists-Lab\MerginLists\bin\Debug\net6.0\MerginLists.deps.json
+C:\Users\GRIGS\source\repos\Lists-Lab\MerginLists\bin\Debug\net6.0\MerginLists.runtimeconfig.json
+C:\Users\GRIGS\source\repos\Lists-Lab\MerginLists\bin\Debug\net6.0\MerginLists.dll
+C:\Users\GRIGS\source\repos\Lists-Lab\MerginLists\bin\Debug\net6.0\MerginLists.pdb
+C:\Users\GRIGS\source\repos\Lists-Lab\MerginLists\obj\Debug\net6.0\MerginLists.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\Lists-Lab\MerginLists\obj\Debug\net6.0\MerginLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\Lists-Lab\MerginLists\obj\Debug\net6.0\MerginLists.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\Lists-Lab\MerginLists\obj\Debug\net6.0\MerginLists.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\Lists-Lab\MerginLists\obj\Debug\net6.0\MerginLists.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\Lists-Lab\MerginLists\obj\Debug\net6.0\MerginLists.dll
+C:\Users\GRIGS\source\repos\Lists-Lab\MerginLists\obj\Debug\net6.0\refint\MerginLists.dll
+C:\Users\GRIGS\source\repos\Lists-Lab\MerginLists\obj\Debug\net6.0\MerginLists.pdb
+C:\Users\GRIGS\source\repos\Lists-Lab\MerginLists\obj\Debug\net6.0\MerginLists.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\Lists-Lab\MerginLists\obj\Debug\net6.0\ref\MerginLists.dll
