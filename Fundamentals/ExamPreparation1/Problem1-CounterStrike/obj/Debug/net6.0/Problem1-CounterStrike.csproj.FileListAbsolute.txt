@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ExamPreparation1\Problem1-CounterStrike\bin\Debug\net6.0\Problem1-CounterStrike.exe
+C:\Users\GRIGS\source\repos\ExamPreparation1\Problem1-CounterStrike\bin\Debug\net6.0\Problem1-CounterStrike.deps.json
+C:\Users\GRIGS\source\repos\ExamPreparation1\Problem1-CounterStrike\bin\Debug\net6.0\Problem1-CounterStrike.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ExamPreparation1\Problem1-CounterStrike\bin\Debug\net6.0\Problem1-CounterStrike.dll
+C:\Users\GRIGS\source\repos\ExamPreparation1\Problem1-CounterStrike\bin\Debug\net6.0\Problem1-CounterStrike.pdb
+C:\Users\GRIGS\source\repos\ExamPreparation1\Problem1-CounterStrike\obj\Debug\net6.0\Problem1-CounterStrike.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ExamPreparation1\Problem1-CounterStrike\obj\Debug\net6.0\Problem1-CounterStrike.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ExamPreparation1\Problem1-CounterStrike\obj\Debug\net6.0\Problem1-CounterStrike.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ExamPreparation1\Problem1-CounterStrike\obj\Debug\net6.0\Problem1-CounterStrike.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ExamPreparation1\Problem1-CounterStrike\obj\Debug\net6.0\Problem1-CounterStrike.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ExamPreparation1\Problem1-CounterStrike\obj\Debug\net6.0\Problem1-CounterStrike.dll
+C:\Users\GRIGS\source\repos\ExamPreparation1\Problem1-CounterStrike\obj\Debug\net6.0\refint\Problem1-CounterStrike.dll
+C:\Users\GRIGS\source\repos\ExamPreparation1\Problem1-CounterStrike\obj\Debug\net6.0\Problem1-CounterStrike.pdb
+C:\Users\GRIGS\source\repos\ExamPreparation1\Problem1-CounterStrike\obj\Debug\net6.0\Problem1-CounterStrike.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ExamPreparation1\Problem1-CounterStrike\obj\Debug\net6.0\ref\Problem1-CounterStrike.dll

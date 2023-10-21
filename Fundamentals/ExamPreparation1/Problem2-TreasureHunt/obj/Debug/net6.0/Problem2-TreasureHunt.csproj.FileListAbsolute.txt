@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ExamPreparation1\Problem2-TreasureHunt\bin\Debug\net6.0\Problem2-TreasureHunt.exe
+C:\Users\GRIGS\source\repos\ExamPreparation1\Problem2-TreasureHunt\bin\Debug\net6.0\Problem2-TreasureHunt.deps.json
+C:\Users\GRIGS\source\repos\ExamPreparation1\Problem2-TreasureHunt\bin\Debug\net6.0\Problem2-TreasureHunt.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ExamPreparation1\Problem2-TreasureHunt\bin\Debug\net6.0\Problem2-TreasureHunt.dll
+C:\Users\GRIGS\source\repos\ExamPreparation1\Problem2-TreasureHunt\bin\Debug\net6.0\Problem2-TreasureHunt.pdb
+C:\Users\GRIGS\source\repos\ExamPreparation1\Problem2-TreasureHunt\obj\Debug\net6.0\Problem2-TreasureHunt.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ExamPreparation1\Problem2-TreasureHunt\obj\Debug\net6.0\Problem2-TreasureHunt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ExamPreparation1\Problem2-TreasureHunt\obj\Debug\net6.0\Problem2-TreasureHunt.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ExamPreparation1\Problem2-TreasureHunt\obj\Debug\net6.0\Problem2-TreasureHunt.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ExamPreparation1\Problem2-TreasureHunt\obj\Debug\net6.0\Problem2-TreasureHunt.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ExamPreparation1\Problem2-TreasureHunt\obj\Debug\net6.0\Problem2-TreasureHunt.dll
+C:\Users\GRIGS\source\repos\ExamPreparation1\Problem2-TreasureHunt\obj\Debug\net6.0\refint\Problem2-TreasureHunt.dll
+C:\Users\GRIGS\source\repos\ExamPreparation1\Problem2-TreasureHunt\obj\Debug\net6.0\Problem2-TreasureHunt.pdb
+C:\Users\GRIGS\source\repos\ExamPreparation1\Problem2-TreasureHunt\obj\Debug\net6.0\Problem2-TreasureHunt.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ExamPreparation1\Problem2-TreasureHunt\obj\Debug\net6.0\ref\Problem2-TreasureHunt.dll
