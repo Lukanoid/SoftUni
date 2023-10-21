@@ -129,7 +129,7 @@ namespace ListManipulationAdvanced
 
                         Console.WriteLine(string.Join(" ", result));
                     }
-                    
+
                 }
                 else if (command[0] == "Add")
                 {
@@ -146,7 +146,7 @@ namespace ListManipulationAdvanced
                 else if (command[0] == "RemoveAt")
                 {
                     int number = int.Parse(command[1]);
-                    numbers.Remove(number);
+                    numbers.RemoveAt(number);
                     flag = true;
                 }
                 else if (command[0] == "Insert")
