@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\List-Exercise\ListOperations\bin\Debug\net6.0\ListOperations.exe
+C:\Users\GRIGS\source\repos\List-Exercise\ListOperations\bin\Debug\net6.0\ListOperations.deps.json
+C:\Users\GRIGS\source\repos\List-Exercise\ListOperations\bin\Debug\net6.0\ListOperations.runtimeconfig.json
+C:\Users\GRIGS\source\repos\List-Exercise\ListOperations\bin\Debug\net6.0\ListOperations.dll
+C:\Users\GRIGS\source\repos\List-Exercise\ListOperations\bin\Debug\net6.0\ListOperations.pdb
+C:\Users\GRIGS\source\repos\List-Exercise\ListOperations\obj\Debug\net6.0\ListOperations.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\List-Exercise\ListOperations\obj\Debug\net6.0\ListOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\List-Exercise\ListOperations\obj\Debug\net6.0\ListOperations.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\List-Exercise\ListOperations\obj\Debug\net6.0\ListOperations.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\List-Exercise\ListOperations\obj\Debug\net6.0\ListOperations.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\List-Exercise\ListOperations\obj\Debug\net6.0\ListOperations.dll
+C:\Users\GRIGS\source\repos\List-Exercise\ListOperations\obj\Debug\net6.0\refint\ListOperations.dll
+C:\Users\GRIGS\source\repos\List-Exercise\ListOperations\obj\Debug\net6.0\ListOperations.pdb
+C:\Users\GRIGS\source\repos\List-Exercise\ListOperations\obj\Debug\net6.0\ListOperations.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\List-Exercise\ListOperations\obj\Debug\net6.0\ref\ListOperations.dll

@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\List-Exercise\BombNumbers\bin\Debug\net6.0\BombNumbers.exe
+C:\Users\GRIGS\source\repos\List-Exercise\BombNumbers\bin\Debug\net6.0\BombNumbers.deps.json
+C:\Users\GRIGS\source\repos\List-Exercise\BombNumbers\bin\Debug\net6.0\BombNumbers.runtimeconfig.json
+C:\Users\GRIGS\source\repos\List-Exercise\BombNumbers\bin\Debug\net6.0\BombNumbers.dll
+C:\Users\GRIGS\source\repos\List-Exercise\BombNumbers\bin\Debug\net6.0\BombNumbers.pdb
+C:\Users\GRIGS\source\repos\List-Exercise\BombNumbers\obj\Debug\net6.0\BombNumbers.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\List-Exercise\BombNumbers\obj\Debug\net6.0\BombNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\List-Exercise\BombNumbers\obj\Debug\net6.0\BombNumbers.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\List-Exercise\BombNumbers\obj\Debug\net6.0\BombNumbers.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\List-Exercise\BombNumbers\obj\Debug\net6.0\BombNumbers.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\List-Exercise\BombNumbers\obj\Debug\net6.0\BombNumbers.dll
+C:\Users\GRIGS\source\repos\List-Exercise\BombNumbers\obj\Debug\net6.0\refint\BombNumbers.dll
+C:\Users\GRIGS\source\repos\List-Exercise\BombNumbers\obj\Debug\net6.0\BombNumbers.pdb
+C:\Users\GRIGS\source\repos\List-Exercise\BombNumbers\obj\Debug\net6.0\BombNumbers.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\List-Exercise\BombNumbers\obj\Debug\net6.0\ref\BombNumbers.dll

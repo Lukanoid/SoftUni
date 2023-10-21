@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\List-Exercise\Train\bin\Debug\net6.0\Train.exe
+C:\Users\GRIGS\source\repos\List-Exercise\Train\bin\Debug\net6.0\Train.deps.json
+C:\Users\GRIGS\source\repos\List-Exercise\Train\bin\Debug\net6.0\Train.runtimeconfig.json
+C:\Users\GRIGS\source\repos\List-Exercise\Train\bin\Debug\net6.0\Train.dll
+C:\Users\GRIGS\source\repos\List-Exercise\Train\bin\Debug\net6.0\Train.pdb
+C:\Users\GRIGS\source\repos\List-Exercise\Train\obj\Debug\net6.0\Train.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\List-Exercise\Train\obj\Debug\net6.0\Train.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\List-Exercise\Train\obj\Debug\net6.0\Train.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\List-Exercise\Train\obj\Debug\net6.0\Train.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\List-Exercise\Train\obj\Debug\net6.0\Train.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\List-Exercise\Train\obj\Debug\net6.0\Train.dll
+C:\Users\GRIGS\source\repos\List-Exercise\Train\obj\Debug\net6.0\refint\Train.dll
+C:\Users\GRIGS\source\repos\List-Exercise\Train\obj\Debug\net6.0\Train.pdb
+C:\Users\GRIGS\source\repos\List-Exercise\Train\obj\Debug\net6.0\Train.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\List-Exercise\Train\obj\Debug\net6.0\ref\Train.dll

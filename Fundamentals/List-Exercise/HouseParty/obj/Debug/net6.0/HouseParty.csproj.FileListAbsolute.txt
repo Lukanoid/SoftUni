@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\List-Exercise\HouseParty\bin\Debug\net6.0\HouseParty.exe
+C:\Users\GRIGS\source\repos\List-Exercise\HouseParty\bin\Debug\net6.0\HouseParty.deps.json
+C:\Users\GRIGS\source\repos\List-Exercise\HouseParty\bin\Debug\net6.0\HouseParty.runtimeconfig.json
+C:\Users\GRIGS\source\repos\List-Exercise\HouseParty\bin\Debug\net6.0\HouseParty.dll
+C:\Users\GRIGS\source\repos\List-Exercise\HouseParty\bin\Debug\net6.0\HouseParty.pdb
+C:\Users\GRIGS\source\repos\List-Exercise\HouseParty\obj\Debug\net6.0\HouseParty.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\List-Exercise\HouseParty\obj\Debug\net6.0\HouseParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\List-Exercise\HouseParty\obj\Debug\net6.0\HouseParty.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\List-Exercise\HouseParty\obj\Debug\net6.0\HouseParty.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\List-Exercise\HouseParty\obj\Debug\net6.0\HouseParty.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\List-Exercise\HouseParty\obj\Debug\net6.0\HouseParty.dll
+C:\Users\GRIGS\source\repos\List-Exercise\HouseParty\obj\Debug\net6.0\refint\HouseParty.dll
+C:\Users\GRIGS\source\repos\List-Exercise\HouseParty\obj\Debug\net6.0\HouseParty.pdb
+C:\Users\GRIGS\source\repos\List-Exercise\HouseParty\obj\Debug\net6.0\HouseParty.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\List-Exercise\HouseParty\obj\Debug\net6.0\ref\HouseParty.dll

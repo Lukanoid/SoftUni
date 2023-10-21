@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\List-Exercise\AppendArrays\bin\Debug\net6.0\AppendArrays.exe
+C:\Users\GRIGS\source\repos\List-Exercise\AppendArrays\bin\Debug\net6.0\AppendArrays.deps.json
+C:\Users\GRIGS\source\repos\List-Exercise\AppendArrays\bin\Debug\net6.0\AppendArrays.runtimeconfig.json
+C:\Users\GRIGS\source\repos\List-Exercise\AppendArrays\bin\Debug\net6.0\AppendArrays.dll
+C:\Users\GRIGS\source\repos\List-Exercise\AppendArrays\bin\Debug\net6.0\AppendArrays.pdb
+C:\Users\GRIGS\source\repos\List-Exercise\AppendArrays\obj\Debug\net6.0\AppendArrays.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\List-Exercise\AppendArrays\obj\Debug\net6.0\AppendArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\List-Exercise\AppendArrays\obj\Debug\net6.0\AppendArrays.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\List-Exercise\AppendArrays\obj\Debug\net6.0\AppendArrays.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\List-Exercise\AppendArrays\obj\Debug\net6.0\AppendArrays.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\List-Exercise\AppendArrays\obj\Debug\net6.0\AppendArrays.dll
+C:\Users\GRIGS\source\repos\List-Exercise\AppendArrays\obj\Debug\net6.0\refint\AppendArrays.dll
+C:\Users\GRIGS\source\repos\List-Exercise\AppendArrays\obj\Debug\net6.0\AppendArrays.pdb
+C:\Users\GRIGS\source\repos\List-Exercise\AppendArrays\obj\Debug\net6.0\AppendArrays.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\List-Exercise\AppendArrays\obj\Debug\net6.0\ref\AppendArrays.dll

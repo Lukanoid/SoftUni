@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\List-Exercise\CardsGame\bin\Debug\net6.0\CardsGame.exe
+C:\Users\GRIGS\source\repos\List-Exercise\CardsGame\bin\Debug\net6.0\CardsGame.deps.json
+C:\Users\GRIGS\source\repos\List-Exercise\CardsGame\bin\Debug\net6.0\CardsGame.runtimeconfig.json
+C:\Users\GRIGS\source\repos\List-Exercise\CardsGame\bin\Debug\net6.0\CardsGame.dll
+C:\Users\GRIGS\source\repos\List-Exercise\CardsGame\bin\Debug\net6.0\CardsGame.pdb
+C:\Users\GRIGS\source\repos\List-Exercise\CardsGame\obj\Debug\net6.0\CardsGame.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\List-Exercise\CardsGame\obj\Debug\net6.0\CardsGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\List-Exercise\CardsGame\obj\Debug\net6.0\CardsGame.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\List-Exercise\CardsGame\obj\Debug\net6.0\CardsGame.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\List-Exercise\CardsGame\obj\Debug\net6.0\CardsGame.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\List-Exercise\CardsGame\obj\Debug\net6.0\CardsGame.dll
+C:\Users\GRIGS\source\repos\List-Exercise\CardsGame\obj\Debug\net6.0\refint\CardsGame.dll
+C:\Users\GRIGS\source\repos\List-Exercise\CardsGame\obj\Debug\net6.0\CardsGame.pdb
+C:\Users\GRIGS\source\repos\List-Exercise\CardsGame\obj\Debug\net6.0\CardsGame.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\List-Exercise\CardsGame\obj\Debug\net6.0\ref\CardsGame.dll

@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\List-Exercise\ChangeList\bin\Debug\net6.0\ChangeList.exe
+C:\Users\GRIGS\source\repos\List-Exercise\ChangeList\bin\Debug\net6.0\ChangeList.deps.json
+C:\Users\GRIGS\source\repos\List-Exercise\ChangeList\bin\Debug\net6.0\ChangeList.runtimeconfig.json
+C:\Users\GRIGS\source\repos\List-Exercise\ChangeList\bin\Debug\net6.0\ChangeList.dll
+C:\Users\GRIGS\source\repos\List-Exercise\ChangeList\bin\Debug\net6.0\ChangeList.pdb
+C:\Users\GRIGS\source\repos\List-Exercise\ChangeList\obj\Debug\net6.0\ChangeList.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\List-Exercise\ChangeList\obj\Debug\net6.0\ChangeList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\List-Exercise\ChangeList\obj\Debug\net6.0\ChangeList.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\List-Exercise\ChangeList\obj\Debug\net6.0\ChangeList.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\List-Exercise\ChangeList\obj\Debug\net6.0\ChangeList.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\List-Exercise\ChangeList\obj\Debug\net6.0\ChangeList.dll
+C:\Users\GRIGS\source\repos\List-Exercise\ChangeList\obj\Debug\net6.0\refint\ChangeList.dll
+C:\Users\GRIGS\source\repos\List-Exercise\ChangeList\obj\Debug\net6.0\ChangeList.pdb
+C:\Users\GRIGS\source\repos\List-Exercise\ChangeList\obj\Debug\net6.0\ChangeList.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\List-Exercise\ChangeList\obj\Debug\net6.0\ref\ChangeList.dll
