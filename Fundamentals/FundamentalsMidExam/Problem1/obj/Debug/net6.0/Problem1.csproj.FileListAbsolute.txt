@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\FundamentalsMidExam\Problem1\bin\Debug\net6.0\Problem1.exe
+C:\Users\GRIGS\source\repos\FundamentalsMidExam\Problem1\bin\Debug\net6.0\Problem1.deps.json
+C:\Users\GRIGS\source\repos\FundamentalsMidExam\Problem1\bin\Debug\net6.0\Problem1.runtimeconfig.json
+C:\Users\GRIGS\source\repos\FundamentalsMidExam\Problem1\bin\Debug\net6.0\Problem1.dll
+C:\Users\GRIGS\source\repos\FundamentalsMidExam\Problem1\bin\Debug\net6.0\Problem1.pdb
+C:\Users\GRIGS\source\repos\FundamentalsMidExam\Problem1\obj\Debug\net6.0\Problem1.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\FundamentalsMidExam\Problem1\obj\Debug\net6.0\Problem1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\FundamentalsMidExam\Problem1\obj\Debug\net6.0\Problem1.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\FundamentalsMidExam\Problem1\obj\Debug\net6.0\Problem1.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\FundamentalsMidExam\Problem1\obj\Debug\net6.0\Problem1.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\FundamentalsMidExam\Problem1\obj\Debug\net6.0\Problem1.dll
+C:\Users\GRIGS\source\repos\FundamentalsMidExam\Problem1\obj\Debug\net6.0\refint\Problem1.dll
+C:\Users\GRIGS\source\repos\FundamentalsMidExam\Problem1\obj\Debug\net6.0\Problem1.pdb
+C:\Users\GRIGS\source\repos\FundamentalsMidExam\Problem1\obj\Debug\net6.0\Problem1.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\FundamentalsMidExam\Problem1\obj\Debug\net6.0\ref\Problem1.dll
