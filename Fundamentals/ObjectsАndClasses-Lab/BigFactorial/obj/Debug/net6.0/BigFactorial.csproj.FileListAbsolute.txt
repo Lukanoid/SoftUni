@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ObjectsАndClasses-Lab\BigFactorial\bin\Debug\net6.0\BigFactorial.exe
+C:\Users\GRIGS\source\repos\ObjectsАndClasses-Lab\BigFactorial\bin\Debug\net6.0\BigFactorial.deps.json
+C:\Users\GRIGS\source\repos\ObjectsАndClasses-Lab\BigFactorial\bin\Debug\net6.0\BigFactorial.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ObjectsАndClasses-Lab\BigFactorial\bin\Debug\net6.0\BigFactorial.dll
+C:\Users\GRIGS\source\repos\ObjectsАndClasses-Lab\BigFactorial\bin\Debug\net6.0\BigFactorial.pdb
+C:\Users\GRIGS\source\repos\ObjectsАndClasses-Lab\BigFactorial\obj\Debug\net6.0\BigFactorial.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ObjectsАndClasses-Lab\BigFactorial\obj\Debug\net6.0\BigFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ObjectsАndClasses-Lab\BigFactorial\obj\Debug\net6.0\BigFactorial.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ObjectsАndClasses-Lab\BigFactorial\obj\Debug\net6.0\BigFactorial.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ObjectsАndClasses-Lab\BigFactorial\obj\Debug\net6.0\BigFactorial.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ObjectsАndClasses-Lab\BigFactorial\obj\Debug\net6.0\BigFactorial.dll
+C:\Users\GRIGS\source\repos\ObjectsАndClasses-Lab\BigFactorial\obj\Debug\net6.0\refint\BigFactorial.dll
+C:\Users\GRIGS\source\repos\ObjectsАndClasses-Lab\BigFactorial\obj\Debug\net6.0\BigFactorial.pdb
+C:\Users\GRIGS\source\repos\ObjectsАndClasses-Lab\BigFactorial\obj\Debug\net6.0\BigFactorial.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ObjectsАndClasses-Lab\BigFactorial\obj\Debug\net6.0\ref\BigFactorial.dll

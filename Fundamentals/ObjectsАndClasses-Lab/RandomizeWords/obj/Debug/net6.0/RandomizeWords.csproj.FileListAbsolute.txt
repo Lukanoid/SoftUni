@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ObjectsАndClasses-Lab\RandomizeWords\bin\Debug\net6.0\RandomizeWords.exe
+C:\Users\GRIGS\source\repos\ObjectsАndClasses-Lab\RandomizeWords\bin\Debug\net6.0\RandomizeWords.deps.json
+C:\Users\GRIGS\source\repos\ObjectsАndClasses-Lab\RandomizeWords\bin\Debug\net6.0\RandomizeWords.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ObjectsАndClasses-Lab\RandomizeWords\bin\Debug\net6.0\RandomizeWords.dll
+C:\Users\GRIGS\source\repos\ObjectsАndClasses-Lab\RandomizeWords\bin\Debug\net6.0\RandomizeWords.pdb
+C:\Users\GRIGS\source\repos\ObjectsАndClasses-Lab\RandomizeWords\obj\Debug\net6.0\RandomizeWords.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ObjectsАndClasses-Lab\RandomizeWords\obj\Debug\net6.0\RandomizeWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ObjectsАndClasses-Lab\RandomizeWords\obj\Debug\net6.0\RandomizeWords.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ObjectsАndClasses-Lab\RandomizeWords\obj\Debug\net6.0\RandomizeWords.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ObjectsАndClasses-Lab\RandomizeWords\obj\Debug\net6.0\RandomizeWords.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ObjectsАndClasses-Lab\RandomizeWords\obj\Debug\net6.0\RandomizeWords.dll
+C:\Users\GRIGS\source\repos\ObjectsАndClasses-Lab\RandomizeWords\obj\Debug\net6.0\refint\RandomizeWords.dll
+C:\Users\GRIGS\source\repos\ObjectsАndClasses-Lab\RandomizeWords\obj\Debug\net6.0\RandomizeWords.pdb
+C:\Users\GRIGS\source\repos\ObjectsАndClasses-Lab\RandomizeWords\obj\Debug\net6.0\RandomizeWords.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ObjectsАndClasses-Lab\RandomizeWords\obj\Debug\net6.0\ref\RandomizeWords.dll
