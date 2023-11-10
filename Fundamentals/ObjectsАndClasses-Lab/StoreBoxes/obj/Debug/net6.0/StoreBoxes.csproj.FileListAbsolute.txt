@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ObjectsАndClasses-Lab\StoreBoxes\bin\Debug\net6.0\StoreBoxes.exe
+C:\Users\GRIGS\source\repos\ObjectsАndClasses-Lab\StoreBoxes\bin\Debug\net6.0\StoreBoxes.deps.json
+C:\Users\GRIGS\source\repos\ObjectsАndClasses-Lab\StoreBoxes\bin\Debug\net6.0\StoreBoxes.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ObjectsАndClasses-Lab\StoreBoxes\bin\Debug\net6.0\StoreBoxes.dll
+C:\Users\GRIGS\source\repos\ObjectsАndClasses-Lab\StoreBoxes\bin\Debug\net6.0\StoreBoxes.pdb
+C:\Users\GRIGS\source\repos\ObjectsАndClasses-Lab\StoreBoxes\obj\Debug\net6.0\StoreBoxes.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ObjectsАndClasses-Lab\StoreBoxes\obj\Debug\net6.0\StoreBoxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ObjectsАndClasses-Lab\StoreBoxes\obj\Debug\net6.0\StoreBoxes.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ObjectsАndClasses-Lab\StoreBoxes\obj\Debug\net6.0\StoreBoxes.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ObjectsАndClasses-Lab\StoreBoxes\obj\Debug\net6.0\StoreBoxes.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ObjectsАndClasses-Lab\StoreBoxes\obj\Debug\net6.0\StoreBoxes.dll
+C:\Users\GRIGS\source\repos\ObjectsАndClasses-Lab\StoreBoxes\obj\Debug\net6.0\refint\StoreBoxes.dll
+C:\Users\GRIGS\source\repos\ObjectsАndClasses-Lab\StoreBoxes\obj\Debug\net6.0\StoreBoxes.pdb
+C:\Users\GRIGS\source\repos\ObjectsАndClasses-Lab\StoreBoxes\obj\Debug\net6.0\StoreBoxes.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ObjectsАndClasses-Lab\StoreBoxes\obj\Debug\net6.0\ref\StoreBoxes.dll
