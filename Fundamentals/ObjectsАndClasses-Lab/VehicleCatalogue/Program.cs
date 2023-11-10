@@ -39,18 +39,24 @@
                 commandInfo = Console.ReadLine();
             }
 
-
-            Console.WriteLine("Cars:");
-            foreach (var car in catalogue.Cars.OrderBy(x => x.Brand))
+            if (catalogue.Cars.Count - 1 >= 0)
             {
-                Console.WriteLine($"{car.Brand}: {car.Model} - {car.HorsePower}hp");
+                Console.WriteLine("Cars:");
+                foreach (var car in catalogue.Cars.OrderBy(x => x.Brand))
+                {
+                    Console.WriteLine($"{car.Brand}: {car.Model} - {car.HorsePower}hp");
+                }
             }
 
-            Console.WriteLine("Trucks:");
-            foreach (var truck in catalogue.Trucks.OrderBy(x => x.Brand))
+            if (catalogue.Trucks.Count - 1 >= 0)
             {
-                Console.WriteLine($"{truck.Brand}: {truck.Model} - {truck.Weight}kg");
+                Console.WriteLine("Trucks:");
+                foreach (var truck in catalogue.Trucks.OrderBy(x => x.Brand))
+                {
+                    Console.WriteLine($"{truck.Brand}: {truck.Model} - {truck.Weight}kg");
+                }
             }
+
         }
     }
 
