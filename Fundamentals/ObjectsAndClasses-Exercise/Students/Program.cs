@@ -22,7 +22,7 @@
                 students.Add(student);
             }
 
-            students.OrderByDescending(x => x.Grade).ToList();
+            students = students.OrderByDescending(x => x.Grade).ToList();
 
             foreach (var student in students)
             {
