@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ObjectsAndClasses-Exercise\Students\bin\Debug\net6.0\Students.exe
+C:\Users\GRIGS\source\repos\ObjectsAndClasses-Exercise\Students\bin\Debug\net6.0\Students.deps.json
+C:\Users\GRIGS\source\repos\ObjectsAndClasses-Exercise\Students\bin\Debug\net6.0\Students.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ObjectsAndClasses-Exercise\Students\bin\Debug\net6.0\Students.dll
+C:\Users\GRIGS\source\repos\ObjectsAndClasses-Exercise\Students\bin\Debug\net6.0\Students.pdb
+C:\Users\GRIGS\source\repos\ObjectsAndClasses-Exercise\Students\obj\Debug\net6.0\Students.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ObjectsAndClasses-Exercise\Students\obj\Debug\net6.0\Students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ObjectsAndClasses-Exercise\Students\obj\Debug\net6.0\Students.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ObjectsAndClasses-Exercise\Students\obj\Debug\net6.0\Students.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ObjectsAndClasses-Exercise\Students\obj\Debug\net6.0\Students.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ObjectsAndClasses-Exercise\Students\obj\Debug\net6.0\Students.dll
+C:\Users\GRIGS\source\repos\ObjectsAndClasses-Exercise\Students\obj\Debug\net6.0\refint\Students.dll
+C:\Users\GRIGS\source\repos\ObjectsAndClasses-Exercise\Students\obj\Debug\net6.0\Students.pdb
+C:\Users\GRIGS\source\repos\ObjectsAndClasses-Exercise\Students\obj\Debug\net6.0\Students.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ObjectsAndClasses-Exercise\Students\obj\Debug\net6.0\ref\Students.dll

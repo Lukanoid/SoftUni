@@ -7,38 +7,23 @@ namespace Articles
     {
         static void Main(string[] args)
         {
-            string[] input = Console.ReadLine().Split(", ", StringSplitOptions.RemoveEmptyEntries);
             int n = int.Parse(Console.ReadLine());
-
-            string title = input[0];
-            string content = input[1];
-            string author = input[2];
-
-            Article article = new Article(title, content, author);
+            List<Article> articles = new List<Article>();
 
             for (int i = 0; i < n; i++)
             {
-                string[] command = Console.ReadLine().Split(": ", StringSplitOptions.RemoveEmptyEntries);
+                string[] input = Console.ReadLine().Split(", ", StringSplitOptions.RemoveEmptyEntries);
 
-                if (command[0] == "Edit")
-                {
-                    string newContent = command[1];
-                    article.Edit(newContent);
-                }
-                else if (command[0] == "ChangeAuthor")
-                {
-                    string newAuthor = command[1];
-                    article.ChangeAuthor(newAuthor);
-                }
-                else
-                {
-                    string newTitle = command[1];
-                    article.Rename(newTitle);
-                }
+                string title = input[0];
+                string content = input[1];
+                string author = input[2];
+
+                Article article = new Article(title, content, author);
+
+                articles.Add(article);
+
+                Console.WriteLine(article);
             }
-
-            Console.WriteLine(article.ToString());
-
         }
     }
 
@@ -57,20 +42,7 @@ namespace Articles
 
         public string Author { get; set; }
 
-        public void Edit(string content)
-        {
-            Content = content;
-        }
 
-        public void ChangeAuthor(string author)
-        {
-            Author = author;
-        }
-
-        public void Rename(string title)
-        {
-            Title = title;
-        }
 
         public override string ToString()
         {
