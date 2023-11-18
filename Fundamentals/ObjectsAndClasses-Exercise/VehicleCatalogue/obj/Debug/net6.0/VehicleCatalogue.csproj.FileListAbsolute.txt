@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ObjectsAndClasses-Exercise\VehicleCatalogue\bin\Debug\net6.0\VehicleCatalogue.exe
+C:\Users\GRIGS\source\repos\ObjectsAndClasses-Exercise\VehicleCatalogue\bin\Debug\net6.0\VehicleCatalogue.deps.json
+C:\Users\GRIGS\source\repos\ObjectsAndClasses-Exercise\VehicleCatalogue\bin\Debug\net6.0\VehicleCatalogue.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ObjectsAndClasses-Exercise\VehicleCatalogue\bin\Debug\net6.0\VehicleCatalogue.dll
+C:\Users\GRIGS\source\repos\ObjectsAndClasses-Exercise\VehicleCatalogue\bin\Debug\net6.0\VehicleCatalogue.pdb
+C:\Users\GRIGS\source\repos\ObjectsAndClasses-Exercise\VehicleCatalogue\obj\Debug\net6.0\VehicleCatalogue.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ObjectsAndClasses-Exercise\VehicleCatalogue\obj\Debug\net6.0\VehicleCatalogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ObjectsAndClasses-Exercise\VehicleCatalogue\obj\Debug\net6.0\VehicleCatalogue.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ObjectsAndClasses-Exercise\VehicleCatalogue\obj\Debug\net6.0\VehicleCatalogue.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ObjectsAndClasses-Exercise\VehicleCatalogue\obj\Debug\net6.0\VehicleCatalogue.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ObjectsAndClasses-Exercise\VehicleCatalogue\obj\Debug\net6.0\VehicleCatalogue.dll
+C:\Users\GRIGS\source\repos\ObjectsAndClasses-Exercise\VehicleCatalogue\obj\Debug\net6.0\refint\VehicleCatalogue.dll
+C:\Users\GRIGS\source\repos\ObjectsAndClasses-Exercise\VehicleCatalogue\obj\Debug\net6.0\VehicleCatalogue.pdb
+C:\Users\GRIGS\source\repos\ObjectsAndClasses-Exercise\VehicleCatalogue\obj\Debug\net6.0\VehicleCatalogue.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ObjectsAndClasses-Exercise\VehicleCatalogue\obj\Debug\net6.0\ref\VehicleCatalogue.dll

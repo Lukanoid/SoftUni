@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ObjectsAndClasses-Exercise\TeamworkProjects\bin\Debug\net6.0\TeamworkProjects.exe
+C:\Users\GRIGS\source\repos\ObjectsAndClasses-Exercise\TeamworkProjects\bin\Debug\net6.0\TeamworkProjects.deps.json
+C:\Users\GRIGS\source\repos\ObjectsAndClasses-Exercise\TeamworkProjects\bin\Debug\net6.0\TeamworkProjects.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ObjectsAndClasses-Exercise\TeamworkProjects\bin\Debug\net6.0\TeamworkProjects.dll
+C:\Users\GRIGS\source\repos\ObjectsAndClasses-Exercise\TeamworkProjects\bin\Debug\net6.0\TeamworkProjects.pdb
+C:\Users\GRIGS\source\repos\ObjectsAndClasses-Exercise\TeamworkProjects\obj\Debug\net6.0\TeamworkProjects.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ObjectsAndClasses-Exercise\TeamworkProjects\obj\Debug\net6.0\TeamworkProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ObjectsAndClasses-Exercise\TeamworkProjects\obj\Debug\net6.0\TeamworkProjects.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ObjectsAndClasses-Exercise\TeamworkProjects\obj\Debug\net6.0\TeamworkProjects.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ObjectsAndClasses-Exercise\TeamworkProjects\obj\Debug\net6.0\TeamworkProjects.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ObjectsAndClasses-Exercise\TeamworkProjects\obj\Debug\net6.0\TeamworkProjects.dll
+C:\Users\GRIGS\source\repos\ObjectsAndClasses-Exercise\TeamworkProjects\obj\Debug\net6.0\refint\TeamworkProjects.dll
+C:\Users\GRIGS\source\repos\ObjectsAndClasses-Exercise\TeamworkProjects\obj\Debug\net6.0\TeamworkProjects.pdb
+C:\Users\GRIGS\source\repos\ObjectsAndClasses-Exercise\TeamworkProjects\obj\Debug\net6.0\TeamworkProjects.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ObjectsAndClasses-Exercise\TeamworkProjects\obj\Debug\net6.0\ref\TeamworkProjects.dll
