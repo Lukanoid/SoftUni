@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\OddOccurrences\bin\Debug\net6.0\OddOccurrences.exe
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\OddOccurrences\bin\Debug\net6.0\OddOccurrences.deps.json
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\OddOccurrences\bin\Debug\net6.0\OddOccurrences.runtimeconfig.json
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\OddOccurrences\bin\Debug\net6.0\OddOccurrences.dll
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\OddOccurrences\bin\Debug\net6.0\OddOccurrences.pdb
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\OddOccurrences\obj\Debug\net6.0\OddOccurrences.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\OddOccurrences\obj\Debug\net6.0\OddOccurrences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\OddOccurrences\obj\Debug\net6.0\OddOccurrences.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\OddOccurrences\obj\Debug\net6.0\OddOccurrences.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\OddOccurrences\obj\Debug\net6.0\OddOccurrences.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\OddOccurrences\obj\Debug\net6.0\OddOccurrences.dll
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\OddOccurrences\obj\Debug\net6.0\refint\OddOccurrences.dll
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\OddOccurrences\obj\Debug\net6.0\OddOccurrences.pdb
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\OddOccurrences\obj\Debug\net6.0\OddOccurrences.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\OddOccurrences\obj\Debug\net6.0\ref\OddOccurrences.dll

@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\WordSynonyms\bin\Debug\net6.0\WordSynonyms.exe
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\WordSynonyms\bin\Debug\net6.0\WordSynonyms.deps.json
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\WordSynonyms\bin\Debug\net6.0\WordSynonyms.runtimeconfig.json
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\WordSynonyms\bin\Debug\net6.0\WordSynonyms.dll
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\WordSynonyms\bin\Debug\net6.0\WordSynonyms.pdb
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\WordSynonyms\obj\Debug\net6.0\WordSynonyms.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\WordSynonyms\obj\Debug\net6.0\WordSynonyms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\WordSynonyms\obj\Debug\net6.0\WordSynonyms.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\WordSynonyms\obj\Debug\net6.0\WordSynonyms.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\WordSynonyms\obj\Debug\net6.0\WordSynonyms.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\WordSynonyms\obj\Debug\net6.0\WordSynonyms.dll
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\WordSynonyms\obj\Debug\net6.0\refint\WordSynonyms.dll
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\WordSynonyms\obj\Debug\net6.0\WordSynonyms.pdb
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\WordSynonyms\obj\Debug\net6.0\WordSynonyms.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\WordSynonyms\obj\Debug\net6.0\ref\WordSynonyms.dll

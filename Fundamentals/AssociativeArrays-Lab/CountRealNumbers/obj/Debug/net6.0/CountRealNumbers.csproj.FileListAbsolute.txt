@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\CountRealNumbers\bin\Debug\net6.0\CountRealNumbers.exe
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\CountRealNumbers\bin\Debug\net6.0\CountRealNumbers.deps.json
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\CountRealNumbers\bin\Debug\net6.0\CountRealNumbers.runtimeconfig.json
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\CountRealNumbers\bin\Debug\net6.0\CountRealNumbers.dll
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\CountRealNumbers\bin\Debug\net6.0\CountRealNumbers.pdb
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\CountRealNumbers\obj\Debug\net6.0\CountRealNumbers.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\CountRealNumbers\obj\Debug\net6.0\CountRealNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\CountRealNumbers\obj\Debug\net6.0\CountRealNumbers.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\CountRealNumbers\obj\Debug\net6.0\CountRealNumbers.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\CountRealNumbers\obj\Debug\net6.0\CountRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\CountRealNumbers\obj\Debug\net6.0\CountRealNumbers.dll
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\CountRealNumbers\obj\Debug\net6.0\refint\CountRealNumbers.dll
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\CountRealNumbers\obj\Debug\net6.0\CountRealNumbers.pdb
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\CountRealNumbers\obj\Debug\net6.0\CountRealNumbers.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\CountRealNumbers\obj\Debug\net6.0\ref\CountRealNumbers.dll

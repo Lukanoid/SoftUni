@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\WordFilter\bin\Debug\net6.0\WordFilter.exe
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\WordFilter\bin\Debug\net6.0\WordFilter.deps.json
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\WordFilter\bin\Debug\net6.0\WordFilter.runtimeconfig.json
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\WordFilter\bin\Debug\net6.0\WordFilter.dll
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\WordFilter\bin\Debug\net6.0\WordFilter.pdb
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\WordFilter\obj\Debug\net6.0\WordFilter.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\WordFilter\obj\Debug\net6.0\WordFilter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\WordFilter\obj\Debug\net6.0\WordFilter.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\WordFilter\obj\Debug\net6.0\WordFilter.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\WordFilter\obj\Debug\net6.0\WordFilter.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\WordFilter\obj\Debug\net6.0\WordFilter.dll
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\WordFilter\obj\Debug\net6.0\refint\WordFilter.dll
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\WordFilter\obj\Debug\net6.0\WordFilter.pdb
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\WordFilter\obj\Debug\net6.0\WordFilter.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\AssociativeArrays-Lab\WordFilter\obj\Debug\net6.0\ref\WordFilter.dll
