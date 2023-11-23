@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\StudentAcademy\bin\Debug\net6.0\StudentAcademy.exe
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\StudentAcademy\bin\Debug\net6.0\StudentAcademy.deps.json
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\StudentAcademy\bin\Debug\net6.0\StudentAcademy.runtimeconfig.json
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\StudentAcademy\bin\Debug\net6.0\StudentAcademy.dll
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\StudentAcademy\bin\Debug\net6.0\StudentAcademy.pdb
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\StudentAcademy\obj\Debug\net6.0\StudentAcademy.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\StudentAcademy\obj\Debug\net6.0\StudentAcademy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\StudentAcademy\obj\Debug\net6.0\StudentAcademy.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\StudentAcademy\obj\Debug\net6.0\StudentAcademy.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\StudentAcademy\obj\Debug\net6.0\StudentAcademy.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\StudentAcademy\obj\Debug\net6.0\StudentAcademy.dll
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\StudentAcademy\obj\Debug\net6.0\refint\StudentAcademy.dll
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\StudentAcademy\obj\Debug\net6.0\StudentAcademy.pdb
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\StudentAcademy\obj\Debug\net6.0\StudentAcademy.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\StudentAcademy\obj\Debug\net6.0\ref\StudentAcademy.dll

@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\CompanyUsers\bin\Debug\net6.0\CompanyUsers.exe
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\CompanyUsers\bin\Debug\net6.0\CompanyUsers.deps.json
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\CompanyUsers\bin\Debug\net6.0\CompanyUsers.runtimeconfig.json
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\CompanyUsers\bin\Debug\net6.0\CompanyUsers.dll
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\CompanyUsers\bin\Debug\net6.0\CompanyUsers.pdb
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\CompanyUsers\obj\Debug\net6.0\CompanyUsers.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\CompanyUsers\obj\Debug\net6.0\CompanyUsers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\CompanyUsers\obj\Debug\net6.0\CompanyUsers.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\CompanyUsers\obj\Debug\net6.0\CompanyUsers.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\CompanyUsers\obj\Debug\net6.0\CompanyUsers.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\CompanyUsers\obj\Debug\net6.0\CompanyUsers.dll
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\CompanyUsers\obj\Debug\net6.0\refint\CompanyUsers.dll
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\CompanyUsers\obj\Debug\net6.0\CompanyUsers.pdb
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\CompanyUsers\obj\Debug\net6.0\CompanyUsers.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\CompanyUsers\obj\Debug\net6.0\ref\CompanyUsers.dll
