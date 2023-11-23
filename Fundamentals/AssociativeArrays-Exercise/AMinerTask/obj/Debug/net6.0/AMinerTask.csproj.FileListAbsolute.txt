@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\AMinerTask\bin\Debug\net6.0\AMinerTask.exe
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\AMinerTask\bin\Debug\net6.0\AMinerTask.deps.json
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\AMinerTask\bin\Debug\net6.0\AMinerTask.runtimeconfig.json
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\AMinerTask\bin\Debug\net6.0\AMinerTask.dll
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\AMinerTask\bin\Debug\net6.0\AMinerTask.pdb
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\AMinerTask\obj\Debug\net6.0\AMinerTask.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\AMinerTask\obj\Debug\net6.0\AMinerTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\AMinerTask\obj\Debug\net6.0\AMinerTask.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\AMinerTask\obj\Debug\net6.0\AMinerTask.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\AMinerTask\obj\Debug\net6.0\AMinerTask.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\AMinerTask\obj\Debug\net6.0\AMinerTask.dll
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\AMinerTask\obj\Debug\net6.0\refint\AMinerTask.dll
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\AMinerTask\obj\Debug\net6.0\AMinerTask.pdb
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\AMinerTask\obj\Debug\net6.0\AMinerTask.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\AMinerTask\obj\Debug\net6.0\ref\AMinerTask.dll

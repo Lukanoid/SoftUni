@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\Orders\bin\Debug\net6.0\Orders.exe
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\Orders\bin\Debug\net6.0\Orders.deps.json
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\Orders\bin\Debug\net6.0\Orders.runtimeconfig.json
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\Orders\bin\Debug\net6.0\Orders.dll
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\Orders\bin\Debug\net6.0\Orders.pdb
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\Orders\obj\Debug\net6.0\Orders.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\Orders\obj\Debug\net6.0\Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\Orders\obj\Debug\net6.0\Orders.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\Orders\obj\Debug\net6.0\Orders.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\Orders\obj\Debug\net6.0\Orders.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\Orders\obj\Debug\net6.0\Orders.dll
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\Orders\obj\Debug\net6.0\refint\Orders.dll
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\Orders\obj\Debug\net6.0\Orders.pdb
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\Orders\obj\Debug\net6.0\Orders.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\Orders\obj\Debug\net6.0\ref\Orders.dll

@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\Courses\bin\Debug\net6.0\Courses.exe
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\Courses\bin\Debug\net6.0\Courses.deps.json
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\Courses\bin\Debug\net6.0\Courses.runtimeconfig.json
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\Courses\bin\Debug\net6.0\Courses.dll
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\Courses\bin\Debug\net6.0\Courses.pdb
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\Courses\obj\Debug\net6.0\Courses.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\Courses\obj\Debug\net6.0\Courses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\Courses\obj\Debug\net6.0\Courses.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\Courses\obj\Debug\net6.0\Courses.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\Courses\obj\Debug\net6.0\Courses.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\Courses\obj\Debug\net6.0\Courses.dll
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\Courses\obj\Debug\net6.0\refint\Courses.dll
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\Courses\obj\Debug\net6.0\Courses.pdb
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\Courses\obj\Debug\net6.0\Courses.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\AssociativeArrays-Exercise\Courses\obj\Debug\net6.0\ref\Courses.dll
