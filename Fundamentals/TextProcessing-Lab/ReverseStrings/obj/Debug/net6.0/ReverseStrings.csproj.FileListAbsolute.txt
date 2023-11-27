@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\TextProcessing-Lab\ReverseStrings\bin\Debug\net6.0\ReverseStrings.exe
+C:\Users\GRIGS\source\repos\TextProcessing-Lab\ReverseStrings\bin\Debug\net6.0\ReverseStrings.deps.json
+C:\Users\GRIGS\source\repos\TextProcessing-Lab\ReverseStrings\bin\Debug\net6.0\ReverseStrings.runtimeconfig.json
+C:\Users\GRIGS\source\repos\TextProcessing-Lab\ReverseStrings\bin\Debug\net6.0\ReverseStrings.dll
+C:\Users\GRIGS\source\repos\TextProcessing-Lab\ReverseStrings\bin\Debug\net6.0\ReverseStrings.pdb
+C:\Users\GRIGS\source\repos\TextProcessing-Lab\ReverseStrings\obj\Debug\net6.0\ReverseStrings.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\TextProcessing-Lab\ReverseStrings\obj\Debug\net6.0\ReverseStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\TextProcessing-Lab\ReverseStrings\obj\Debug\net6.0\ReverseStrings.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\TextProcessing-Lab\ReverseStrings\obj\Debug\net6.0\ReverseStrings.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\TextProcessing-Lab\ReverseStrings\obj\Debug\net6.0\ReverseStrings.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\TextProcessing-Lab\ReverseStrings\obj\Debug\net6.0\ReverseStrings.dll
+C:\Users\GRIGS\source\repos\TextProcessing-Lab\ReverseStrings\obj\Debug\net6.0\refint\ReverseStrings.dll
+C:\Users\GRIGS\source\repos\TextProcessing-Lab\ReverseStrings\obj\Debug\net6.0\ReverseStrings.pdb
+C:\Users\GRIGS\source\repos\TextProcessing-Lab\ReverseStrings\obj\Debug\net6.0\ReverseStrings.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\TextProcessing-Lab\ReverseStrings\obj\Debug\net6.0\ref\ReverseStrings.dll

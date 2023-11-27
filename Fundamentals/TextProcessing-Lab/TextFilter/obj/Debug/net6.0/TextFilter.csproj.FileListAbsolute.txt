@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\TextProcessing-Lab\TextFilter\bin\Debug\net6.0\TextFilter.exe
+C:\Users\GRIGS\source\repos\TextProcessing-Lab\TextFilter\bin\Debug\net6.0\TextFilter.deps.json
+C:\Users\GRIGS\source\repos\TextProcessing-Lab\TextFilter\bin\Debug\net6.0\TextFilter.runtimeconfig.json
+C:\Users\GRIGS\source\repos\TextProcessing-Lab\TextFilter\bin\Debug\net6.0\TextFilter.dll
+C:\Users\GRIGS\source\repos\TextProcessing-Lab\TextFilter\bin\Debug\net6.0\TextFilter.pdb
+C:\Users\GRIGS\source\repos\TextProcessing-Lab\TextFilter\obj\Debug\net6.0\TextFilter.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\TextProcessing-Lab\TextFilter\obj\Debug\net6.0\TextFilter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\TextProcessing-Lab\TextFilter\obj\Debug\net6.0\TextFilter.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\TextProcessing-Lab\TextFilter\obj\Debug\net6.0\TextFilter.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\TextProcessing-Lab\TextFilter\obj\Debug\net6.0\TextFilter.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\TextProcessing-Lab\TextFilter\obj\Debug\net6.0\TextFilter.dll
+C:\Users\GRIGS\source\repos\TextProcessing-Lab\TextFilter\obj\Debug\net6.0\refint\TextFilter.dll
+C:\Users\GRIGS\source\repos\TextProcessing-Lab\TextFilter\obj\Debug\net6.0\TextFilter.pdb
+C:\Users\GRIGS\source\repos\TextProcessing-Lab\TextFilter\obj\Debug\net6.0\TextFilter.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\TextProcessing-Lab\TextFilter\obj\Debug\net6.0\ref\TextFilter.dll

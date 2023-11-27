@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\TextProcessing-Lab\RepeatStrings\bin\Debug\net6.0\RepeatStrings.exe
+C:\Users\GRIGS\source\repos\TextProcessing-Lab\RepeatStrings\bin\Debug\net6.0\RepeatStrings.deps.json
+C:\Users\GRIGS\source\repos\TextProcessing-Lab\RepeatStrings\bin\Debug\net6.0\RepeatStrings.runtimeconfig.json
+C:\Users\GRIGS\source\repos\TextProcessing-Lab\RepeatStrings\bin\Debug\net6.0\RepeatStrings.dll
+C:\Users\GRIGS\source\repos\TextProcessing-Lab\RepeatStrings\bin\Debug\net6.0\RepeatStrings.pdb
+C:\Users\GRIGS\source\repos\TextProcessing-Lab\RepeatStrings\obj\Debug\net6.0\RepeatStrings.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\TextProcessing-Lab\RepeatStrings\obj\Debug\net6.0\RepeatStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\TextProcessing-Lab\RepeatStrings\obj\Debug\net6.0\RepeatStrings.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\TextProcessing-Lab\RepeatStrings\obj\Debug\net6.0\RepeatStrings.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\TextProcessing-Lab\RepeatStrings\obj\Debug\net6.0\RepeatStrings.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\TextProcessing-Lab\RepeatStrings\obj\Debug\net6.0\RepeatStrings.dll
+C:\Users\GRIGS\source\repos\TextProcessing-Lab\RepeatStrings\obj\Debug\net6.0\refint\RepeatStrings.dll
+C:\Users\GRIGS\source\repos\TextProcessing-Lab\RepeatStrings\obj\Debug\net6.0\RepeatStrings.pdb
+C:\Users\GRIGS\source\repos\TextProcessing-Lab\RepeatStrings\obj\Debug\net6.0\RepeatStrings.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\TextProcessing-Lab\RepeatStrings\obj\Debug\net6.0\ref\RepeatStrings.dll
