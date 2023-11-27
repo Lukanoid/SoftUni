@@ -24,7 +24,7 @@ namespace DigitsLettersAndOthers
                 }
                 else
                 {
-                    allSymbols += word;
+                    allSymbols = word.ToString();
                 }
  
             }
