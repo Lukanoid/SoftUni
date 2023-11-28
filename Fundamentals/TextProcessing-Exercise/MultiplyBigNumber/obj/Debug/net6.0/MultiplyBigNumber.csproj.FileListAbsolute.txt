@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\MultiplyBigNumber\bin\Debug\net6.0\MultiplyBigNumber.exe
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\MultiplyBigNumber\bin\Debug\net6.0\MultiplyBigNumber.deps.json
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\MultiplyBigNumber\bin\Debug\net6.0\MultiplyBigNumber.runtimeconfig.json
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\MultiplyBigNumber\bin\Debug\net6.0\MultiplyBigNumber.dll
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\MultiplyBigNumber\bin\Debug\net6.0\MultiplyBigNumber.pdb
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\MultiplyBigNumber\obj\Debug\net6.0\MultiplyBigNumber.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\MultiplyBigNumber\obj\Debug\net6.0\MultiplyBigNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\MultiplyBigNumber\obj\Debug\net6.0\MultiplyBigNumber.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\MultiplyBigNumber\obj\Debug\net6.0\MultiplyBigNumber.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\MultiplyBigNumber\obj\Debug\net6.0\MultiplyBigNumber.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\MultiplyBigNumber\obj\Debug\net6.0\MultiplyBigNumber.dll
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\MultiplyBigNumber\obj\Debug\net6.0\refint\MultiplyBigNumber.dll
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\MultiplyBigNumber\obj\Debug\net6.0\MultiplyBigNumber.pdb
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\MultiplyBigNumber\obj\Debug\net6.0\MultiplyBigNumber.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\MultiplyBigNumber\obj\Debug\net6.0\ref\MultiplyBigNumber.dll

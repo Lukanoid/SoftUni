@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\ValidUsernames\bin\Debug\net6.0\ValidUsernames.exe
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\ValidUsernames\bin\Debug\net6.0\ValidUsernames.deps.json
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\ValidUsernames\bin\Debug\net6.0\ValidUsernames.runtimeconfig.json
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\ValidUsernames\bin\Debug\net6.0\ValidUsernames.dll
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\ValidUsernames\bin\Debug\net6.0\ValidUsernames.pdb
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\ValidUsernames\obj\Debug\net6.0\ValidUsernames.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\ValidUsernames\obj\Debug\net6.0\ValidUsernames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\ValidUsernames\obj\Debug\net6.0\ValidUsernames.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\ValidUsernames\obj\Debug\net6.0\ValidUsernames.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\ValidUsernames\obj\Debug\net6.0\ValidUsernames.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\ValidUsernames\obj\Debug\net6.0\ValidUsernames.dll
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\ValidUsernames\obj\Debug\net6.0\refint\ValidUsernames.dll
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\ValidUsernames\obj\Debug\net6.0\ValidUsernames.pdb
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\ValidUsernames\obj\Debug\net6.0\ValidUsernames.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\ValidUsernames\obj\Debug\net6.0\ref\ValidUsernames.dll

@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\ExtractFile\bin\Debug\net6.0\ExtractFile.exe
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\ExtractFile\bin\Debug\net6.0\ExtractFile.deps.json
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\ExtractFile\bin\Debug\net6.0\ExtractFile.runtimeconfig.json
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\ExtractFile\bin\Debug\net6.0\ExtractFile.dll
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\ExtractFile\bin\Debug\net6.0\ExtractFile.pdb
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\ExtractFile\obj\Debug\net6.0\ExtractFile.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\ExtractFile\obj\Debug\net6.0\ExtractFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\ExtractFile\obj\Debug\net6.0\ExtractFile.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\ExtractFile\obj\Debug\net6.0\ExtractFile.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\ExtractFile\obj\Debug\net6.0\ExtractFile.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\ExtractFile\obj\Debug\net6.0\ExtractFile.dll
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\ExtractFile\obj\Debug\net6.0\refint\ExtractFile.dll
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\ExtractFile\obj\Debug\net6.0\ExtractFile.pdb
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\ExtractFile\obj\Debug\net6.0\ExtractFile.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\ExtractFile\obj\Debug\net6.0\ref\ExtractFile.dll
