@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\ReplaceRepeatingChars\bin\Debug\net6.0\ReplaceRepeatingChars.exe
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\ReplaceRepeatingChars\bin\Debug\net6.0\ReplaceRepeatingChars.deps.json
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\ReplaceRepeatingChars\bin\Debug\net6.0\ReplaceRepeatingChars.runtimeconfig.json
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\ReplaceRepeatingChars\bin\Debug\net6.0\ReplaceRepeatingChars.dll
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\ReplaceRepeatingChars\bin\Debug\net6.0\ReplaceRepeatingChars.pdb
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\ReplaceRepeatingChars\obj\Debug\net6.0\ReplaceRepeatingChars.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\ReplaceRepeatingChars\obj\Debug\net6.0\ReplaceRepeatingChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\ReplaceRepeatingChars\obj\Debug\net6.0\ReplaceRepeatingChars.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\ReplaceRepeatingChars\obj\Debug\net6.0\ReplaceRepeatingChars.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\ReplaceRepeatingChars\obj\Debug\net6.0\ReplaceRepeatingChars.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\ReplaceRepeatingChars\obj\Debug\net6.0\ReplaceRepeatingChars.dll
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\ReplaceRepeatingChars\obj\Debug\net6.0\refint\ReplaceRepeatingChars.dll
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\ReplaceRepeatingChars\obj\Debug\net6.0\ReplaceRepeatingChars.pdb
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\ReplaceRepeatingChars\obj\Debug\net6.0\ReplaceRepeatingChars.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\ReplaceRepeatingChars\obj\Debug\net6.0\ref\ReplaceRepeatingChars.dll

@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\StringExplosion\bin\Debug\net6.0\StringExplosion.exe
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\StringExplosion\bin\Debug\net6.0\StringExplosion.deps.json
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\StringExplosion\bin\Debug\net6.0\StringExplosion.runtimeconfig.json
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\StringExplosion\bin\Debug\net6.0\StringExplosion.dll
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\StringExplosion\bin\Debug\net6.0\StringExplosion.pdb
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\StringExplosion\obj\Debug\net6.0\StringExplosion.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\StringExplosion\obj\Debug\net6.0\StringExplosion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\StringExplosion\obj\Debug\net6.0\StringExplosion.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\StringExplosion\obj\Debug\net6.0\StringExplosion.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\StringExplosion\obj\Debug\net6.0\StringExplosion.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\StringExplosion\obj\Debug\net6.0\StringExplosion.dll
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\StringExplosion\obj\Debug\net6.0\refint\StringExplosion.dll
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\StringExplosion\obj\Debug\net6.0\StringExplosion.pdb
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\StringExplosion\obj\Debug\net6.0\StringExplosion.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\StringExplosion\obj\Debug\net6.0\ref\StringExplosion.dll

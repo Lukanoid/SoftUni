@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\LettersChangeNumbers\bin\Debug\net6.0\LettersChangeNumbers.exe
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\LettersChangeNumbers\bin\Debug\net6.0\LettersChangeNumbers.deps.json
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\LettersChangeNumbers\bin\Debug\net6.0\LettersChangeNumbers.runtimeconfig.json
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\LettersChangeNumbers\bin\Debug\net6.0\LettersChangeNumbers.dll
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\LettersChangeNumbers\bin\Debug\net6.0\LettersChangeNumbers.pdb
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\LettersChangeNumbers\obj\Debug\net6.0\LettersChangeNumbers.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\LettersChangeNumbers\obj\Debug\net6.0\LettersChangeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\LettersChangeNumbers\obj\Debug\net6.0\LettersChangeNumbers.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\LettersChangeNumbers\obj\Debug\net6.0\LettersChangeNumbers.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\LettersChangeNumbers\obj\Debug\net6.0\LettersChangeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\LettersChangeNumbers\obj\Debug\net6.0\LettersChangeNumbers.dll
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\LettersChangeNumbers\obj\Debug\net6.0\refint\LettersChangeNumbers.dll
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\LettersChangeNumbers\obj\Debug\net6.0\LettersChangeNumbers.pdb
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\LettersChangeNumbers\obj\Debug\net6.0\LettersChangeNumbers.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\TextProcessing-Exercise\LettersChangeNumbers\obj\Debug\net6.0\ref\LettersChangeNumbers.dll
