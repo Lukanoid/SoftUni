@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\RegularExpressions-Lab\MatchDates\bin\Debug\net6.0\MatchDates.exe
+C:\Users\GRIGS\source\repos\RegularExpressions-Lab\MatchDates\bin\Debug\net6.0\MatchDates.deps.json
+C:\Users\GRIGS\source\repos\RegularExpressions-Lab\MatchDates\bin\Debug\net6.0\MatchDates.runtimeconfig.json
+C:\Users\GRIGS\source\repos\RegularExpressions-Lab\MatchDates\bin\Debug\net6.0\MatchDates.dll
+C:\Users\GRIGS\source\repos\RegularExpressions-Lab\MatchDates\bin\Debug\net6.0\MatchDates.pdb
+C:\Users\GRIGS\source\repos\RegularExpressions-Lab\MatchDates\obj\Debug\net6.0\MatchDates.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\RegularExpressions-Lab\MatchDates\obj\Debug\net6.0\MatchDates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\RegularExpressions-Lab\MatchDates\obj\Debug\net6.0\MatchDates.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\RegularExpressions-Lab\MatchDates\obj\Debug\net6.0\MatchDates.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\RegularExpressions-Lab\MatchDates\obj\Debug\net6.0\MatchDates.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\RegularExpressions-Lab\MatchDates\obj\Debug\net6.0\MatchDates.dll
+C:\Users\GRIGS\source\repos\RegularExpressions-Lab\MatchDates\obj\Debug\net6.0\refint\MatchDates.dll
+C:\Users\GRIGS\source\repos\RegularExpressions-Lab\MatchDates\obj\Debug\net6.0\MatchDates.pdb
+C:\Users\GRIGS\source\repos\RegularExpressions-Lab\MatchDates\obj\Debug\net6.0\MatchDates.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\RegularExpressions-Lab\MatchDates\obj\Debug\net6.0\ref\MatchDates.dll
