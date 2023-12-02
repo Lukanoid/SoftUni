@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\RegularExpressions-Exercise\SoftUniBarIncome\bin\Debug\net6.0\SoftUniBarIncome.exe
+C:\Users\GRIGS\source\repos\RegularExpressions-Exercise\SoftUniBarIncome\bin\Debug\net6.0\SoftUniBarIncome.deps.json
+C:\Users\GRIGS\source\repos\RegularExpressions-Exercise\SoftUniBarIncome\bin\Debug\net6.0\SoftUniBarIncome.runtimeconfig.json
+C:\Users\GRIGS\source\repos\RegularExpressions-Exercise\SoftUniBarIncome\bin\Debug\net6.0\SoftUniBarIncome.dll
+C:\Users\GRIGS\source\repos\RegularExpressions-Exercise\SoftUniBarIncome\bin\Debug\net6.0\SoftUniBarIncome.pdb
+C:\Users\GRIGS\source\repos\RegularExpressions-Exercise\SoftUniBarIncome\obj\Debug\net6.0\SoftUniBarIncome.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\RegularExpressions-Exercise\SoftUniBarIncome\obj\Debug\net6.0\SoftUniBarIncome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\RegularExpressions-Exercise\SoftUniBarIncome\obj\Debug\net6.0\SoftUniBarIncome.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\RegularExpressions-Exercise\SoftUniBarIncome\obj\Debug\net6.0\SoftUniBarIncome.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\RegularExpressions-Exercise\SoftUniBarIncome\obj\Debug\net6.0\SoftUniBarIncome.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\RegularExpressions-Exercise\SoftUniBarIncome\obj\Debug\net6.0\SoftUniBarIncome.dll
+C:\Users\GRIGS\source\repos\RegularExpressions-Exercise\SoftUniBarIncome\obj\Debug\net6.0\refint\SoftUniBarIncome.dll
+C:\Users\GRIGS\source\repos\RegularExpressions-Exercise\SoftUniBarIncome\obj\Debug\net6.0\SoftUniBarIncome.pdb
+C:\Users\GRIGS\source\repos\RegularExpressions-Exercise\SoftUniBarIncome\obj\Debug\net6.0\SoftUniBarIncome.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\RegularExpressions-Exercise\SoftUniBarIncome\obj\Debug\net6.0\ref\SoftUniBarIncome.dll
