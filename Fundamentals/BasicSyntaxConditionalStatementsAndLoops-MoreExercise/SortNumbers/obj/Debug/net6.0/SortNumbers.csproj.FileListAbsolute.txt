@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\SortNumbers\bin\Debug\net6.0\SortNumbers.exe
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\SortNumbers\bin\Debug\net6.0\SortNumbers.deps.json
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\SortNumbers\bin\Debug\net6.0\SortNumbers.runtimeconfig.json
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\SortNumbers\bin\Debug\net6.0\SortNumbers.dll
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\SortNumbers\bin\Debug\net6.0\SortNumbers.pdb
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\SortNumbers\obj\Debug\net6.0\SortNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\SortNumbers\obj\Debug\net6.0\SortNumbers.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\SortNumbers\obj\Debug\net6.0\SortNumbers.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\SortNumbers\obj\Debug\net6.0\SortNumbers.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\SortNumbers\obj\Debug\net6.0\SortNumbers.dll
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\SortNumbers\obj\Debug\net6.0\refint\SortNumbers.dll
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\SortNumbers\obj\Debug\net6.0\SortNumbers.pdb
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\SortNumbers\obj\Debug\net6.0\SortNumbers.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\SortNumbers\obj\Debug\net6.0\ref\SortNumbers.dll

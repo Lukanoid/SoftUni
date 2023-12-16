@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\Messages\bin\Debug\net6.0\Messages.exe
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\Messages\bin\Debug\net6.0\Messages.deps.json
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\Messages\bin\Debug\net6.0\Messages.runtimeconfig.json
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\Messages\bin\Debug\net6.0\Messages.dll
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\Messages\bin\Debug\net6.0\Messages.pdb
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\Messages\obj\Debug\net6.0\Messages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\Messages\obj\Debug\net6.0\Messages.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\Messages\obj\Debug\net6.0\Messages.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\Messages\obj\Debug\net6.0\Messages.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\Messages\obj\Debug\net6.0\Messages.dll
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\Messages\obj\Debug\net6.0\refint\Messages.dll
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\Messages\obj\Debug\net6.0\Messages.pdb
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\Messages\obj\Debug\net6.0\Messages.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\Messages\obj\Debug\net6.0\ref\Messages.dll

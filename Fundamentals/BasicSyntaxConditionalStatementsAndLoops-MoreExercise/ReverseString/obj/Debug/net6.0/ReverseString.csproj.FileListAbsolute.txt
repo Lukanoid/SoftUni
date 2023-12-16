@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\ReverseString\bin\Debug\net6.0\ReverseString.exe
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\ReverseString\bin\Debug\net6.0\ReverseString.deps.json
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\ReverseString\bin\Debug\net6.0\ReverseString.runtimeconfig.json
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\ReverseString\bin\Debug\net6.0\ReverseString.dll
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\ReverseString\bin\Debug\net6.0\ReverseString.pdb
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\ReverseString\obj\Debug\net6.0\ReverseString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\ReverseString\obj\Debug\net6.0\ReverseString.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\ReverseString\obj\Debug\net6.0\ReverseString.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\ReverseString\obj\Debug\net6.0\ReverseString.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\ReverseString\obj\Debug\net6.0\ReverseString.dll
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\ReverseString\obj\Debug\net6.0\refint\ReverseString.dll
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\ReverseString\obj\Debug\net6.0\ReverseString.pdb
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\ReverseString\obj\Debug\net6.0\ReverseString.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\ReverseString\obj\Debug\net6.0\ref\ReverseString.dll

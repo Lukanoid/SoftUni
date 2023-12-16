@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\EnglishNameОfТheLastDigit\bin\Debug\net6.0\EnglishNameОfТheLastDigit.exe
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\EnglishNameОfТheLastDigit\bin\Debug\net6.0\EnglishNameОfТheLastDigit.deps.json
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\EnglishNameОfТheLastDigit\bin\Debug\net6.0\EnglishNameОfТheLastDigit.runtimeconfig.json
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\EnglishNameОfТheLastDigit\bin\Debug\net6.0\EnglishNameОfТheLastDigit.dll
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\EnglishNameОfТheLastDigit\bin\Debug\net6.0\EnglishNameОfТheLastDigit.pdb
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\EnglishNameОfТheLastDigit\obj\Debug\net6.0\EnglishNameОfТheLastDigit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\EnglishNameОfТheLastDigit\obj\Debug\net6.0\EnglishNameОfТheLastDigit.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\EnglishNameОfТheLastDigit\obj\Debug\net6.0\EnglishNameОfТheLastDigit.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\EnglishNameОfТheLastDigit\obj\Debug\net6.0\EnglishNameОfТheLastDigit.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\EnglishNameОfТheLastDigit\obj\Debug\net6.0\EnglishNameОfТheLastDigit.dll
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\EnglishNameОfТheLastDigit\obj\Debug\net6.0\refint\EnglishNameОfТheLastDigit.dll
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\EnglishNameОfТheLastDigit\obj\Debug\net6.0\EnglishNameОfТheLastDigit.pdb
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\EnglishNameОfТheLastDigit\obj\Debug\net6.0\EnglishNameОfТheLastDigit.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\BasicSyntaxConditionalStatementsAndLoops-MoreExercise\EnglishNameОfТheLastDigit\obj\Debug\net6.0\ref\EnglishNameОfТheLastDigit.dll
