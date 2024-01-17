@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\StacksAndQueues-Lab\TrafficJam\bin\Debug\net6.0\TrafficJam.exe
+C:\Users\GRIGS\source\repos\StacksAndQueues-Lab\TrafficJam\bin\Debug\net6.0\TrafficJam.deps.json
+C:\Users\GRIGS\source\repos\StacksAndQueues-Lab\TrafficJam\bin\Debug\net6.0\TrafficJam.runtimeconfig.json
+C:\Users\GRIGS\source\repos\StacksAndQueues-Lab\TrafficJam\bin\Debug\net6.0\TrafficJam.dll
+C:\Users\GRIGS\source\repos\StacksAndQueues-Lab\TrafficJam\bin\Debug\net6.0\TrafficJam.pdb
+C:\Users\GRIGS\source\repos\StacksAndQueues-Lab\TrafficJam\obj\Debug\net6.0\TrafficJam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\StacksAndQueues-Lab\TrafficJam\obj\Debug\net6.0\TrafficJam.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\StacksAndQueues-Lab\TrafficJam\obj\Debug\net6.0\TrafficJam.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\StacksAndQueues-Lab\TrafficJam\obj\Debug\net6.0\TrafficJam.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\StacksAndQueues-Lab\TrafficJam\obj\Debug\net6.0\TrafficJam.dll
+C:\Users\GRIGS\source\repos\StacksAndQueues-Lab\TrafficJam\obj\Debug\net6.0\refint\TrafficJam.dll
+C:\Users\GRIGS\source\repos\StacksAndQueues-Lab\TrafficJam\obj\Debug\net6.0\TrafficJam.pdb
+C:\Users\GRIGS\source\repos\StacksAndQueues-Lab\TrafficJam\obj\Debug\net6.0\TrafficJam.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\StacksAndQueues-Lab\TrafficJam\obj\Debug\net6.0\ref\TrafficJam.dll
