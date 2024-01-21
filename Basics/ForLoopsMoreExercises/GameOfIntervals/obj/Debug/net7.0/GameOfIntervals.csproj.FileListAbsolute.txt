@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\GameOfIntervals\bin\Debug\net7.0\GameOfIntervals.exe
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\GameOfIntervals\bin\Debug\net7.0\GameOfIntervals.deps.json
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\GameOfIntervals\bin\Debug\net7.0\GameOfIntervals.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\GameOfIntervals\bin\Debug\net7.0\GameOfIntervals.dll
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\GameOfIntervals\bin\Debug\net7.0\GameOfIntervals.pdb
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\GameOfIntervals\obj\Debug\net7.0\GameOfIntervals.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\GameOfIntervals\obj\Debug\net7.0\GameOfIntervals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\GameOfIntervals\obj\Debug\net7.0\GameOfIntervals.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\GameOfIntervals\obj\Debug\net7.0\GameOfIntervals.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\GameOfIntervals\obj\Debug\net7.0\GameOfIntervals.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\GameOfIntervals\obj\Debug\net7.0\GameOfIntervals.dll
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\GameOfIntervals\obj\Debug\net7.0\refint\GameOfIntervals.dll
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\GameOfIntervals\obj\Debug\net7.0\GameOfIntervals.pdb
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\GameOfIntervals\obj\Debug\net7.0\GameOfIntervals.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\GameOfIntervals\obj\Debug\net7.0\ref\GameOfIntervals.dll

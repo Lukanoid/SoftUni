@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\FoodDelivery\bin\Debug\net7.0\FoodDelivery.exe
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\FoodDelivery\bin\Debug\net7.0\FoodDelivery.deps.json
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\FoodDelivery\bin\Debug\net7.0\FoodDelivery.runtimeconfig.json
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\FoodDelivery\bin\Debug\net7.0\FoodDelivery.dll
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\FoodDelivery\bin\Debug\net7.0\FoodDelivery.pdb
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\FoodDelivery\obj\Debug\net7.0\FoodDelivery.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\FoodDelivery\obj\Debug\net7.0\FoodDelivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\FoodDelivery\obj\Debug\net7.0\FoodDelivery.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\FoodDelivery\obj\Debug\net7.0\FoodDelivery.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\FoodDelivery\obj\Debug\net7.0\FoodDelivery.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\FoodDelivery\obj\Debug\net7.0\FoodDelivery.dll
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\FoodDelivery\obj\Debug\net7.0\refint\FoodDelivery.dll
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\FoodDelivery\obj\Debug\net7.0\FoodDelivery.pdb
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\FoodDelivery\obj\Debug\net7.0\FoodDelivery.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\FoodDelivery\obj\Debug\net7.0\ref\FoodDelivery.dll

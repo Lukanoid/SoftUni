@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\DepositCalculator\bin\Debug\net7.0\DepositCalculator.exe
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\DepositCalculator\bin\Debug\net7.0\DepositCalculator.deps.json
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\DepositCalculator\bin\Debug\net7.0\DepositCalculator.runtimeconfig.json
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\DepositCalculator\bin\Debug\net7.0\DepositCalculator.dll
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\DepositCalculator\bin\Debug\net7.0\DepositCalculator.pdb
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\DepositCalculator\obj\Debug\net7.0\DepositCalculator.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\DepositCalculator\obj\Debug\net7.0\DepositCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\DepositCalculator\obj\Debug\net7.0\DepositCalculator.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\DepositCalculator\obj\Debug\net7.0\DepositCalculator.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\DepositCalculator\obj\Debug\net7.0\DepositCalculator.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\DepositCalculator\obj\Debug\net7.0\DepositCalculator.dll
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\DepositCalculator\obj\Debug\net7.0\refint\DepositCalculator.dll
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\DepositCalculator\obj\Debug\net7.0\DepositCalculator.pdb
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\DepositCalculator\obj\Debug\net7.0\DepositCalculator.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\DepositCalculator\obj\Debug\net7.0\ref\DepositCalculator.dll

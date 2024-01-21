@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\FruitShop\bin\Debug\net7.0\FruitShop.exe
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\FruitShop\bin\Debug\net7.0\FruitShop.deps.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\FruitShop\bin\Debug\net7.0\FruitShop.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\FruitShop\bin\Debug\net7.0\FruitShop.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\FruitShop\bin\Debug\net7.0\FruitShop.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\FruitShop\obj\Debug\net7.0\FruitShop.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\FruitShop\obj\Debug\net7.0\FruitShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\FruitShop\obj\Debug\net7.0\FruitShop.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\FruitShop\obj\Debug\net7.0\FruitShop.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\FruitShop\obj\Debug\net7.0\FruitShop.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\FruitShop\obj\Debug\net7.0\FruitShop.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\FruitShop\obj\Debug\net7.0\refint\FruitShop.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\FruitShop\obj\Debug\net7.0\FruitShop.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\FruitShop\obj\Debug\net7.0\FruitShop.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\FruitShop\obj\Debug\net7.0\ref\FruitShop.dll

@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\MatchTickets\bin\Debug\net7.0\MatchTickets.exe
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\MatchTickets\bin\Debug\net7.0\MatchTickets.deps.json
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\MatchTickets\bin\Debug\net7.0\MatchTickets.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\MatchTickets\bin\Debug\net7.0\MatchTickets.dll
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\MatchTickets\bin\Debug\net7.0\MatchTickets.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\MatchTickets\obj\Debug\net7.0\MatchTickets.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\MatchTickets\obj\Debug\net7.0\MatchTickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\MatchTickets\obj\Debug\net7.0\MatchTickets.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\MatchTickets\obj\Debug\net7.0\MatchTickets.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\MatchTickets\obj\Debug\net7.0\MatchTickets.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\MatchTickets\obj\Debug\net7.0\MatchTickets.dll
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\MatchTickets\obj\Debug\net7.0\refint\MatchTickets.dll
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\MatchTickets\obj\Debug\net7.0\MatchTickets.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\MatchTickets\obj\Debug\net7.0\MatchTickets.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\MatchTickets\obj\Debug\net7.0\ref\MatchTickets.dll

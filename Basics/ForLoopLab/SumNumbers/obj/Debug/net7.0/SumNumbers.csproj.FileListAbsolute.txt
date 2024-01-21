@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ForLoopLab\SumNumbers\bin\Debug\net7.0\SumNumbers.exe
+C:\Users\GRIGS\source\repos\ForLoopLab\SumNumbers\bin\Debug\net7.0\SumNumbers.deps.json
+C:\Users\GRIGS\source\repos\ForLoopLab\SumNumbers\bin\Debug\net7.0\SumNumbers.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ForLoopLab\SumNumbers\bin\Debug\net7.0\SumNumbers.dll
+C:\Users\GRIGS\source\repos\ForLoopLab\SumNumbers\bin\Debug\net7.0\SumNumbers.pdb
+C:\Users\GRIGS\source\repos\ForLoopLab\SumNumbers\obj\Debug\net7.0\SumNumbers.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ForLoopLab\SumNumbers\obj\Debug\net7.0\SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ForLoopLab\SumNumbers\obj\Debug\net7.0\SumNumbers.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ForLoopLab\SumNumbers\obj\Debug\net7.0\SumNumbers.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ForLoopLab\SumNumbers\obj\Debug\net7.0\SumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ForLoopLab\SumNumbers\obj\Debug\net7.0\SumNumbers.dll
+C:\Users\GRIGS\source\repos\ForLoopLab\SumNumbers\obj\Debug\net7.0\refint\SumNumbers.dll
+C:\Users\GRIGS\source\repos\ForLoopLab\SumNumbers\obj\Debug\net7.0\SumNumbers.pdb
+C:\Users\GRIGS\source\repos\ForLoopLab\SumNumbers\obj\Debug\net7.0\SumNumbers.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ForLoopLab\SumNumbers\obj\Debug\net7.0\ref\SumNumbers.dll

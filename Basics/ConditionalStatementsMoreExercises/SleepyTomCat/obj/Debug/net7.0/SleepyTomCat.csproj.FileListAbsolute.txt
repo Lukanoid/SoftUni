@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\SleepyTomCat\bin\Debug\net7.0\SleepyTomCat.exe
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\SleepyTomCat\bin\Debug\net7.0\SleepyTomCat.deps.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\SleepyTomCat\bin\Debug\net7.0\SleepyTomCat.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\SleepyTomCat\bin\Debug\net7.0\SleepyTomCat.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\SleepyTomCat\bin\Debug\net7.0\SleepyTomCat.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\SleepyTomCat\obj\Debug\net7.0\SleepyTomCat.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\SleepyTomCat\obj\Debug\net7.0\SleepyTomCat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\SleepyTomCat\obj\Debug\net7.0\SleepyTomCat.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\SleepyTomCat\obj\Debug\net7.0\SleepyTomCat.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\SleepyTomCat\obj\Debug\net7.0\SleepyTomCat.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\SleepyTomCat\obj\Debug\net7.0\SleepyTomCat.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\SleepyTomCat\obj\Debug\net7.0\refint\SleepyTomCat.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\SleepyTomCat\obj\Debug\net7.0\SleepyTomCat.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\SleepyTomCat\obj\Debug\net7.0\SleepyTomCat.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\SleepyTomCat\obj\Debug\net7.0\ref\SleepyTomCat.dll

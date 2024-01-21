@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\NestedLoopsLab\Combinations\bin\Debug\net7.0\Combinations.exe
+C:\Users\GRIGS\source\repos\NestedLoopsLab\Combinations\bin\Debug\net7.0\Combinations.deps.json
+C:\Users\GRIGS\source\repos\NestedLoopsLab\Combinations\bin\Debug\net7.0\Combinations.runtimeconfig.json
+C:\Users\GRIGS\source\repos\NestedLoopsLab\Combinations\bin\Debug\net7.0\Combinations.dll
+C:\Users\GRIGS\source\repos\NestedLoopsLab\Combinations\bin\Debug\net7.0\Combinations.pdb
+C:\Users\GRIGS\source\repos\NestedLoopsLab\Combinations\obj\Debug\net7.0\Combinations.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\NestedLoopsLab\Combinations\obj\Debug\net7.0\Combinations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\NestedLoopsLab\Combinations\obj\Debug\net7.0\Combinations.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\NestedLoopsLab\Combinations\obj\Debug\net7.0\Combinations.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\NestedLoopsLab\Combinations\obj\Debug\net7.0\Combinations.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\NestedLoopsLab\Combinations\obj\Debug\net7.0\Combinations.dll
+C:\Users\GRIGS\source\repos\NestedLoopsLab\Combinations\obj\Debug\net7.0\refint\Combinations.dll
+C:\Users\GRIGS\source\repos\NestedLoopsLab\Combinations\obj\Debug\net7.0\Combinations.pdb
+C:\Users\GRIGS\source\repos\NestedLoopsLab\Combinations\obj\Debug\net7.0\Combinations.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\NestedLoopsLab\Combinations\obj\Debug\net7.0\ref\Combinations.dll

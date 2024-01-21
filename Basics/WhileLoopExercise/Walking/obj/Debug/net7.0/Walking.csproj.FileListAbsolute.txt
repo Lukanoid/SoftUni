@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\WhileLoopExercise\Walking\bin\Debug\net7.0\Walking.exe
+C:\Users\GRIGS\source\repos\WhileLoopExercise\Walking\bin\Debug\net7.0\Walking.deps.json
+C:\Users\GRIGS\source\repos\WhileLoopExercise\Walking\bin\Debug\net7.0\Walking.runtimeconfig.json
+C:\Users\GRIGS\source\repos\WhileLoopExercise\Walking\bin\Debug\net7.0\Walking.dll
+C:\Users\GRIGS\source\repos\WhileLoopExercise\Walking\bin\Debug\net7.0\Walking.pdb
+C:\Users\GRIGS\source\repos\WhileLoopExercise\Walking\obj\Debug\net7.0\Walking.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\WhileLoopExercise\Walking\obj\Debug\net7.0\Walking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\WhileLoopExercise\Walking\obj\Debug\net7.0\Walking.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\WhileLoopExercise\Walking\obj\Debug\net7.0\Walking.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\WhileLoopExercise\Walking\obj\Debug\net7.0\Walking.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\WhileLoopExercise\Walking\obj\Debug\net7.0\Walking.dll
+C:\Users\GRIGS\source\repos\WhileLoopExercise\Walking\obj\Debug\net7.0\refint\Walking.dll
+C:\Users\GRIGS\source\repos\WhileLoopExercise\Walking\obj\Debug\net7.0\Walking.pdb
+C:\Users\GRIGS\source\repos\WhileLoopExercise\Walking\obj\Debug\net7.0\Walking.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\WhileLoopExercise\Walking\obj\Debug\net7.0\ref\Walking.dll

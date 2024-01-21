@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\PipesInPool\bin\Debug\net7.0\PipesInPool.exe
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\PipesInPool\bin\Debug\net7.0\PipesInPool.deps.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\PipesInPool\bin\Debug\net7.0\PipesInPool.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\PipesInPool\bin\Debug\net7.0\PipesInPool.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\PipesInPool\bin\Debug\net7.0\PipesInPool.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\PipesInPool\obj\Debug\net7.0\PipesInPool.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\PipesInPool\obj\Debug\net7.0\PipesInPool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\PipesInPool\obj\Debug\net7.0\PipesInPool.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\PipesInPool\obj\Debug\net7.0\PipesInPool.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\PipesInPool\obj\Debug\net7.0\PipesInPool.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\PipesInPool\obj\Debug\net7.0\PipesInPool.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\PipesInPool\obj\Debug\net7.0\refint\PipesInPool.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\PipesInPool\obj\Debug\net7.0\PipesInPool.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\PipesInPool\obj\Debug\net7.0\PipesInPool.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\PipesInPool\obj\Debug\net7.0\ref\PipesInPool.dll

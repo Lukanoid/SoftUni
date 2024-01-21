@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\SumSeconds\bin\Debug\net7.0\SumSeconds.exe
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\SumSeconds\bin\Debug\net7.0\SumSeconds.deps.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\SumSeconds\bin\Debug\net7.0\SumSeconds.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\SumSeconds\bin\Debug\net7.0\SumSeconds.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\SumSeconds\bin\Debug\net7.0\SumSeconds.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\SumSeconds\obj\Debug\net7.0\SumSeconds.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\SumSeconds\obj\Debug\net7.0\SumSeconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\SumSeconds\obj\Debug\net7.0\SumSeconds.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\SumSeconds\obj\Debug\net7.0\SumSeconds.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\SumSeconds\obj\Debug\net7.0\SumSeconds.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\SumSeconds\obj\Debug\net7.0\SumSeconds.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\SumSeconds\obj\Debug\net7.0\refint\SumSeconds.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\SumSeconds\obj\Debug\net7.0\SumSeconds.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\SumSeconds\obj\Debug\net7.0\SumSeconds.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\SumSeconds\obj\Debug\net7.0\ref\SumSeconds.dll

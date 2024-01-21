@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\WhileLoopLab\MaxNumber\bin\Debug\net7.0\MaxNumber.exe
+C:\Users\GRIGS\source\repos\WhileLoopLab\MaxNumber\bin\Debug\net7.0\MaxNumber.deps.json
+C:\Users\GRIGS\source\repos\WhileLoopLab\MaxNumber\bin\Debug\net7.0\MaxNumber.runtimeconfig.json
+C:\Users\GRIGS\source\repos\WhileLoopLab\MaxNumber\bin\Debug\net7.0\MaxNumber.dll
+C:\Users\GRIGS\source\repos\WhileLoopLab\MaxNumber\bin\Debug\net7.0\MaxNumber.pdb
+C:\Users\GRIGS\source\repos\WhileLoopLab\MaxNumber\obj\Debug\net7.0\MaxNumber.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\WhileLoopLab\MaxNumber\obj\Debug\net7.0\MaxNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\WhileLoopLab\MaxNumber\obj\Debug\net7.0\MaxNumber.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\WhileLoopLab\MaxNumber\obj\Debug\net7.0\MaxNumber.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\WhileLoopLab\MaxNumber\obj\Debug\net7.0\MaxNumber.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\WhileLoopLab\MaxNumber\obj\Debug\net7.0\MaxNumber.dll
+C:\Users\GRIGS\source\repos\WhileLoopLab\MaxNumber\obj\Debug\net7.0\refint\MaxNumber.dll
+C:\Users\GRIGS\source\repos\WhileLoopLab\MaxNumber\obj\Debug\net7.0\MaxNumber.pdb
+C:\Users\GRIGS\source\repos\WhileLoopLab\MaxNumber\obj\Debug\net7.0\MaxNumber.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\WhileLoopLab\MaxNumber\obj\Debug\net7.0\ref\MaxNumber.dll

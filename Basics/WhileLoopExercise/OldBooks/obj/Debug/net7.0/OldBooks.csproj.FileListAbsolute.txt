@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\WhileLoopExercise\OldBooks\bin\Debug\net7.0\OldBooks.exe
+C:\Users\GRIGS\source\repos\WhileLoopExercise\OldBooks\bin\Debug\net7.0\OldBooks.deps.json
+C:\Users\GRIGS\source\repos\WhileLoopExercise\OldBooks\bin\Debug\net7.0\OldBooks.runtimeconfig.json
+C:\Users\GRIGS\source\repos\WhileLoopExercise\OldBooks\bin\Debug\net7.0\OldBooks.dll
+C:\Users\GRIGS\source\repos\WhileLoopExercise\OldBooks\bin\Debug\net7.0\OldBooks.pdb
+C:\Users\GRIGS\source\repos\WhileLoopExercise\OldBooks\obj\Debug\net7.0\OldBooks.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\WhileLoopExercise\OldBooks\obj\Debug\net7.0\OldBooks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\WhileLoopExercise\OldBooks\obj\Debug\net7.0\OldBooks.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\WhileLoopExercise\OldBooks\obj\Debug\net7.0\OldBooks.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\WhileLoopExercise\OldBooks\obj\Debug\net7.0\OldBooks.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\WhileLoopExercise\OldBooks\obj\Debug\net7.0\OldBooks.dll
+C:\Users\GRIGS\source\repos\WhileLoopExercise\OldBooks\obj\Debug\net7.0\refint\OldBooks.dll
+C:\Users\GRIGS\source\repos\WhileLoopExercise\OldBooks\obj\Debug\net7.0\OldBooks.pdb
+C:\Users\GRIGS\source\repos\WhileLoopExercise\OldBooks\obj\Debug\net7.0\OldBooks.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\WhileLoopExercise\OldBooks\obj\Debug\net7.0\ref\OldBooks.dll

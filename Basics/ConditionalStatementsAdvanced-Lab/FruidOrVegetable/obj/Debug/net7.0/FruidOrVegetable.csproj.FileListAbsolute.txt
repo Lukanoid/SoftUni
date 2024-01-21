@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\FruidOrVegetable\bin\Debug\net7.0\FruidOrVegetable.exe
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\FruidOrVegetable\bin\Debug\net7.0\FruidOrVegetable.deps.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\FruidOrVegetable\bin\Debug\net7.0\FruidOrVegetable.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\FruidOrVegetable\bin\Debug\net7.0\FruidOrVegetable.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\FruidOrVegetable\bin\Debug\net7.0\FruidOrVegetable.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\FruidOrVegetable\obj\Debug\net7.0\FruidOrVegetable.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\FruidOrVegetable\obj\Debug\net7.0\FruidOrVegetable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\FruidOrVegetable\obj\Debug\net7.0\FruidOrVegetable.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\FruidOrVegetable\obj\Debug\net7.0\FruidOrVegetable.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\FruidOrVegetable\obj\Debug\net7.0\FruidOrVegetable.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\FruidOrVegetable\obj\Debug\net7.0\FruidOrVegetable.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\FruidOrVegetable\obj\Debug\net7.0\refint\FruidOrVegetable.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\FruidOrVegetable\obj\Debug\net7.0\FruidOrVegetable.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\FruidOrVegetable\obj\Debug\net7.0\FruidOrVegetable.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\FruidOrVegetable\obj\Debug\net7.0\ref\FruidOrVegetable.dll

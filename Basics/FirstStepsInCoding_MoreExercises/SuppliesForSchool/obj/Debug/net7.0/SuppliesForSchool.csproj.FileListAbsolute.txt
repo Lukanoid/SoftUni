@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\SuppliesForSchool\bin\Debug\net7.0\SuppliesForSchool.exe
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\SuppliesForSchool\bin\Debug\net7.0\SuppliesForSchool.deps.json
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\SuppliesForSchool\bin\Debug\net7.0\SuppliesForSchool.runtimeconfig.json
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\SuppliesForSchool\bin\Debug\net7.0\SuppliesForSchool.dll
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\SuppliesForSchool\bin\Debug\net7.0\SuppliesForSchool.pdb
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\SuppliesForSchool\obj\Debug\net7.0\SuppliesForSchool.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\SuppliesForSchool\obj\Debug\net7.0\SuppliesForSchool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\SuppliesForSchool\obj\Debug\net7.0\SuppliesForSchool.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\SuppliesForSchool\obj\Debug\net7.0\SuppliesForSchool.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\SuppliesForSchool\obj\Debug\net7.0\SuppliesForSchool.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\SuppliesForSchool\obj\Debug\net7.0\SuppliesForSchool.dll
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\SuppliesForSchool\obj\Debug\net7.0\refint\SuppliesForSchool.dll
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\SuppliesForSchool\obj\Debug\net7.0\SuppliesForSchool.pdb
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\SuppliesForSchool\obj\Debug\net7.0\SuppliesForSchool.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\SuppliesForSchool\obj\Debug\net7.0\ref\SuppliesForSchool.dll

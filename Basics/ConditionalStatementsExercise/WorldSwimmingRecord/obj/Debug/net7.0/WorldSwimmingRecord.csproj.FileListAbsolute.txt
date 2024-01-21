@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\WorldSwimmingRecord\bin\Debug\net7.0\WorldSwimmingRecord.exe
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\WorldSwimmingRecord\bin\Debug\net7.0\WorldSwimmingRecord.deps.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\WorldSwimmingRecord\bin\Debug\net7.0\WorldSwimmingRecord.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\WorldSwimmingRecord\bin\Debug\net7.0\WorldSwimmingRecord.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\WorldSwimmingRecord\bin\Debug\net7.0\WorldSwimmingRecord.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\WorldSwimmingRecord\obj\Debug\net7.0\WorldSwimmingRecord.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\WorldSwimmingRecord\obj\Debug\net7.0\WorldSwimmingRecord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\WorldSwimmingRecord\obj\Debug\net7.0\WorldSwimmingRecord.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\WorldSwimmingRecord\obj\Debug\net7.0\WorldSwimmingRecord.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\WorldSwimmingRecord\obj\Debug\net7.0\WorldSwimmingRecord.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\WorldSwimmingRecord\obj\Debug\net7.0\WorldSwimmingRecord.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\WorldSwimmingRecord\obj\Debug\net7.0\refint\WorldSwimmingRecord.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\WorldSwimmingRecord\obj\Debug\net7.0\WorldSwimmingRecord.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\WorldSwimmingRecord\obj\Debug\net7.0\WorldSwimmingRecord.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\WorldSwimmingRecord\obj\Debug\net7.0\ref\WorldSwimmingRecord.dll

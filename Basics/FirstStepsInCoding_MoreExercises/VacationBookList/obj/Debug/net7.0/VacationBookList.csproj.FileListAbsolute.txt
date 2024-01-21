@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\VacationBookList\bin\Debug\net7.0\VacationBookList.exe
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\VacationBookList\bin\Debug\net7.0\VacationBookList.deps.json
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\VacationBookList\bin\Debug\net7.0\VacationBookList.runtimeconfig.json
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\VacationBookList\bin\Debug\net7.0\VacationBookList.dll
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\VacationBookList\bin\Debug\net7.0\VacationBookList.pdb
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\VacationBookList\obj\Debug\net7.0\VacationBookList.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\VacationBookList\obj\Debug\net7.0\VacationBookList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\VacationBookList\obj\Debug\net7.0\VacationBookList.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\VacationBookList\obj\Debug\net7.0\VacationBookList.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\VacationBookList\obj\Debug\net7.0\VacationBookList.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\VacationBookList\obj\Debug\net7.0\VacationBookList.dll
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\VacationBookList\obj\Debug\net7.0\refint\VacationBookList.dll
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\VacationBookList\obj\Debug\net7.0\VacationBookList.pdb
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\VacationBookList\obj\Debug\net7.0\VacationBookList.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\VacationBookList\obj\Debug\net7.0\ref\VacationBookList.dll

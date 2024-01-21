@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\OperationsBetweenNumbers\bin\Debug\net7.0\OperationsBetweenNumbers.exe
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\OperationsBetweenNumbers\bin\Debug\net7.0\OperationsBetweenNumbers.deps.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\OperationsBetweenNumbers\bin\Debug\net7.0\OperationsBetweenNumbers.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\OperationsBetweenNumbers\bin\Debug\net7.0\OperationsBetweenNumbers.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\OperationsBetweenNumbers\bin\Debug\net7.0\OperationsBetweenNumbers.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\OperationsBetweenNumbers\obj\Debug\net7.0\OperationsBetweenNumbers.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\OperationsBetweenNumbers\obj\Debug\net7.0\OperationsBetweenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\OperationsBetweenNumbers\obj\Debug\net7.0\OperationsBetweenNumbers.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\OperationsBetweenNumbers\obj\Debug\net7.0\OperationsBetweenNumbers.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\OperationsBetweenNumbers\obj\Debug\net7.0\OperationsBetweenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\OperationsBetweenNumbers\obj\Debug\net7.0\OperationsBetweenNumbers.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\OperationsBetweenNumbers\obj\Debug\net7.0\refint\OperationsBetweenNumbers.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\OperationsBetweenNumbers\obj\Debug\net7.0\OperationsBetweenNumbers.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\OperationsBetweenNumbers\obj\Debug\net7.0\OperationsBetweenNumbers.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\OperationsBetweenNumbers\obj\Debug\net7.0\ref\OperationsBetweenNumbers.dll

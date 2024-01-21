@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\BackToThePast\bin\Debug\net7.0\BackToThePast.exe
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\BackToThePast\bin\Debug\net7.0\BackToThePast.deps.json
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\BackToThePast\bin\Debug\net7.0\BackToThePast.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\BackToThePast\bin\Debug\net7.0\BackToThePast.dll
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\BackToThePast\bin\Debug\net7.0\BackToThePast.pdb
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\BackToThePast\obj\Debug\net7.0\BackToThePast.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\BackToThePast\obj\Debug\net7.0\BackToThePast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\BackToThePast\obj\Debug\net7.0\BackToThePast.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\BackToThePast\obj\Debug\net7.0\BackToThePast.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\BackToThePast\obj\Debug\net7.0\BackToThePast.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\BackToThePast\obj\Debug\net7.0\BackToThePast.dll
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\BackToThePast\obj\Debug\net7.0\refint\BackToThePast.dll
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\BackToThePast\obj\Debug\net7.0\BackToThePast.pdb
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\BackToThePast\obj\Debug\net7.0\BackToThePast.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\BackToThePast\obj\Debug\net7.0\ref\BackToThePast.dll

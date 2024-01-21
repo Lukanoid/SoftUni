@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ForLoopExercise\CleverLily\bin\Debug\net7.0\CleverLily.exe
+C:\Users\GRIGS\source\repos\ForLoopExercise\CleverLily\bin\Debug\net7.0\CleverLily.deps.json
+C:\Users\GRIGS\source\repos\ForLoopExercise\CleverLily\bin\Debug\net7.0\CleverLily.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ForLoopExercise\CleverLily\bin\Debug\net7.0\CleverLily.dll
+C:\Users\GRIGS\source\repos\ForLoopExercise\CleverLily\bin\Debug\net7.0\CleverLily.pdb
+C:\Users\GRIGS\source\repos\ForLoopExercise\CleverLily\obj\Debug\net7.0\CleverLily.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ForLoopExercise\CleverLily\obj\Debug\net7.0\CleverLily.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ForLoopExercise\CleverLily\obj\Debug\net7.0\CleverLily.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ForLoopExercise\CleverLily\obj\Debug\net7.0\CleverLily.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ForLoopExercise\CleverLily\obj\Debug\net7.0\CleverLily.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ForLoopExercise\CleverLily\obj\Debug\net7.0\CleverLily.dll
+C:\Users\GRIGS\source\repos\ForLoopExercise\CleverLily\obj\Debug\net7.0\refint\CleverLily.dll
+C:\Users\GRIGS\source\repos\ForLoopExercise\CleverLily\obj\Debug\net7.0\CleverLily.pdb
+C:\Users\GRIGS\source\repos\ForLoopExercise\CleverLily\obj\Debug\net7.0\CleverLily.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ForLoopExercise\CleverLily\obj\Debug\net7.0\ref\CleverLily.dll

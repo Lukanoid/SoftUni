@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\WhileLoopLab\Graduation\bin\Debug\net7.0\Graduation.exe
+C:\Users\GRIGS\source\repos\WhileLoopLab\Graduation\bin\Debug\net7.0\Graduation.deps.json
+C:\Users\GRIGS\source\repos\WhileLoopLab\Graduation\bin\Debug\net7.0\Graduation.runtimeconfig.json
+C:\Users\GRIGS\source\repos\WhileLoopLab\Graduation\bin\Debug\net7.0\Graduation.dll
+C:\Users\GRIGS\source\repos\WhileLoopLab\Graduation\bin\Debug\net7.0\Graduation.pdb
+C:\Users\GRIGS\source\repos\WhileLoopLab\Graduation\obj\Debug\net7.0\Graduation.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\WhileLoopLab\Graduation\obj\Debug\net7.0\Graduation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\WhileLoopLab\Graduation\obj\Debug\net7.0\Graduation.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\WhileLoopLab\Graduation\obj\Debug\net7.0\Graduation.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\WhileLoopLab\Graduation\obj\Debug\net7.0\Graduation.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\WhileLoopLab\Graduation\obj\Debug\net7.0\Graduation.dll
+C:\Users\GRIGS\source\repos\WhileLoopLab\Graduation\obj\Debug\net7.0\refint\Graduation.dll
+C:\Users\GRIGS\source\repos\WhileLoopLab\Graduation\obj\Debug\net7.0\Graduation.pdb
+C:\Users\GRIGS\source\repos\WhileLoopLab\Graduation\obj\Debug\net7.0\Graduation.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\WhileLoopLab\Graduation\obj\Debug\net7.0\ref\Graduation.dll

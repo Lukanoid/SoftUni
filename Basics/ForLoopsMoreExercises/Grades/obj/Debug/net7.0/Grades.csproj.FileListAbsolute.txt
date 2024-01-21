@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\Grades\bin\Debug\net7.0\Grades.exe
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\Grades\bin\Debug\net7.0\Grades.deps.json
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\Grades\bin\Debug\net7.0\Grades.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\Grades\bin\Debug\net7.0\Grades.dll
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\Grades\bin\Debug\net7.0\Grades.pdb
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\Grades\obj\Debug\net7.0\Grades.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\Grades\obj\Debug\net7.0\Grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\Grades\obj\Debug\net7.0\Grades.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\Grades\obj\Debug\net7.0\Grades.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\Grades\obj\Debug\net7.0\Grades.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\Grades\obj\Debug\net7.0\Grades.dll
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\Grades\obj\Debug\net7.0\refint\Grades.dll
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\Grades\obj\Debug\net7.0\Grades.pdb
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\Grades\obj\Debug\net7.0\Grades.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\Grades\obj\Debug\net7.0\ref\Grades.dll

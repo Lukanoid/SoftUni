@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\FirstStepsInCoding\ProjectsCreation\bin\Debug\net7.0\ProjectsCreation.exe
+C:\Users\GRIGS\source\repos\FirstStepsInCoding\ProjectsCreation\bin\Debug\net7.0\ProjectsCreation.deps.json
+C:\Users\GRIGS\source\repos\FirstStepsInCoding\ProjectsCreation\bin\Debug\net7.0\ProjectsCreation.runtimeconfig.json
+C:\Users\GRIGS\source\repos\FirstStepsInCoding\ProjectsCreation\bin\Debug\net7.0\ProjectsCreation.dll
+C:\Users\GRIGS\source\repos\FirstStepsInCoding\ProjectsCreation\bin\Debug\net7.0\ProjectsCreation.pdb
+C:\Users\GRIGS\source\repos\FirstStepsInCoding\ProjectsCreation\obj\Debug\net7.0\ProjectsCreation.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\FirstStepsInCoding\ProjectsCreation\obj\Debug\net7.0\ProjectsCreation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\FirstStepsInCoding\ProjectsCreation\obj\Debug\net7.0\ProjectsCreation.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\FirstStepsInCoding\ProjectsCreation\obj\Debug\net7.0\ProjectsCreation.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\FirstStepsInCoding\ProjectsCreation\obj\Debug\net7.0\ProjectsCreation.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\FirstStepsInCoding\ProjectsCreation\obj\Debug\net7.0\ProjectsCreation.dll
+C:\Users\GRIGS\source\repos\FirstStepsInCoding\ProjectsCreation\obj\Debug\net7.0\refint\ProjectsCreation.dll
+C:\Users\GRIGS\source\repos\FirstStepsInCoding\ProjectsCreation\obj\Debug\net7.0\ProjectsCreation.pdb
+C:\Users\GRIGS\source\repos\FirstStepsInCoding\ProjectsCreation\obj\Debug\net7.0\ProjectsCreation.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\FirstStepsInCoding\ProjectsCreation\obj\Debug\net7.0\ref\ProjectsCreation.dll

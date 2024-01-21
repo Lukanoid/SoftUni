@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\FishTank\bin\Debug\net7.0\FishTank.exe
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\FishTank\bin\Debug\net7.0\FishTank.deps.json
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\FishTank\bin\Debug\net7.0\FishTank.runtimeconfig.json
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\FishTank\bin\Debug\net7.0\FishTank.dll
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\FishTank\bin\Debug\net7.0\FishTank.pdb
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\FishTank\obj\Debug\net7.0\FishTank.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\FishTank\obj\Debug\net7.0\FishTank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\FishTank\obj\Debug\net7.0\FishTank.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\FishTank\obj\Debug\net7.0\FishTank.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\FishTank\obj\Debug\net7.0\FishTank.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\FishTank\obj\Debug\net7.0\FishTank.dll
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\FishTank\obj\Debug\net7.0\refint\FishTank.dll
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\FishTank\obj\Debug\net7.0\FishTank.pdb
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\FishTank\obj\Debug\net7.0\FishTank.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\FishTank\obj\Debug\net7.0\ref\FishTank.dll

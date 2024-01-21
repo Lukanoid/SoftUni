@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\TradeCommissions\bin\Debug\net7.0\TradeCommissions.exe
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\TradeCommissions\bin\Debug\net7.0\TradeCommissions.deps.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\TradeCommissions\bin\Debug\net7.0\TradeCommissions.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\TradeCommissions\bin\Debug\net7.0\TradeCommissions.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\TradeCommissions\bin\Debug\net7.0\TradeCommissions.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\TradeCommissions\obj\Debug\net7.0\TradeCommissions.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\TradeCommissions\obj\Debug\net7.0\TradeCommissions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\TradeCommissions\obj\Debug\net7.0\TradeCommissions.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\TradeCommissions\obj\Debug\net7.0\TradeCommissions.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\TradeCommissions\obj\Debug\net7.0\TradeCommissions.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\TradeCommissions\obj\Debug\net7.0\TradeCommissions.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\TradeCommissions\obj\Debug\net7.0\refint\TradeCommissions.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\TradeCommissions\obj\Debug\net7.0\TradeCommissions.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\TradeCommissions\obj\Debug\net7.0\TradeCommissions.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\TradeCommissions\obj\Debug\net7.0\ref\TradeCommissions.dll

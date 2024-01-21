@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\WorkingHours\bin\Debug\net7.0\WorkingHours.exe
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\WorkingHours\bin\Debug\net7.0\WorkingHours.deps.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\WorkingHours\bin\Debug\net7.0\WorkingHours.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\WorkingHours\bin\Debug\net7.0\WorkingHours.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\WorkingHours\bin\Debug\net7.0\WorkingHours.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\WorkingHours\obj\Debug\net7.0\WorkingHours.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\WorkingHours\obj\Debug\net7.0\WorkingHours.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\WorkingHours\obj\Debug\net7.0\WorkingHours.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\WorkingHours\obj\Debug\net7.0\WorkingHours.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\WorkingHours\obj\Debug\net7.0\WorkingHours.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\WorkingHours\obj\Debug\net7.0\WorkingHours.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\WorkingHours\obj\Debug\net7.0\refint\WorkingHours.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\WorkingHours\obj\Debug\net7.0\WorkingHours.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\WorkingHours\obj\Debug\net7.0\WorkingHours.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\WorkingHours\obj\Debug\net7.0\ref\WorkingHours.dll

@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\RadiansToDegrees\bin\Debug\net7.0\RadiansToDegrees.exe
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\RadiansToDegrees\bin\Debug\net7.0\RadiansToDegrees.deps.json
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\RadiansToDegrees\bin\Debug\net7.0\RadiansToDegrees.runtimeconfig.json
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\RadiansToDegrees\bin\Debug\net7.0\RadiansToDegrees.dll
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\RadiansToDegrees\bin\Debug\net7.0\RadiansToDegrees.pdb
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\RadiansToDegrees\obj\Debug\net7.0\RadiansToDegrees.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\RadiansToDegrees\obj\Debug\net7.0\RadiansToDegrees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\RadiansToDegrees\obj\Debug\net7.0\RadiansToDegrees.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\RadiansToDegrees\obj\Debug\net7.0\RadiansToDegrees.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\RadiansToDegrees\obj\Debug\net7.0\RadiansToDegrees.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\RadiansToDegrees\obj\Debug\net7.0\RadiansToDegrees.dll
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\RadiansToDegrees\obj\Debug\net7.0\refint\RadiansToDegrees.dll
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\RadiansToDegrees\obj\Debug\net7.0\RadiansToDegrees.pdb
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\RadiansToDegrees\obj\Debug\net7.0\RadiansToDegrees.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\RadiansToDegrees\obj\Debug\net7.0\ref\RadiansToDegrees.dll

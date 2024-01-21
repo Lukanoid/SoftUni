@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ForLoopExercise\Salary\bin\Debug\net7.0\Salary.exe
+C:\Users\GRIGS\source\repos\ForLoopExercise\Salary\bin\Debug\net7.0\Salary.deps.json
+C:\Users\GRIGS\source\repos\ForLoopExercise\Salary\bin\Debug\net7.0\Salary.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ForLoopExercise\Salary\bin\Debug\net7.0\Salary.dll
+C:\Users\GRIGS\source\repos\ForLoopExercise\Salary\bin\Debug\net7.0\Salary.pdb
+C:\Users\GRIGS\source\repos\ForLoopExercise\Salary\obj\Debug\net7.0\Salary.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ForLoopExercise\Salary\obj\Debug\net7.0\Salary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ForLoopExercise\Salary\obj\Debug\net7.0\Salary.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ForLoopExercise\Salary\obj\Debug\net7.0\Salary.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ForLoopExercise\Salary\obj\Debug\net7.0\Salary.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ForLoopExercise\Salary\obj\Debug\net7.0\Salary.dll
+C:\Users\GRIGS\source\repos\ForLoopExercise\Salary\obj\Debug\net7.0\refint\Salary.dll
+C:\Users\GRIGS\source\repos\ForLoopExercise\Salary\obj\Debug\net7.0\Salary.pdb
+C:\Users\GRIGS\source\repos\ForLoopExercise\Salary\obj\Debug\net7.0\Salary.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ForLoopExercise\Salary\obj\Debug\net7.0\ref\Salary.dll

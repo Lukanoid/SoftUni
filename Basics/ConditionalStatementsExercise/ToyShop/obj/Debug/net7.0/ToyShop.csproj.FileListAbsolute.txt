@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\ToyShop\bin\Debug\net7.0\ToyShop.exe
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\ToyShop\bin\Debug\net7.0\ToyShop.deps.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\ToyShop\bin\Debug\net7.0\ToyShop.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\ToyShop\bin\Debug\net7.0\ToyShop.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\ToyShop\bin\Debug\net7.0\ToyShop.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\ToyShop\obj\Debug\net7.0\ToyShop.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\ToyShop\obj\Debug\net7.0\ToyShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\ToyShop\obj\Debug\net7.0\ToyShop.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\ToyShop\obj\Debug\net7.0\ToyShop.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\ToyShop\obj\Debug\net7.0\ToyShop.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\ToyShop\obj\Debug\net7.0\ToyShop.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\ToyShop\obj\Debug\net7.0\refint\ToyShop.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\ToyShop\obj\Debug\net7.0\ToyShop.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\ToyShop\obj\Debug\net7.0\ToyShop.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\ToyShop\obj\Debug\net7.0\ref\ToyShop.dll

@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\CinemaTicket\bin\Debug\net7.0\CinemaTicket.exe
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\CinemaTicket\bin\Debug\net7.0\CinemaTicket.deps.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\CinemaTicket\bin\Debug\net7.0\CinemaTicket.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\CinemaTicket\bin\Debug\net7.0\CinemaTicket.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\CinemaTicket\bin\Debug\net7.0\CinemaTicket.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\CinemaTicket\obj\Debug\net7.0\CinemaTicket.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\CinemaTicket\obj\Debug\net7.0\CinemaTicket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\CinemaTicket\obj\Debug\net7.0\CinemaTicket.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\CinemaTicket\obj\Debug\net7.0\CinemaTicket.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\CinemaTicket\obj\Debug\net7.0\CinemaTicket.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\CinemaTicket\obj\Debug\net7.0\CinemaTicket.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\CinemaTicket\obj\Debug\net7.0\refint\CinemaTicket.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\CinemaTicket\obj\Debug\net7.0\CinemaTicket.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\CinemaTicket\obj\Debug\net7.0\CinemaTicket.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\CinemaTicket\obj\Debug\net7.0\ref\CinemaTicket.dll

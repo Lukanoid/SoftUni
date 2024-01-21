@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\NewHouse\bin\Debug\net7.0\NewHouse.exe
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\NewHouse\bin\Debug\net7.0\NewHouse.deps.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\NewHouse\bin\Debug\net7.0\NewHouse.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\NewHouse\bin\Debug\net7.0\NewHouse.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\NewHouse\bin\Debug\net7.0\NewHouse.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\NewHouse\obj\Debug\net7.0\NewHouse.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\NewHouse\obj\Debug\net7.0\NewHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\NewHouse\obj\Debug\net7.0\NewHouse.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\NewHouse\obj\Debug\net7.0\NewHouse.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\NewHouse\obj\Debug\net7.0\NewHouse.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\NewHouse\obj\Debug\net7.0\NewHouse.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\NewHouse\obj\Debug\net7.0\refint\NewHouse.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\NewHouse\obj\Debug\net7.0\NewHouse.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\NewHouse\obj\Debug\net7.0\NewHouse.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\NewHouse\obj\Debug\net7.0\ref\NewHouse.dll

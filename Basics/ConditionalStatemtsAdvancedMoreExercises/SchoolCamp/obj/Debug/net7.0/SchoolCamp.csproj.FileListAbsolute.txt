@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\SchoolCamp\bin\Debug\net7.0\SchoolCamp.exe
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\SchoolCamp\bin\Debug\net7.0\SchoolCamp.deps.json
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\SchoolCamp\bin\Debug\net7.0\SchoolCamp.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\SchoolCamp\bin\Debug\net7.0\SchoolCamp.dll
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\SchoolCamp\bin\Debug\net7.0\SchoolCamp.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\SchoolCamp\obj\Debug\net7.0\SchoolCamp.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\SchoolCamp\obj\Debug\net7.0\SchoolCamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\SchoolCamp\obj\Debug\net7.0\SchoolCamp.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\SchoolCamp\obj\Debug\net7.0\SchoolCamp.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\SchoolCamp\obj\Debug\net7.0\SchoolCamp.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\SchoolCamp\obj\Debug\net7.0\SchoolCamp.dll
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\SchoolCamp\obj\Debug\net7.0\refint\SchoolCamp.dll
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\SchoolCamp\obj\Debug\net7.0\SchoolCamp.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\SchoolCamp\obj\Debug\net7.0\SchoolCamp.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\SchoolCamp\obj\Debug\net7.0\ref\SchoolCamp.dll

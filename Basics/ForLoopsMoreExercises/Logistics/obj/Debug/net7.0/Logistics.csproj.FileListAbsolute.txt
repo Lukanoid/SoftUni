@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\Logistics\bin\Debug\net7.0\Logistics.exe
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\Logistics\bin\Debug\net7.0\Logistics.deps.json
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\Logistics\bin\Debug\net7.0\Logistics.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\Logistics\bin\Debug\net7.0\Logistics.dll
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\Logistics\bin\Debug\net7.0\Logistics.pdb
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\Logistics\obj\Debug\net7.0\Logistics.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\Logistics\obj\Debug\net7.0\Logistics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\Logistics\obj\Debug\net7.0\Logistics.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\Logistics\obj\Debug\net7.0\Logistics.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\Logistics\obj\Debug\net7.0\Logistics.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\Logistics\obj\Debug\net7.0\Logistics.dll
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\Logistics\obj\Debug\net7.0\refint\Logistics.dll
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\Logistics\obj\Debug\net7.0\Logistics.pdb
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\Logistics\obj\Debug\net7.0\Logistics.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\Logistics\obj\Debug\net7.0\ref\Logistics.dll

@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\FishingBoat\bin\Debug\net7.0\FishingBoat.exe
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\FishingBoat\bin\Debug\net7.0\FishingBoat.deps.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\FishingBoat\bin\Debug\net7.0\FishingBoat.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\FishingBoat\bin\Debug\net7.0\FishingBoat.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\FishingBoat\bin\Debug\net7.0\FishingBoat.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\FishingBoat\obj\Debug\net7.0\FishingBoat.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\FishingBoat\obj\Debug\net7.0\FishingBoat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\FishingBoat\obj\Debug\net7.0\FishingBoat.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\FishingBoat\obj\Debug\net7.0\FishingBoat.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\FishingBoat\obj\Debug\net7.0\FishingBoat.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\FishingBoat\obj\Debug\net7.0\FishingBoat.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\FishingBoat\obj\Debug\net7.0\refint\FishingBoat.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\FishingBoat\obj\Debug\net7.0\FishingBoat.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\FishingBoat\obj\Debug\net7.0\FishingBoat.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\FishingBoat\obj\Debug\net7.0\ref\FishingBoat.dll

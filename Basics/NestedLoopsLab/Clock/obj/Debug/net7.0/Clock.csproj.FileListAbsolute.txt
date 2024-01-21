@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\NestedLoopsLab\Clock\bin\Debug\net7.0\Clock.exe
+C:\Users\GRIGS\source\repos\NestedLoopsLab\Clock\bin\Debug\net7.0\Clock.deps.json
+C:\Users\GRIGS\source\repos\NestedLoopsLab\Clock\bin\Debug\net7.0\Clock.runtimeconfig.json
+C:\Users\GRIGS\source\repos\NestedLoopsLab\Clock\bin\Debug\net7.0\Clock.dll
+C:\Users\GRIGS\source\repos\NestedLoopsLab\Clock\bin\Debug\net7.0\Clock.pdb
+C:\Users\GRIGS\source\repos\NestedLoopsLab\Clock\obj\Debug\net7.0\Clock.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\NestedLoopsLab\Clock\obj\Debug\net7.0\Clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\NestedLoopsLab\Clock\obj\Debug\net7.0\Clock.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\NestedLoopsLab\Clock\obj\Debug\net7.0\Clock.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\NestedLoopsLab\Clock\obj\Debug\net7.0\Clock.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\NestedLoopsLab\Clock\obj\Debug\net7.0\Clock.dll
+C:\Users\GRIGS\source\repos\NestedLoopsLab\Clock\obj\Debug\net7.0\refint\Clock.dll
+C:\Users\GRIGS\source\repos\NestedLoopsLab\Clock\obj\Debug\net7.0\Clock.pdb
+C:\Users\GRIGS\source\repos\NestedLoopsLab\Clock\obj\Debug\net7.0\Clock.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\NestedLoopsLab\Clock\obj\Debug\net7.0\ref\Clock.dll

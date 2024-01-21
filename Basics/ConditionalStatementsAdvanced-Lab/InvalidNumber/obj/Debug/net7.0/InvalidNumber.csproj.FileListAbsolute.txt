@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\InvalidNumber\bin\Debug\net7.0\InvalidNumber.exe
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\InvalidNumber\bin\Debug\net7.0\InvalidNumber.deps.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\InvalidNumber\bin\Debug\net7.0\InvalidNumber.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\InvalidNumber\bin\Debug\net7.0\InvalidNumber.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\InvalidNumber\bin\Debug\net7.0\InvalidNumber.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\InvalidNumber\obj\Debug\net7.0\InvalidNumber.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\InvalidNumber\obj\Debug\net7.0\InvalidNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\InvalidNumber\obj\Debug\net7.0\InvalidNumber.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\InvalidNumber\obj\Debug\net7.0\InvalidNumber.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\InvalidNumber\obj\Debug\net7.0\InvalidNumber.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\InvalidNumber\obj\Debug\net7.0\InvalidNumber.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\InvalidNumber\obj\Debug\net7.0\refint\InvalidNumber.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\InvalidNumber\obj\Debug\net7.0\InvalidNumber.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\InvalidNumber\obj\Debug\net7.0\InvalidNumber.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\InvalidNumber\obj\Debug\net7.0\ref\InvalidNumber.dll

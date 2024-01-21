@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\BasketballEquipment\bin\Debug\net7.0\BasketballEquipment.exe
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\BasketballEquipment\bin\Debug\net7.0\BasketballEquipment.deps.json
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\BasketballEquipment\bin\Debug\net7.0\BasketballEquipment.runtimeconfig.json
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\BasketballEquipment\bin\Debug\net7.0\BasketballEquipment.dll
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\BasketballEquipment\bin\Debug\net7.0\BasketballEquipment.pdb
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\BasketballEquipment\obj\Debug\net7.0\BasketballEquipment.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\BasketballEquipment\obj\Debug\net7.0\BasketballEquipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\BasketballEquipment\obj\Debug\net7.0\BasketballEquipment.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\BasketballEquipment\obj\Debug\net7.0\BasketballEquipment.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\BasketballEquipment\obj\Debug\net7.0\BasketballEquipment.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\BasketballEquipment\obj\Debug\net7.0\BasketballEquipment.dll
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\BasketballEquipment\obj\Debug\net7.0\refint\BasketballEquipment.dll
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\BasketballEquipment\obj\Debug\net7.0\BasketballEquipment.pdb
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\BasketballEquipment\obj\Debug\net7.0\BasketballEquipment.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\BasketballEquipment\obj\Debug\net7.0\ref\BasketballEquipment.dll

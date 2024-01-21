@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\WhileLoopExercise\Cake\bin\Debug\net7.0\Cake.exe
+C:\Users\GRIGS\source\repos\WhileLoopExercise\Cake\bin\Debug\net7.0\Cake.deps.json
+C:\Users\GRIGS\source\repos\WhileLoopExercise\Cake\bin\Debug\net7.0\Cake.runtimeconfig.json
+C:\Users\GRIGS\source\repos\WhileLoopExercise\Cake\bin\Debug\net7.0\Cake.dll
+C:\Users\GRIGS\source\repos\WhileLoopExercise\Cake\bin\Debug\net7.0\Cake.pdb
+C:\Users\GRIGS\source\repos\WhileLoopExercise\Cake\obj\Debug\net7.0\Cake.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\WhileLoopExercise\Cake\obj\Debug\net7.0\Cake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\WhileLoopExercise\Cake\obj\Debug\net7.0\Cake.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\WhileLoopExercise\Cake\obj\Debug\net7.0\Cake.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\WhileLoopExercise\Cake\obj\Debug\net7.0\Cake.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\WhileLoopExercise\Cake\obj\Debug\net7.0\Cake.dll
+C:\Users\GRIGS\source\repos\WhileLoopExercise\Cake\obj\Debug\net7.0\refint\Cake.dll
+C:\Users\GRIGS\source\repos\WhileLoopExercise\Cake\obj\Debug\net7.0\Cake.pdb
+C:\Users\GRIGS\source\repos\WhileLoopExercise\Cake\obj\Debug\net7.0\Cake.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\WhileLoopExercise\Cake\obj\Debug\net7.0\ref\Cake.dll

@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\Bills\bin\Debug\net7.0\Bills.exe
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\Bills\bin\Debug\net7.0\Bills.deps.json
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\Bills\bin\Debug\net7.0\Bills.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\Bills\bin\Debug\net7.0\Bills.dll
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\Bills\bin\Debug\net7.0\Bills.pdb
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\Bills\obj\Debug\net7.0\Bills.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\Bills\obj\Debug\net7.0\Bills.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\Bills\obj\Debug\net7.0\Bills.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\Bills\obj\Debug\net7.0\Bills.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\Bills\obj\Debug\net7.0\Bills.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\Bills\obj\Debug\net7.0\Bills.dll
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\Bills\obj\Debug\net7.0\refint\Bills.dll
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\Bills\obj\Debug\net7.0\Bills.pdb
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\Bills\obj\Debug\net7.0\Bills.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ForLoopsMoreExercises\Bills\obj\Debug\net7.0\ref\Bills.dll

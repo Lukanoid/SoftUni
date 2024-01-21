@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ForLoopLab\VowelsSum\bin\Debug\net7.0\VowelsSum.exe
+C:\Users\GRIGS\source\repos\ForLoopLab\VowelsSum\bin\Debug\net7.0\VowelsSum.deps.json
+C:\Users\GRIGS\source\repos\ForLoopLab\VowelsSum\bin\Debug\net7.0\VowelsSum.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ForLoopLab\VowelsSum\bin\Debug\net7.0\VowelsSum.dll
+C:\Users\GRIGS\source\repos\ForLoopLab\VowelsSum\bin\Debug\net7.0\VowelsSum.pdb
+C:\Users\GRIGS\source\repos\ForLoopLab\VowelsSum\obj\Debug\net7.0\VowelsSum.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ForLoopLab\VowelsSum\obj\Debug\net7.0\VowelsSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ForLoopLab\VowelsSum\obj\Debug\net7.0\VowelsSum.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ForLoopLab\VowelsSum\obj\Debug\net7.0\VowelsSum.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ForLoopLab\VowelsSum\obj\Debug\net7.0\VowelsSum.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ForLoopLab\VowelsSum\obj\Debug\net7.0\VowelsSum.dll
+C:\Users\GRIGS\source\repos\ForLoopLab\VowelsSum\obj\Debug\net7.0\refint\VowelsSum.dll
+C:\Users\GRIGS\source\repos\ForLoopLab\VowelsSum\obj\Debug\net7.0\VowelsSum.pdb
+C:\Users\GRIGS\source\repos\ForLoopLab\VowelsSum\obj\Debug\net7.0\VowelsSum.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ForLoopLab\VowelsSum\obj\Debug\net7.0\ref\VowelsSum.dll

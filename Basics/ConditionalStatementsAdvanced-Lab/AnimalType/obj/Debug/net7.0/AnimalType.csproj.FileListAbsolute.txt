@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\AnimalType\bin\Debug\net7.0\AnimalType.exe
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\AnimalType\bin\Debug\net7.0\AnimalType.deps.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\AnimalType\bin\Debug\net7.0\AnimalType.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\AnimalType\bin\Debug\net7.0\AnimalType.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\AnimalType\bin\Debug\net7.0\AnimalType.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\AnimalType\obj\Debug\net7.0\AnimalType.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\AnimalType\obj\Debug\net7.0\AnimalType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\AnimalType\obj\Debug\net7.0\AnimalType.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\AnimalType\obj\Debug\net7.0\AnimalType.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\AnimalType\obj\Debug\net7.0\AnimalType.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\AnimalType\obj\Debug\net7.0\AnimalType.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\AnimalType\obj\Debug\net7.0\refint\AnimalType.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\AnimalType\obj\Debug\net7.0\AnimalType.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\AnimalType\obj\Debug\net7.0\AnimalType.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\AnimalType\obj\Debug\net7.0\ref\AnimalType.dll

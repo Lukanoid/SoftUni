@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\Journey\bin\Debug\net7.0\Journey.exe
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\Journey\bin\Debug\net7.0\Journey.deps.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\Journey\bin\Debug\net7.0\Journey.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\Journey\bin\Debug\net7.0\Journey.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\Journey\bin\Debug\net7.0\Journey.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\Journey\obj\Debug\net7.0\Journey.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\Journey\obj\Debug\net7.0\Journey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\Journey\obj\Debug\net7.0\Journey.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\Journey\obj\Debug\net7.0\Journey.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\Journey\obj\Debug\net7.0\Journey.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\Journey\obj\Debug\net7.0\Journey.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\Journey\obj\Debug\net7.0\refint\Journey.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\Journey\obj\Debug\net7.0\Journey.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\Journey\obj\Debug\net7.0\Journey.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\Journey\obj\Debug\net7.0\ref\Journey.dll

@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\Shopping\bin\Debug\net7.0\Shopping.exe
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\Shopping\bin\Debug\net7.0\Shopping.deps.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\Shopping\bin\Debug\net7.0\Shopping.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\Shopping\bin\Debug\net7.0\Shopping.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\Shopping\bin\Debug\net7.0\Shopping.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\Shopping\obj\Debug\net7.0\Shopping.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\Shopping\obj\Debug\net7.0\Shopping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\Shopping\obj\Debug\net7.0\Shopping.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\Shopping\obj\Debug\net7.0\Shopping.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\Shopping\obj\Debug\net7.0\Shopping.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\Shopping\obj\Debug\net7.0\Shopping.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\Shopping\obj\Debug\net7.0\refint\Shopping.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\Shopping\obj\Debug\net7.0\Shopping.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\Shopping\obj\Debug\net7.0\Shopping.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\Shopping\obj\Debug\net7.0\ref\Shopping.dll

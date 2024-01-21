@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\FuelTank\bin\Debug\net7.0\FuelTank.exe
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\FuelTank\bin\Debug\net7.0\FuelTank.deps.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\FuelTank\bin\Debug\net7.0\FuelTank.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\FuelTank\bin\Debug\net7.0\FuelTank.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\FuelTank\bin\Debug\net7.0\FuelTank.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\FuelTank\obj\Debug\net7.0\FuelTank.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\FuelTank\obj\Debug\net7.0\FuelTank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\FuelTank\obj\Debug\net7.0\FuelTank.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\FuelTank\obj\Debug\net7.0\FuelTank.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\FuelTank\obj\Debug\net7.0\FuelTank.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\FuelTank\obj\Debug\net7.0\FuelTank.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\FuelTank\obj\Debug\net7.0\refint\FuelTank.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\FuelTank\obj\Debug\net7.0\FuelTank.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\FuelTank\obj\Debug\net7.0\FuelTank.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\FuelTank\obj\Debug\net7.0\ref\FuelTank.dll

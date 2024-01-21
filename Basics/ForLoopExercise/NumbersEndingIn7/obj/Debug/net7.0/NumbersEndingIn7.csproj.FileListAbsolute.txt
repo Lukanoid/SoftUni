@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ForLoopExercise\NumbersEndingIn7\bin\Debug\net7.0\NumbersEndingIn7.exe
+C:\Users\GRIGS\source\repos\ForLoopExercise\NumbersEndingIn7\bin\Debug\net7.0\NumbersEndingIn7.deps.json
+C:\Users\GRIGS\source\repos\ForLoopExercise\NumbersEndingIn7\bin\Debug\net7.0\NumbersEndingIn7.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ForLoopExercise\NumbersEndingIn7\bin\Debug\net7.0\NumbersEndingIn7.dll
+C:\Users\GRIGS\source\repos\ForLoopExercise\NumbersEndingIn7\bin\Debug\net7.0\NumbersEndingIn7.pdb
+C:\Users\GRIGS\source\repos\ForLoopExercise\NumbersEndingIn7\obj\Debug\net7.0\NumbersEndingIn7.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ForLoopExercise\NumbersEndingIn7\obj\Debug\net7.0\NumbersEndingIn7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ForLoopExercise\NumbersEndingIn7\obj\Debug\net7.0\NumbersEndingIn7.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ForLoopExercise\NumbersEndingIn7\obj\Debug\net7.0\NumbersEndingIn7.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ForLoopExercise\NumbersEndingIn7\obj\Debug\net7.0\NumbersEndingIn7.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ForLoopExercise\NumbersEndingIn7\obj\Debug\net7.0\NumbersEndingIn7.dll
+C:\Users\GRIGS\source\repos\ForLoopExercise\NumbersEndingIn7\obj\Debug\net7.0\refint\NumbersEndingIn7.dll
+C:\Users\GRIGS\source\repos\ForLoopExercise\NumbersEndingIn7\obj\Debug\net7.0\NumbersEndingIn7.pdb
+C:\Users\GRIGS\source\repos\ForLoopExercise\NumbersEndingIn7\obj\Debug\net7.0\NumbersEndingIn7.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ForLoopExercise\NumbersEndingIn7\obj\Debug\net7.0\ref\NumbersEndingIn7.dll

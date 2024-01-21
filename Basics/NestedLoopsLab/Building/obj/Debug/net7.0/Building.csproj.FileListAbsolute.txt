@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\NestedLoopsLab\Building\bin\Debug\net7.0\Building.exe
+C:\Users\GRIGS\source\repos\NestedLoopsLab\Building\bin\Debug\net7.0\Building.deps.json
+C:\Users\GRIGS\source\repos\NestedLoopsLab\Building\bin\Debug\net7.0\Building.runtimeconfig.json
+C:\Users\GRIGS\source\repos\NestedLoopsLab\Building\bin\Debug\net7.0\Building.dll
+C:\Users\GRIGS\source\repos\NestedLoopsLab\Building\bin\Debug\net7.0\Building.pdb
+C:\Users\GRIGS\source\repos\NestedLoopsLab\Building\obj\Debug\net7.0\Building.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\NestedLoopsLab\Building\obj\Debug\net7.0\Building.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\NestedLoopsLab\Building\obj\Debug\net7.0\Building.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\NestedLoopsLab\Building\obj\Debug\net7.0\Building.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\NestedLoopsLab\Building\obj\Debug\net7.0\Building.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\NestedLoopsLab\Building\obj\Debug\net7.0\Building.dll
+C:\Users\GRIGS\source\repos\NestedLoopsLab\Building\obj\Debug\net7.0\refint\Building.dll
+C:\Users\GRIGS\source\repos\NestedLoopsLab\Building\obj\Debug\net7.0\Building.pdb
+C:\Users\GRIGS\source\repos\NestedLoopsLab\Building\obj\Debug\net7.0\Building.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\NestedLoopsLab\Building\obj\Debug\net7.0\ref\Building.dll

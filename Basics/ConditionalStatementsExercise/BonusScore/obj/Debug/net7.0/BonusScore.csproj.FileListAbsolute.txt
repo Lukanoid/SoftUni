@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\BonusScore\bin\Debug\net7.0\BonusScore.exe
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\BonusScore\bin\Debug\net7.0\BonusScore.deps.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\BonusScore\bin\Debug\net7.0\BonusScore.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\BonusScore\bin\Debug\net7.0\BonusScore.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\BonusScore\bin\Debug\net7.0\BonusScore.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\BonusScore\obj\Debug\net7.0\BonusScore.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\BonusScore\obj\Debug\net7.0\BonusScore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\BonusScore\obj\Debug\net7.0\BonusScore.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\BonusScore\obj\Debug\net7.0\BonusScore.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\BonusScore\obj\Debug\net7.0\BonusScore.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\BonusScore\obj\Debug\net7.0\BonusScore.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\BonusScore\obj\Debug\net7.0\refint\BonusScore.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\BonusScore\obj\Debug\net7.0\BonusScore.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\BonusScore\obj\Debug\net7.0\BonusScore.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\BonusScore\obj\Debug\net7.0\ref\BonusScore.dll

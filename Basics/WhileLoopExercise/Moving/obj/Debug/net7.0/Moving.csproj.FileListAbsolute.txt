@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\WhileLoopExercise\Moving\bin\Debug\net7.0\Moving.exe
+C:\Users\GRIGS\source\repos\WhileLoopExercise\Moving\bin\Debug\net7.0\Moving.deps.json
+C:\Users\GRIGS\source\repos\WhileLoopExercise\Moving\bin\Debug\net7.0\Moving.runtimeconfig.json
+C:\Users\GRIGS\source\repos\WhileLoopExercise\Moving\bin\Debug\net7.0\Moving.dll
+C:\Users\GRIGS\source\repos\WhileLoopExercise\Moving\bin\Debug\net7.0\Moving.pdb
+C:\Users\GRIGS\source\repos\WhileLoopExercise\Moving\obj\Debug\net7.0\Moving.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\WhileLoopExercise\Moving\obj\Debug\net7.0\Moving.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\WhileLoopExercise\Moving\obj\Debug\net7.0\Moving.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\WhileLoopExercise\Moving\obj\Debug\net7.0\Moving.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\WhileLoopExercise\Moving\obj\Debug\net7.0\Moving.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\WhileLoopExercise\Moving\obj\Debug\net7.0\Moving.dll
+C:\Users\GRIGS\source\repos\WhileLoopExercise\Moving\obj\Debug\net7.0\refint\Moving.dll
+C:\Users\GRIGS\source\repos\WhileLoopExercise\Moving\obj\Debug\net7.0\Moving.pdb
+C:\Users\GRIGS\source\repos\WhileLoopExercise\Moving\obj\Debug\net7.0\Moving.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\WhileLoopExercise\Moving\obj\Debug\net7.0\ref\Moving.dll

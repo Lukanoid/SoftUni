@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ForLoopLab\NumbersFrom1To100\bin\Debug\net7.0\NumbersFrom1To100.exe
+C:\Users\GRIGS\source\repos\ForLoopLab\NumbersFrom1To100\bin\Debug\net7.0\NumbersFrom1To100.deps.json
+C:\Users\GRIGS\source\repos\ForLoopLab\NumbersFrom1To100\bin\Debug\net7.0\NumbersFrom1To100.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ForLoopLab\NumbersFrom1To100\bin\Debug\net7.0\NumbersFrom1To100.dll
+C:\Users\GRIGS\source\repos\ForLoopLab\NumbersFrom1To100\bin\Debug\net7.0\NumbersFrom1To100.pdb
+C:\Users\GRIGS\source\repos\ForLoopLab\NumbersFrom1To100\obj\Debug\net7.0\NumbersFrom1To100.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ForLoopLab\NumbersFrom1To100\obj\Debug\net7.0\NumbersFrom1To100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ForLoopLab\NumbersFrom1To100\obj\Debug\net7.0\NumbersFrom1To100.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ForLoopLab\NumbersFrom1To100\obj\Debug\net7.0\NumbersFrom1To100.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ForLoopLab\NumbersFrom1To100\obj\Debug\net7.0\NumbersFrom1To100.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ForLoopLab\NumbersFrom1To100\obj\Debug\net7.0\NumbersFrom1To100.dll
+C:\Users\GRIGS\source\repos\ForLoopLab\NumbersFrom1To100\obj\Debug\net7.0\refint\NumbersFrom1To100.dll
+C:\Users\GRIGS\source\repos\ForLoopLab\NumbersFrom1To100\obj\Debug\net7.0\NumbersFrom1To100.pdb
+C:\Users\GRIGS\source\repos\ForLoopLab\NumbersFrom1To100\obj\Debug\net7.0\NumbersFrom1To100.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ForLoopLab\NumbersFrom1To100\obj\Debug\net7.0\ref\NumbersFrom1To100.dll

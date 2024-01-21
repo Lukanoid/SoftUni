@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\WhileLoopMoreExercise\ReportSystem\bin\Debug\net7.0\ReportSystem.exe
+C:\Users\GRIGS\source\repos\WhileLoopMoreExercise\ReportSystem\bin\Debug\net7.0\ReportSystem.deps.json
+C:\Users\GRIGS\source\repos\WhileLoopMoreExercise\ReportSystem\bin\Debug\net7.0\ReportSystem.runtimeconfig.json
+C:\Users\GRIGS\source\repos\WhileLoopMoreExercise\ReportSystem\bin\Debug\net7.0\ReportSystem.dll
+C:\Users\GRIGS\source\repos\WhileLoopMoreExercise\ReportSystem\bin\Debug\net7.0\ReportSystem.pdb
+C:\Users\GRIGS\source\repos\WhileLoopMoreExercise\ReportSystem\obj\Debug\net7.0\ReportSystem.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\WhileLoopMoreExercise\ReportSystem\obj\Debug\net7.0\ReportSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\WhileLoopMoreExercise\ReportSystem\obj\Debug\net7.0\ReportSystem.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\WhileLoopMoreExercise\ReportSystem\obj\Debug\net7.0\ReportSystem.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\WhileLoopMoreExercise\ReportSystem\obj\Debug\net7.0\ReportSystem.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\WhileLoopMoreExercise\ReportSystem\obj\Debug\net7.0\ReportSystem.dll
+C:\Users\GRIGS\source\repos\WhileLoopMoreExercise\ReportSystem\obj\Debug\net7.0\refint\ReportSystem.dll
+C:\Users\GRIGS\source\repos\WhileLoopMoreExercise\ReportSystem\obj\Debug\net7.0\ReportSystem.pdb
+C:\Users\GRIGS\source\repos\WhileLoopMoreExercise\ReportSystem\obj\Debug\net7.0\ReportSystem.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\WhileLoopMoreExercise\ReportSystem\obj\Debug\net7.0\ref\ReportSystem.dll

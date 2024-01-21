@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CharacterSequence/1.0.0": {
+        "runtime": {
+          "CharacterSequence.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CharacterSequence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

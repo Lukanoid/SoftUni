@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\Harvest\bin\Debug\net7.0\Harvest.exe
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\Harvest\bin\Debug\net7.0\Harvest.deps.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\Harvest\bin\Debug\net7.0\Harvest.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\Harvest\bin\Debug\net7.0\Harvest.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\Harvest\bin\Debug\net7.0\Harvest.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\Harvest\obj\Debug\net7.0\Harvest.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\Harvest\obj\Debug\net7.0\Harvest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\Harvest\obj\Debug\net7.0\Harvest.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\Harvest\obj\Debug\net7.0\Harvest.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\Harvest\obj\Debug\net7.0\Harvest.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\Harvest\obj\Debug\net7.0\Harvest.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\Harvest\obj\Debug\net7.0\refint\Harvest.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\Harvest\obj\Debug\net7.0\Harvest.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\Harvest\obj\Debug\net7.0\Harvest.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\Harvest\obj\Debug\net7.0\ref\Harvest.dll

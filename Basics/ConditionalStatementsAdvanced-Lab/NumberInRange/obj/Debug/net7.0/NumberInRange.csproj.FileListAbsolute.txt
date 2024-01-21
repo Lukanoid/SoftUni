@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\NumberInRange\bin\Debug\net7.0\NumberInRange.exe
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\NumberInRange\bin\Debug\net7.0\NumberInRange.deps.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\NumberInRange\bin\Debug\net7.0\NumberInRange.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\NumberInRange\bin\Debug\net7.0\NumberInRange.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\NumberInRange\bin\Debug\net7.0\NumberInRange.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\NumberInRange\obj\Debug\net7.0\NumberInRange.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\NumberInRange\obj\Debug\net7.0\NumberInRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\NumberInRange\obj\Debug\net7.0\NumberInRange.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\NumberInRange\obj\Debug\net7.0\NumberInRange.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\NumberInRange\obj\Debug\net7.0\NumberInRange.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\NumberInRange\obj\Debug\net7.0\NumberInRange.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\NumberInRange\obj\Debug\net7.0\refint\NumberInRange.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\NumberInRange\obj\Debug\net7.0\NumberInRange.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\NumberInRange\obj\Debug\net7.0\NumberInRange.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\NumberInRange\obj\Debug\net7.0\ref\NumberInRange.dll

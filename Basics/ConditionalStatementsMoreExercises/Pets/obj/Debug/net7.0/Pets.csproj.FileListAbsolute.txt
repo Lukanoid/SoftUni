@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\Pets\bin\Debug\net7.0\Pets.exe
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\Pets\bin\Debug\net7.0\Pets.deps.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\Pets\bin\Debug\net7.0\Pets.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\Pets\bin\Debug\net7.0\Pets.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\Pets\bin\Debug\net7.0\Pets.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\Pets\obj\Debug\net7.0\Pets.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\Pets\obj\Debug\net7.0\Pets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\Pets\obj\Debug\net7.0\Pets.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\Pets\obj\Debug\net7.0\Pets.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\Pets\obj\Debug\net7.0\Pets.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\Pets\obj\Debug\net7.0\Pets.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\Pets\obj\Debug\net7.0\refint\Pets.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\Pets\obj\Debug\net7.0\Pets.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\Pets\obj\Debug\net7.0\Pets.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\Pets\obj\Debug\net7.0\ref\Pets.dll

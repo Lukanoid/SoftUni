@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\PersonalTitles\bin\Debug\net7.0\PersonalTitles.exe
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\PersonalTitles\bin\Debug\net7.0\PersonalTitles.deps.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\PersonalTitles\bin\Debug\net7.0\PersonalTitles.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\PersonalTitles\bin\Debug\net7.0\PersonalTitles.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\PersonalTitles\bin\Debug\net7.0\PersonalTitles.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\PersonalTitles\obj\Debug\net7.0\PersonalTitles.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\PersonalTitles\obj\Debug\net7.0\PersonalTitles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\PersonalTitles\obj\Debug\net7.0\PersonalTitles.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\PersonalTitles\obj\Debug\net7.0\PersonalTitles.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\PersonalTitles\obj\Debug\net7.0\PersonalTitles.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\PersonalTitles\obj\Debug\net7.0\PersonalTitles.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\PersonalTitles\obj\Debug\net7.0\refint\PersonalTitles.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\PersonalTitles\obj\Debug\net7.0\PersonalTitles.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\PersonalTitles\obj\Debug\net7.0\PersonalTitles.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\PersonalTitles\obj\Debug\net7.0\ref\PersonalTitles.dll

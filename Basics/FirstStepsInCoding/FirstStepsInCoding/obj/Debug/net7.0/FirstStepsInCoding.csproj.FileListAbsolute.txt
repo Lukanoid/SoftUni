@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\FirstStepsInCoding\FirstStepsInCoding\bin\Debug\net7.0\FirstStepsInCoding.exe
+C:\Users\GRIGS\source\repos\FirstStepsInCoding\FirstStepsInCoding\bin\Debug\net7.0\FirstStepsInCoding.deps.json
+C:\Users\GRIGS\source\repos\FirstStepsInCoding\FirstStepsInCoding\bin\Debug\net7.0\FirstStepsInCoding.runtimeconfig.json
+C:\Users\GRIGS\source\repos\FirstStepsInCoding\FirstStepsInCoding\bin\Debug\net7.0\FirstStepsInCoding.dll
+C:\Users\GRIGS\source\repos\FirstStepsInCoding\FirstStepsInCoding\bin\Debug\net7.0\FirstStepsInCoding.pdb
+C:\Users\GRIGS\source\repos\FirstStepsInCoding\FirstStepsInCoding\obj\Debug\net7.0\FirstStepsInCoding.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\FirstStepsInCoding\FirstStepsInCoding\obj\Debug\net7.0\FirstStepsInCoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\FirstStepsInCoding\FirstStepsInCoding\obj\Debug\net7.0\FirstStepsInCoding.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\FirstStepsInCoding\FirstStepsInCoding\obj\Debug\net7.0\FirstStepsInCoding.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\FirstStepsInCoding\FirstStepsInCoding\obj\Debug\net7.0\FirstStepsInCoding.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\FirstStepsInCoding\FirstStepsInCoding\obj\Debug\net7.0\FirstStepsInCoding.dll
+C:\Users\GRIGS\source\repos\FirstStepsInCoding\FirstStepsInCoding\obj\Debug\net7.0\refint\FirstStepsInCoding.dll
+C:\Users\GRIGS\source\repos\FirstStepsInCoding\FirstStepsInCoding\obj\Debug\net7.0\FirstStepsInCoding.pdb
+C:\Users\GRIGS\source\repos\FirstStepsInCoding\FirstStepsInCoding\obj\Debug\net7.0\FirstStepsInCoding.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\FirstStepsInCoding\FirstStepsInCoding\obj\Debug\net7.0\ref\FirstStepsInCoding.dll

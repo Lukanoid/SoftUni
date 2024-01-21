@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ForLoopLab\Numbers1.NWithStep3\bin\Debug\net7.0\Numbers1.NWithStep3.exe
+C:\Users\GRIGS\source\repos\ForLoopLab\Numbers1.NWithStep3\bin\Debug\net7.0\Numbers1.NWithStep3.deps.json
+C:\Users\GRIGS\source\repos\ForLoopLab\Numbers1.NWithStep3\bin\Debug\net7.0\Numbers1.NWithStep3.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ForLoopLab\Numbers1.NWithStep3\bin\Debug\net7.0\Numbers1.NWithStep3.dll
+C:\Users\GRIGS\source\repos\ForLoopLab\Numbers1.NWithStep3\bin\Debug\net7.0\Numbers1.NWithStep3.pdb
+C:\Users\GRIGS\source\repos\ForLoopLab\Numbers1.NWithStep3\obj\Debug\net7.0\Numbers1.NWithStep3.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ForLoopLab\Numbers1.NWithStep3\obj\Debug\net7.0\Numbers1.NWithStep3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ForLoopLab\Numbers1.NWithStep3\obj\Debug\net7.0\Numbers1.NWithStep3.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ForLoopLab\Numbers1.NWithStep3\obj\Debug\net7.0\Numbers1.NWithStep3.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ForLoopLab\Numbers1.NWithStep3\obj\Debug\net7.0\Numbers1.NWithStep3.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ForLoopLab\Numbers1.NWithStep3\obj\Debug\net7.0\Numbers1.NWithStep3.dll
+C:\Users\GRIGS\source\repos\ForLoopLab\Numbers1.NWithStep3\obj\Debug\net7.0\refint\Numbers1.NWithStep3.dll
+C:\Users\GRIGS\source\repos\ForLoopLab\Numbers1.NWithStep3\obj\Debug\net7.0\Numbers1.NWithStep3.pdb
+C:\Users\GRIGS\source\repos\ForLoopLab\Numbers1.NWithStep3\obj\Debug\net7.0\Numbers1.NWithStep3.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ForLoopLab\Numbers1.NWithStep3\obj\Debug\net7.0\ref\Numbers1.NWithStep3.dll

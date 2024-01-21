@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ForLoopLab\NumbersNTo1\bin\Debug\net7.0\NumbersNTo1.exe
+C:\Users\GRIGS\source\repos\ForLoopLab\NumbersNTo1\bin\Debug\net7.0\NumbersNTo1.deps.json
+C:\Users\GRIGS\source\repos\ForLoopLab\NumbersNTo1\bin\Debug\net7.0\NumbersNTo1.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ForLoopLab\NumbersNTo1\bin\Debug\net7.0\NumbersNTo1.dll
+C:\Users\GRIGS\source\repos\ForLoopLab\NumbersNTo1\bin\Debug\net7.0\NumbersNTo1.pdb
+C:\Users\GRIGS\source\repos\ForLoopLab\NumbersNTo1\obj\Debug\net7.0\NumbersNTo1.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ForLoopLab\NumbersNTo1\obj\Debug\net7.0\NumbersNTo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ForLoopLab\NumbersNTo1\obj\Debug\net7.0\NumbersNTo1.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ForLoopLab\NumbersNTo1\obj\Debug\net7.0\NumbersNTo1.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ForLoopLab\NumbersNTo1\obj\Debug\net7.0\NumbersNTo1.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ForLoopLab\NumbersNTo1\obj\Debug\net7.0\NumbersNTo1.dll
+C:\Users\GRIGS\source\repos\ForLoopLab\NumbersNTo1\obj\Debug\net7.0\refint\NumbersNTo1.dll
+C:\Users\GRIGS\source\repos\ForLoopLab\NumbersNTo1\obj\Debug\net7.0\NumbersNTo1.pdb
+C:\Users\GRIGS\source\repos\ForLoopLab\NumbersNTo1\obj\Debug\net7.0\NumbersNTo1.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ForLoopLab\NumbersNTo1\obj\Debug\net7.0\ref\NumbersNTo1.dll

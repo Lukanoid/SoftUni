@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ForLoopExercise\Oscars\bin\Debug\net7.0\Oscars.exe
+C:\Users\GRIGS\source\repos\ForLoopExercise\Oscars\bin\Debug\net7.0\Oscars.deps.json
+C:\Users\GRIGS\source\repos\ForLoopExercise\Oscars\bin\Debug\net7.0\Oscars.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ForLoopExercise\Oscars\bin\Debug\net7.0\Oscars.dll
+C:\Users\GRIGS\source\repos\ForLoopExercise\Oscars\bin\Debug\net7.0\Oscars.pdb
+C:\Users\GRIGS\source\repos\ForLoopExercise\Oscars\obj\Debug\net7.0\Oscars.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ForLoopExercise\Oscars\obj\Debug\net7.0\Oscars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ForLoopExercise\Oscars\obj\Debug\net7.0\Oscars.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ForLoopExercise\Oscars\obj\Debug\net7.0\Oscars.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ForLoopExercise\Oscars\obj\Debug\net7.0\Oscars.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ForLoopExercise\Oscars\obj\Debug\net7.0\Oscars.dll
+C:\Users\GRIGS\source\repos\ForLoopExercise\Oscars\obj\Debug\net7.0\refint\Oscars.dll
+C:\Users\GRIGS\source\repos\ForLoopExercise\Oscars\obj\Debug\net7.0\Oscars.pdb
+C:\Users\GRIGS\source\repos\ForLoopExercise\Oscars\obj\Debug\net7.0\Oscars.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ForLoopExercise\Oscars\obj\Debug\net7.0\ref\Oscars.dll

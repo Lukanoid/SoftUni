@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ForLoopExercise\TennisRanklist\bin\Debug\net7.0\TennisRanklist.exe
+C:\Users\GRIGS\source\repos\ForLoopExercise\TennisRanklist\bin\Debug\net7.0\TennisRanklist.deps.json
+C:\Users\GRIGS\source\repos\ForLoopExercise\TennisRanklist\bin\Debug\net7.0\TennisRanklist.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ForLoopExercise\TennisRanklist\bin\Debug\net7.0\TennisRanklist.dll
+C:\Users\GRIGS\source\repos\ForLoopExercise\TennisRanklist\bin\Debug\net7.0\TennisRanklist.pdb
+C:\Users\GRIGS\source\repos\ForLoopExercise\TennisRanklist\obj\Debug\net7.0\TennisRanklist.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ForLoopExercise\TennisRanklist\obj\Debug\net7.0\TennisRanklist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ForLoopExercise\TennisRanklist\obj\Debug\net7.0\TennisRanklist.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ForLoopExercise\TennisRanklist\obj\Debug\net7.0\TennisRanklist.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ForLoopExercise\TennisRanklist\obj\Debug\net7.0\TennisRanklist.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ForLoopExercise\TennisRanklist\obj\Debug\net7.0\TennisRanklist.dll
+C:\Users\GRIGS\source\repos\ForLoopExercise\TennisRanklist\obj\Debug\net7.0\refint\TennisRanklist.dll
+C:\Users\GRIGS\source\repos\ForLoopExercise\TennisRanklist\obj\Debug\net7.0\TennisRanklist.pdb
+C:\Users\GRIGS\source\repos\ForLoopExercise\TennisRanklist\obj\Debug\net7.0\TennisRanklist.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ForLoopExercise\TennisRanklist\obj\Debug\net7.0\ref\TennisRanklist.dll

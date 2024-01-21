@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\SmallShop\bin\Debug\net7.0\SmallShop.exe
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\SmallShop\bin\Debug\net7.0\SmallShop.deps.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\SmallShop\bin\Debug\net7.0\SmallShop.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\SmallShop\bin\Debug\net7.0\SmallShop.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\SmallShop\bin\Debug\net7.0\SmallShop.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\SmallShop\obj\Debug\net7.0\SmallShop.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\SmallShop\obj\Debug\net7.0\SmallShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\SmallShop\obj\Debug\net7.0\SmallShop.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\SmallShop\obj\Debug\net7.0\SmallShop.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\SmallShop\obj\Debug\net7.0\SmallShop.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\SmallShop\obj\Debug\net7.0\SmallShop.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\SmallShop\obj\Debug\net7.0\refint\SmallShop.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\SmallShop\obj\Debug\net7.0\SmallShop.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\SmallShop\obj\Debug\net7.0\SmallShop.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\SmallShop\obj\Debug\net7.0\ref\SmallShop.dll

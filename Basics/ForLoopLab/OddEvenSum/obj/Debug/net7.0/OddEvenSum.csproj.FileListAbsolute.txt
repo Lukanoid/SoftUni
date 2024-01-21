@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ForLoopLab\OddEvenSum\bin\Debug\net7.0\OddEvenSum.exe
+C:\Users\GRIGS\source\repos\ForLoopLab\OddEvenSum\bin\Debug\net7.0\OddEvenSum.deps.json
+C:\Users\GRIGS\source\repos\ForLoopLab\OddEvenSum\bin\Debug\net7.0\OddEvenSum.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ForLoopLab\OddEvenSum\bin\Debug\net7.0\OddEvenSum.dll
+C:\Users\GRIGS\source\repos\ForLoopLab\OddEvenSum\bin\Debug\net7.0\OddEvenSum.pdb
+C:\Users\GRIGS\source\repos\ForLoopLab\OddEvenSum\obj\Debug\net7.0\OddEvenSum.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ForLoopLab\OddEvenSum\obj\Debug\net7.0\OddEvenSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ForLoopLab\OddEvenSum\obj\Debug\net7.0\OddEvenSum.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ForLoopLab\OddEvenSum\obj\Debug\net7.0\OddEvenSum.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ForLoopLab\OddEvenSum\obj\Debug\net7.0\OddEvenSum.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ForLoopLab\OddEvenSum\obj\Debug\net7.0\OddEvenSum.dll
+C:\Users\GRIGS\source\repos\ForLoopLab\OddEvenSum\obj\Debug\net7.0\refint\OddEvenSum.dll
+C:\Users\GRIGS\source\repos\ForLoopLab\OddEvenSum\obj\Debug\net7.0\OddEvenSum.pdb
+C:\Users\GRIGS\source\repos\ForLoopLab\OddEvenSum\obj\Debug\net7.0\OddEvenSum.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ForLoopLab\OddEvenSum\obj\Debug\net7.0\ref\OddEvenSum.dll

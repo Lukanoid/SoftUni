@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\WeekendOrWorkingDay\bin\Debug\net7.0\WeekendOrWorkingDay.exe
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\WeekendOrWorkingDay\bin\Debug\net7.0\WeekendOrWorkingDay.deps.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\WeekendOrWorkingDay\bin\Debug\net7.0\WeekendOrWorkingDay.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\WeekendOrWorkingDay\bin\Debug\net7.0\WeekendOrWorkingDay.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\WeekendOrWorkingDay\bin\Debug\net7.0\WeekendOrWorkingDay.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\WeekendOrWorkingDay\obj\Debug\net7.0\WeekendOrWorkingDay.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\WeekendOrWorkingDay\obj\Debug\net7.0\WeekendOrWorkingDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\WeekendOrWorkingDay\obj\Debug\net7.0\WeekendOrWorkingDay.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\WeekendOrWorkingDay\obj\Debug\net7.0\WeekendOrWorkingDay.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\WeekendOrWorkingDay\obj\Debug\net7.0\WeekendOrWorkingDay.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\WeekendOrWorkingDay\obj\Debug\net7.0\WeekendOrWorkingDay.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\WeekendOrWorkingDay\obj\Debug\net7.0\refint\WeekendOrWorkingDay.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\WeekendOrWorkingDay\obj\Debug\net7.0\WeekendOrWorkingDay.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\WeekendOrWorkingDay\obj\Debug\net7.0\WeekendOrWorkingDay.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvanced-Lab\WeekendOrWorkingDay\obj\Debug\net7.0\ref\WeekendOrWorkingDay.dll

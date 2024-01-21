@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\WhileLoopLab\ReadText\bin\Debug\net7.0\ReadText.exe
+C:\Users\GRIGS\source\repos\WhileLoopLab\ReadText\bin\Debug\net7.0\ReadText.deps.json
+C:\Users\GRIGS\source\repos\WhileLoopLab\ReadText\bin\Debug\net7.0\ReadText.runtimeconfig.json
+C:\Users\GRIGS\source\repos\WhileLoopLab\ReadText\bin\Debug\net7.0\ReadText.dll
+C:\Users\GRIGS\source\repos\WhileLoopLab\ReadText\bin\Debug\net7.0\ReadText.pdb
+C:\Users\GRIGS\source\repos\WhileLoopLab\ReadText\obj\Debug\net7.0\ReadText.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\WhileLoopLab\ReadText\obj\Debug\net7.0\ReadText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\WhileLoopLab\ReadText\obj\Debug\net7.0\ReadText.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\WhileLoopLab\ReadText\obj\Debug\net7.0\ReadText.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\WhileLoopLab\ReadText\obj\Debug\net7.0\ReadText.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\WhileLoopLab\ReadText\obj\Debug\net7.0\ReadText.dll
+C:\Users\GRIGS\source\repos\WhileLoopLab\ReadText\obj\Debug\net7.0\refint\ReadText.dll
+C:\Users\GRIGS\source\repos\WhileLoopLab\ReadText\obj\Debug\net7.0\ReadText.pdb
+C:\Users\GRIGS\source\repos\WhileLoopLab\ReadText\obj\Debug\net7.0\ReadText.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\WhileLoopLab\ReadText\obj\Debug\net7.0\ref\ReadText.dll

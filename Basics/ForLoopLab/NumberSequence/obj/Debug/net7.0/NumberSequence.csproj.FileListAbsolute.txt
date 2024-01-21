@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ForLoopLab\NumberSequence\bin\Debug\net7.0\NumberSequence.exe
+C:\Users\GRIGS\source\repos\ForLoopLab\NumberSequence\bin\Debug\net7.0\NumberSequence.deps.json
+C:\Users\GRIGS\source\repos\ForLoopLab\NumberSequence\bin\Debug\net7.0\NumberSequence.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ForLoopLab\NumberSequence\bin\Debug\net7.0\NumberSequence.dll
+C:\Users\GRIGS\source\repos\ForLoopLab\NumberSequence\bin\Debug\net7.0\NumberSequence.pdb
+C:\Users\GRIGS\source\repos\ForLoopLab\NumberSequence\obj\Debug\net7.0\NumberSequence.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ForLoopLab\NumberSequence\obj\Debug\net7.0\NumberSequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ForLoopLab\NumberSequence\obj\Debug\net7.0\NumberSequence.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ForLoopLab\NumberSequence\obj\Debug\net7.0\NumberSequence.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ForLoopLab\NumberSequence\obj\Debug\net7.0\NumberSequence.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ForLoopLab\NumberSequence\obj\Debug\net7.0\NumberSequence.dll
+C:\Users\GRIGS\source\repos\ForLoopLab\NumberSequence\obj\Debug\net7.0\refint\NumberSequence.dll
+C:\Users\GRIGS\source\repos\ForLoopLab\NumberSequence\obj\Debug\net7.0\NumberSequence.pdb
+C:\Users\GRIGS\source\repos\ForLoopLab\NumberSequence\obj\Debug\net7.0\NumberSequence.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ForLoopLab\NumberSequence\obj\Debug\net7.0\ref\NumberSequence.dll

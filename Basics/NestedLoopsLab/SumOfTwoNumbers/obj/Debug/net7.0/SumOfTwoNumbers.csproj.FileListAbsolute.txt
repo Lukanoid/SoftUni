@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\NestedLoopsLab\SumOfTwoNumbers\bin\Debug\net7.0\SumOfTwoNumbers.exe
+C:\Users\GRIGS\source\repos\NestedLoopsLab\SumOfTwoNumbers\bin\Debug\net7.0\SumOfTwoNumbers.deps.json
+C:\Users\GRIGS\source\repos\NestedLoopsLab\SumOfTwoNumbers\bin\Debug\net7.0\SumOfTwoNumbers.runtimeconfig.json
+C:\Users\GRIGS\source\repos\NestedLoopsLab\SumOfTwoNumbers\bin\Debug\net7.0\SumOfTwoNumbers.dll
+C:\Users\GRIGS\source\repos\NestedLoopsLab\SumOfTwoNumbers\bin\Debug\net7.0\SumOfTwoNumbers.pdb
+C:\Users\GRIGS\source\repos\NestedLoopsLab\SumOfTwoNumbers\obj\Debug\net7.0\SumOfTwoNumbers.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\NestedLoopsLab\SumOfTwoNumbers\obj\Debug\net7.0\SumOfTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\NestedLoopsLab\SumOfTwoNumbers\obj\Debug\net7.0\SumOfTwoNumbers.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\NestedLoopsLab\SumOfTwoNumbers\obj\Debug\net7.0\SumOfTwoNumbers.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\NestedLoopsLab\SumOfTwoNumbers\obj\Debug\net7.0\SumOfTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\NestedLoopsLab\SumOfTwoNumbers\obj\Debug\net7.0\SumOfTwoNumbers.dll
+C:\Users\GRIGS\source\repos\NestedLoopsLab\SumOfTwoNumbers\obj\Debug\net7.0\refint\SumOfTwoNumbers.dll
+C:\Users\GRIGS\source\repos\NestedLoopsLab\SumOfTwoNumbers\obj\Debug\net7.0\SumOfTwoNumbers.pdb
+C:\Users\GRIGS\source\repos\NestedLoopsLab\SumOfTwoNumbers\obj\Debug\net7.0\SumOfTwoNumbers.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\NestedLoopsLab\SumOfTwoNumbers\obj\Debug\net7.0\ref\SumOfTwoNumbers.dll

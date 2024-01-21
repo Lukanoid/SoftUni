@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\TruckDriver\bin\Debug\net7.0\TruckDriver.exe
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\TruckDriver\bin\Debug\net7.0\TruckDriver.deps.json
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\TruckDriver\bin\Debug\net7.0\TruckDriver.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\TruckDriver\bin\Debug\net7.0\TruckDriver.dll
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\TruckDriver\bin\Debug\net7.0\TruckDriver.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\TruckDriver\obj\Debug\net7.0\TruckDriver.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\TruckDriver\obj\Debug\net7.0\TruckDriver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\TruckDriver\obj\Debug\net7.0\TruckDriver.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\TruckDriver\obj\Debug\net7.0\TruckDriver.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\TruckDriver\obj\Debug\net7.0\TruckDriver.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\TruckDriver\obj\Debug\net7.0\TruckDriver.dll
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\TruckDriver\obj\Debug\net7.0\refint\TruckDriver.dll
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\TruckDriver\obj\Debug\net7.0\TruckDriver.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\TruckDriver\obj\Debug\net7.0\TruckDriver.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\TruckDriver\obj\Debug\net7.0\ref\TruckDriver.dll

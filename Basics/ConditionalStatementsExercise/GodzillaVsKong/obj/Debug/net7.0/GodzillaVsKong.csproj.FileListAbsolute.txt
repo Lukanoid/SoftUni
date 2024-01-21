@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\GodzillaVsKong\bin\Debug\net7.0\GodzillaVsKong.exe
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\GodzillaVsKong\bin\Debug\net7.0\GodzillaVsKong.deps.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\GodzillaVsKong\bin\Debug\net7.0\GodzillaVsKong.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\GodzillaVsKong\bin\Debug\net7.0\GodzillaVsKong.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\GodzillaVsKong\bin\Debug\net7.0\GodzillaVsKong.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\GodzillaVsKong\obj\Debug\net7.0\GodzillaVsKong.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\GodzillaVsKong\obj\Debug\net7.0\GodzillaVsKong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\GodzillaVsKong\obj\Debug\net7.0\GodzillaVsKong.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\GodzillaVsKong\obj\Debug\net7.0\GodzillaVsKong.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\GodzillaVsKong\obj\Debug\net7.0\GodzillaVsKong.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\GodzillaVsKong\obj\Debug\net7.0\GodzillaVsKong.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\GodzillaVsKong\obj\Debug\net7.0\refint\GodzillaVsKong.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\GodzillaVsKong\obj\Debug\net7.0\GodzillaVsKong.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\GodzillaVsKong\obj\Debug\net7.0\GodzillaVsKong.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\GodzillaVsKong\obj\Debug\net7.0\ref\GodzillaVsKong.dll

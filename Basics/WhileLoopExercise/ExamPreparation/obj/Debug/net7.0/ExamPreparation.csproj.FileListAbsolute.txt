@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\WhileLoopExercise\ExamPreparation\bin\Debug\net7.0\ExamPreparation.exe
+C:\Users\GRIGS\source\repos\WhileLoopExercise\ExamPreparation\bin\Debug\net7.0\ExamPreparation.deps.json
+C:\Users\GRIGS\source\repos\WhileLoopExercise\ExamPreparation\bin\Debug\net7.0\ExamPreparation.runtimeconfig.json
+C:\Users\GRIGS\source\repos\WhileLoopExercise\ExamPreparation\bin\Debug\net7.0\ExamPreparation.dll
+C:\Users\GRIGS\source\repos\WhileLoopExercise\ExamPreparation\bin\Debug\net7.0\ExamPreparation.pdb
+C:\Users\GRIGS\source\repos\WhileLoopExercise\ExamPreparation\obj\Debug\net7.0\ExamPreparation.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\WhileLoopExercise\ExamPreparation\obj\Debug\net7.0\ExamPreparation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\WhileLoopExercise\ExamPreparation\obj\Debug\net7.0\ExamPreparation.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\WhileLoopExercise\ExamPreparation\obj\Debug\net7.0\ExamPreparation.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\WhileLoopExercise\ExamPreparation\obj\Debug\net7.0\ExamPreparation.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\WhileLoopExercise\ExamPreparation\obj\Debug\net7.0\ExamPreparation.dll
+C:\Users\GRIGS\source\repos\WhileLoopExercise\ExamPreparation\obj\Debug\net7.0\refint\ExamPreparation.dll
+C:\Users\GRIGS\source\repos\WhileLoopExercise\ExamPreparation\obj\Debug\net7.0\ExamPreparation.pdb
+C:\Users\GRIGS\source\repos\WhileLoopExercise\ExamPreparation\obj\Debug\net7.0\ExamPreparation.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\WhileLoopExercise\ExamPreparation\obj\Debug\net7.0\ref\ExamPreparation.dll

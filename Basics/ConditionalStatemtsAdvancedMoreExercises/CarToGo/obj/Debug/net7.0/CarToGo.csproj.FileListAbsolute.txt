@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\CarToGo\bin\Debug\net7.0\CarToGo.exe
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\CarToGo\bin\Debug\net7.0\CarToGo.deps.json
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\CarToGo\bin\Debug\net7.0\CarToGo.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\CarToGo\bin\Debug\net7.0\CarToGo.dll
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\CarToGo\bin\Debug\net7.0\CarToGo.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\CarToGo\obj\Debug\net7.0\CarToGo.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\CarToGo\obj\Debug\net7.0\CarToGo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\CarToGo\obj\Debug\net7.0\CarToGo.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\CarToGo\obj\Debug\net7.0\CarToGo.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\CarToGo\obj\Debug\net7.0\CarToGo.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\CarToGo\obj\Debug\net7.0\CarToGo.dll
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\CarToGo\obj\Debug\net7.0\refint\CarToGo.dll
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\CarToGo\obj\Debug\net7.0\CarToGo.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\CarToGo\obj\Debug\net7.0\CarToGo.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\CarToGo\obj\Debug\net7.0\ref\CarToGo.dll

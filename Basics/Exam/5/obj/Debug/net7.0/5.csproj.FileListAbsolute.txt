@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\Exam\5\bin\Debug\net7.0\5.exe
+C:\Users\GRIGS\source\repos\Exam\5\bin\Debug\net7.0\5.deps.json
+C:\Users\GRIGS\source\repos\Exam\5\bin\Debug\net7.0\5.runtimeconfig.json
+C:\Users\GRIGS\source\repos\Exam\5\bin\Debug\net7.0\5.dll
+C:\Users\GRIGS\source\repos\Exam\5\bin\Debug\net7.0\5.pdb
+C:\Users\GRIGS\source\repos\Exam\5\obj\Debug\net7.0\5.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\Exam\5\obj\Debug\net7.0\5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\Exam\5\obj\Debug\net7.0\5.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\Exam\5\obj\Debug\net7.0\5.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\Exam\5\obj\Debug\net7.0\5.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\Exam\5\obj\Debug\net7.0\5.dll
+C:\Users\GRIGS\source\repos\Exam\5\obj\Debug\net7.0\refint\5.dll
+C:\Users\GRIGS\source\repos\Exam\5\obj\Debug\net7.0\5.pdb
+C:\Users\GRIGS\source\repos\Exam\5\obj\Debug\net7.0\5.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\Exam\5\obj\Debug\net7.0\ref\5.dll

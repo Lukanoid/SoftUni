@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\LunchBreak\bin\Debug\net7.0\LunchBreak.exe
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\LunchBreak\bin\Debug\net7.0\LunchBreak.deps.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\LunchBreak\bin\Debug\net7.0\LunchBreak.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\LunchBreak\bin\Debug\net7.0\LunchBreak.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\LunchBreak\bin\Debug\net7.0\LunchBreak.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\LunchBreak\obj\Debug\net7.0\LunchBreak.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\LunchBreak\obj\Debug\net7.0\LunchBreak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\LunchBreak\obj\Debug\net7.0\LunchBreak.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\LunchBreak\obj\Debug\net7.0\LunchBreak.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\LunchBreak\obj\Debug\net7.0\LunchBreak.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\LunchBreak\obj\Debug\net7.0\LunchBreak.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\LunchBreak\obj\Debug\net7.0\refint\LunchBreak.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\LunchBreak\obj\Debug\net7.0\LunchBreak.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\LunchBreak\obj\Debug\net7.0\LunchBreak.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsExercise\LunchBreak\obj\Debug\net7.0\ref\LunchBreak.dll

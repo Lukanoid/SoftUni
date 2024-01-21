@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ForLoopLab\LeftAndRightSum\bin\Debug\net7.0\LeftAndRightSum.exe
+C:\Users\GRIGS\source\repos\ForLoopLab\LeftAndRightSum\bin\Debug\net7.0\LeftAndRightSum.deps.json
+C:\Users\GRIGS\source\repos\ForLoopLab\LeftAndRightSum\bin\Debug\net7.0\LeftAndRightSum.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ForLoopLab\LeftAndRightSum\bin\Debug\net7.0\LeftAndRightSum.dll
+C:\Users\GRIGS\source\repos\ForLoopLab\LeftAndRightSum\bin\Debug\net7.0\LeftAndRightSum.pdb
+C:\Users\GRIGS\source\repos\ForLoopLab\LeftAndRightSum\obj\Debug\net7.0\LeftAndRightSum.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ForLoopLab\LeftAndRightSum\obj\Debug\net7.0\LeftAndRightSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ForLoopLab\LeftAndRightSum\obj\Debug\net7.0\LeftAndRightSum.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ForLoopLab\LeftAndRightSum\obj\Debug\net7.0\LeftAndRightSum.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ForLoopLab\LeftAndRightSum\obj\Debug\net7.0\LeftAndRightSum.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ForLoopLab\LeftAndRightSum\obj\Debug\net7.0\LeftAndRightSum.dll
+C:\Users\GRIGS\source\repos\ForLoopLab\LeftAndRightSum\obj\Debug\net7.0\refint\LeftAndRightSum.dll
+C:\Users\GRIGS\source\repos\ForLoopLab\LeftAndRightSum\obj\Debug\net7.0\LeftAndRightSum.pdb
+C:\Users\GRIGS\source\repos\ForLoopLab\LeftAndRightSum\obj\Debug\net7.0\LeftAndRightSum.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ForLoopLab\LeftAndRightSum\obj\Debug\net7.0\ref\LeftAndRightSum.dll

@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\TransportPrice\bin\Debug\net7.0\TransportPrice.exe
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\TransportPrice\bin\Debug\net7.0\TransportPrice.deps.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\TransportPrice\bin\Debug\net7.0\TransportPrice.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\TransportPrice\bin\Debug\net7.0\TransportPrice.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\TransportPrice\bin\Debug\net7.0\TransportPrice.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\TransportPrice\obj\Debug\net7.0\TransportPrice.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\TransportPrice\obj\Debug\net7.0\TransportPrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\TransportPrice\obj\Debug\net7.0\TransportPrice.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\TransportPrice\obj\Debug\net7.0\TransportPrice.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\TransportPrice\obj\Debug\net7.0\TransportPrice.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\TransportPrice\obj\Debug\net7.0\TransportPrice.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\TransportPrice\obj\Debug\net7.0\refint\TransportPrice.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\TransportPrice\obj\Debug\net7.0\TransportPrice.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\TransportPrice\obj\Debug\net7.0\TransportPrice.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\TransportPrice\obj\Debug\net7.0\ref\TransportPrice.dll

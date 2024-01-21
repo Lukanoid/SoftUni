@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ForLoopExercise\HalfSumElement\bin\Debug\net7.0\HalfSumElement.exe
+C:\Users\GRIGS\source\repos\ForLoopExercise\HalfSumElement\bin\Debug\net7.0\HalfSumElement.deps.json
+C:\Users\GRIGS\source\repos\ForLoopExercise\HalfSumElement\bin\Debug\net7.0\HalfSumElement.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ForLoopExercise\HalfSumElement\bin\Debug\net7.0\HalfSumElement.dll
+C:\Users\GRIGS\source\repos\ForLoopExercise\HalfSumElement\bin\Debug\net7.0\HalfSumElement.pdb
+C:\Users\GRIGS\source\repos\ForLoopExercise\HalfSumElement\obj\Debug\net7.0\HalfSumElement.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ForLoopExercise\HalfSumElement\obj\Debug\net7.0\HalfSumElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ForLoopExercise\HalfSumElement\obj\Debug\net7.0\HalfSumElement.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ForLoopExercise\HalfSumElement\obj\Debug\net7.0\HalfSumElement.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ForLoopExercise\HalfSumElement\obj\Debug\net7.0\HalfSumElement.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ForLoopExercise\HalfSumElement\obj\Debug\net7.0\HalfSumElement.dll
+C:\Users\GRIGS\source\repos\ForLoopExercise\HalfSumElement\obj\Debug\net7.0\refint\HalfSumElement.dll
+C:\Users\GRIGS\source\repos\ForLoopExercise\HalfSumElement\obj\Debug\net7.0\HalfSumElement.pdb
+C:\Users\GRIGS\source\repos\ForLoopExercise\HalfSumElement\obj\Debug\net7.0\HalfSumElement.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ForLoopExercise\HalfSumElement\obj\Debug\net7.0\ref\HalfSumElement.dll

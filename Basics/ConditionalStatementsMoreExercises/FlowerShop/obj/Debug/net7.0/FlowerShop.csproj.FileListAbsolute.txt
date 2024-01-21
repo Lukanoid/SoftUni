@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\FlowerShop\bin\Debug\net7.0\FlowerShop.exe
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\FlowerShop\bin\Debug\net7.0\FlowerShop.deps.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\FlowerShop\bin\Debug\net7.0\FlowerShop.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\FlowerShop\bin\Debug\net7.0\FlowerShop.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\FlowerShop\bin\Debug\net7.0\FlowerShop.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\FlowerShop\obj\Debug\net7.0\FlowerShop.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\FlowerShop\obj\Debug\net7.0\FlowerShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\FlowerShop\obj\Debug\net7.0\FlowerShop.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\FlowerShop\obj\Debug\net7.0\FlowerShop.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\FlowerShop\obj\Debug\net7.0\FlowerShop.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\FlowerShop\obj\Debug\net7.0\FlowerShop.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\FlowerShop\obj\Debug\net7.0\refint\FlowerShop.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\FlowerShop\obj\Debug\net7.0\FlowerShop.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\FlowerShop\obj\Debug\net7.0\FlowerShop.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsMoreExercises\FlowerShop\obj\Debug\net7.0\ref\FlowerShop.dll

@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\WhileLoopLab\MinNumber\bin\Debug\net7.0\MinNumber.exe
+C:\Users\GRIGS\source\repos\WhileLoopLab\MinNumber\bin\Debug\net7.0\MinNumber.deps.json
+C:\Users\GRIGS\source\repos\WhileLoopLab\MinNumber\bin\Debug\net7.0\MinNumber.runtimeconfig.json
+C:\Users\GRIGS\source\repos\WhileLoopLab\MinNumber\bin\Debug\net7.0\MinNumber.dll
+C:\Users\GRIGS\source\repos\WhileLoopLab\MinNumber\bin\Debug\net7.0\MinNumber.pdb
+C:\Users\GRIGS\source\repos\WhileLoopLab\MinNumber\obj\Debug\net7.0\MinNumber.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\WhileLoopLab\MinNumber\obj\Debug\net7.0\MinNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\WhileLoopLab\MinNumber\obj\Debug\net7.0\MinNumber.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\WhileLoopLab\MinNumber\obj\Debug\net7.0\MinNumber.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\WhileLoopLab\MinNumber\obj\Debug\net7.0\MinNumber.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\WhileLoopLab\MinNumber\obj\Debug\net7.0\MinNumber.dll
+C:\Users\GRIGS\source\repos\WhileLoopLab\MinNumber\obj\Debug\net7.0\refint\MinNumber.dll
+C:\Users\GRIGS\source\repos\WhileLoopLab\MinNumber\obj\Debug\net7.0\MinNumber.pdb
+C:\Users\GRIGS\source\repos\WhileLoopLab\MinNumber\obj\Debug\net7.0\MinNumber.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\WhileLoopLab\MinNumber\obj\Debug\net7.0\ref\MinNumber.dll

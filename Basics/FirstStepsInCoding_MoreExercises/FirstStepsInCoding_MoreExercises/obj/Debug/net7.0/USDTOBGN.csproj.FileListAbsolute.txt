@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\FirstStepsInCoding_MoreExercises\bin\Debug\net7.0\USDTOBGN.exe
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\FirstStepsInCoding_MoreExercises\bin\Debug\net7.0\USDTOBGN.deps.json
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\FirstStepsInCoding_MoreExercises\bin\Debug\net7.0\USDTOBGN.runtimeconfig.json
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\FirstStepsInCoding_MoreExercises\bin\Debug\net7.0\USDTOBGN.dll
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\FirstStepsInCoding_MoreExercises\bin\Debug\net7.0\USDTOBGN.pdb
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\FirstStepsInCoding_MoreExercises\obj\Debug\net7.0\USDTOBGN.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\FirstStepsInCoding_MoreExercises\obj\Debug\net7.0\USDTOBGN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\FirstStepsInCoding_MoreExercises\obj\Debug\net7.0\USDTOBGN.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\FirstStepsInCoding_MoreExercises\obj\Debug\net7.0\USDTOBGN.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\FirstStepsInCoding_MoreExercises\obj\Debug\net7.0\USDTOBGN.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\FirstStepsInCoding_MoreExercises\obj\Debug\net7.0\USDTOBGN.dll
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\FirstStepsInCoding_MoreExercises\obj\Debug\net7.0\refint\USDTOBGN.dll
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\FirstStepsInCoding_MoreExercises\obj\Debug\net7.0\USDTOBGN.pdb
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\FirstStepsInCoding_MoreExercises\obj\Debug\net7.0\USDTOBGN.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\FirstStepsInCoding_MoreExercises\FirstStepsInCoding_MoreExercises\obj\Debug\net7.0\ref\USDTOBGN.dll

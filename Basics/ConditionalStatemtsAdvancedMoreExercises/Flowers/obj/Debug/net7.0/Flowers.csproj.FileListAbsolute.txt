@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\Flowers\bin\Debug\net7.0\Flowers.exe
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\Flowers\bin\Debug\net7.0\Flowers.deps.json
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\Flowers\bin\Debug\net7.0\Flowers.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\Flowers\bin\Debug\net7.0\Flowers.dll
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\Flowers\bin\Debug\net7.0\Flowers.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\Flowers\obj\Debug\net7.0\Flowers.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\Flowers\obj\Debug\net7.0\Flowers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\Flowers\obj\Debug\net7.0\Flowers.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\Flowers\obj\Debug\net7.0\Flowers.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\Flowers\obj\Debug\net7.0\Flowers.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\Flowers\obj\Debug\net7.0\Flowers.dll
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\Flowers\obj\Debug\net7.0\refint\Flowers.dll
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\Flowers\obj\Debug\net7.0\Flowers.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\Flowers\obj\Debug\net7.0\Flowers.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ConditionalStatemtsAdvancedMoreExercises\Flowers\obj\Debug\net7.0\ref\Flowers.dll

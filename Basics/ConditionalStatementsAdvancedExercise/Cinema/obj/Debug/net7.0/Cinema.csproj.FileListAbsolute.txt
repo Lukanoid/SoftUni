@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\Cinema\bin\Debug\net7.0\Cinema.exe
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\Cinema\bin\Debug\net7.0\Cinema.deps.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\Cinema\bin\Debug\net7.0\Cinema.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\Cinema\bin\Debug\net7.0\Cinema.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\Cinema\bin\Debug\net7.0\Cinema.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\Cinema\obj\Debug\net7.0\Cinema.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\Cinema\obj\Debug\net7.0\Cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\Cinema\obj\Debug\net7.0\Cinema.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\Cinema\obj\Debug\net7.0\Cinema.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\Cinema\obj\Debug\net7.0\Cinema.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\Cinema\obj\Debug\net7.0\Cinema.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\Cinema\obj\Debug\net7.0\refint\Cinema.dll
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\Cinema\obj\Debug\net7.0\Cinema.pdb
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\Cinema\obj\Debug\net7.0\Cinema.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ConditionalStatementsAdvancedExercise\Cinema\obj\Debug\net7.0\ref\Cinema.dll
