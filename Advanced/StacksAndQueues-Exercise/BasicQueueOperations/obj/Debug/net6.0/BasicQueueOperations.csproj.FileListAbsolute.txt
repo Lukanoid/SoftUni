@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\BasicQueueOperations\bin\Debug\net6.0\BasicQueueOperations.exe
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\BasicQueueOperations\bin\Debug\net6.0\BasicQueueOperations.deps.json
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\BasicQueueOperations\bin\Debug\net6.0\BasicQueueOperations.runtimeconfig.json
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\BasicQueueOperations\bin\Debug\net6.0\BasicQueueOperations.dll
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\BasicQueueOperations\bin\Debug\net6.0\BasicQueueOperations.pdb
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\BasicQueueOperations\obj\Debug\net6.0\BasicQueueOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\BasicQueueOperations\obj\Debug\net6.0\BasicQueueOperations.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\BasicQueueOperations\obj\Debug\net6.0\BasicQueueOperations.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\BasicQueueOperations\obj\Debug\net6.0\BasicQueueOperations.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\BasicQueueOperations\obj\Debug\net6.0\BasicQueueOperations.dll
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\BasicQueueOperations\obj\Debug\net6.0\refint\BasicQueueOperations.dll
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\BasicQueueOperations\obj\Debug\net6.0\BasicQueueOperations.pdb
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\BasicQueueOperations\obj\Debug\net6.0\BasicQueueOperations.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\BasicQueueOperations\obj\Debug\net6.0\ref\BasicQueueOperations.dll

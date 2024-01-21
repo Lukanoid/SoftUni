@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\FastFood\bin\Debug\net6.0\FastFood.exe
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\FastFood\bin\Debug\net6.0\FastFood.deps.json
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\FastFood\bin\Debug\net6.0\FastFood.runtimeconfig.json
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\FastFood\bin\Debug\net6.0\FastFood.dll
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\FastFood\bin\Debug\net6.0\FastFood.pdb
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\FastFood\obj\Debug\net6.0\FastFood.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\FastFood\obj\Debug\net6.0\FastFood.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\FastFood\obj\Debug\net6.0\FastFood.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\FastFood\obj\Debug\net6.0\FastFood.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\FastFood\obj\Debug\net6.0\FastFood.dll
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\FastFood\obj\Debug\net6.0\refint\FastFood.dll
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\FastFood\obj\Debug\net6.0\FastFood.pdb
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\FastFood\obj\Debug\net6.0\FastFood.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\FastFood\obj\Debug\net6.0\ref\FastFood.dll

@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\SimpleTextEditor\bin\Debug\net6.0\SimpleTextEditor.exe
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\SimpleTextEditor\bin\Debug\net6.0\SimpleTextEditor.deps.json
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\SimpleTextEditor\bin\Debug\net6.0\SimpleTextEditor.runtimeconfig.json
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\SimpleTextEditor\bin\Debug\net6.0\SimpleTextEditor.dll
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\SimpleTextEditor\bin\Debug\net6.0\SimpleTextEditor.pdb
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\SimpleTextEditor\obj\Debug\net6.0\SimpleTextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\SimpleTextEditor\obj\Debug\net6.0\SimpleTextEditor.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\SimpleTextEditor\obj\Debug\net6.0\SimpleTextEditor.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\SimpleTextEditor\obj\Debug\net6.0\SimpleTextEditor.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\SimpleTextEditor\obj\Debug\net6.0\SimpleTextEditor.dll
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\SimpleTextEditor\obj\Debug\net6.0\refint\SimpleTextEditor.dll
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\SimpleTextEditor\obj\Debug\net6.0\SimpleTextEditor.pdb
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\SimpleTextEditor\obj\Debug\net6.0\SimpleTextEditor.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\SimpleTextEditor\obj\Debug\net6.0\ref\SimpleTextEditor.dll

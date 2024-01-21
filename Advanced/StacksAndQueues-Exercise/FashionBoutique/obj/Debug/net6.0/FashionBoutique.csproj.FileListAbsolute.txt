@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\FashionBoutique\bin\Debug\net6.0\FashionBoutique.exe
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\FashionBoutique\bin\Debug\net6.0\FashionBoutique.deps.json
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\FashionBoutique\bin\Debug\net6.0\FashionBoutique.runtimeconfig.json
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\FashionBoutique\bin\Debug\net6.0\FashionBoutique.dll
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\FashionBoutique\bin\Debug\net6.0\FashionBoutique.pdb
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\FashionBoutique\obj\Debug\net6.0\FashionBoutique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\FashionBoutique\obj\Debug\net6.0\FashionBoutique.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\FashionBoutique\obj\Debug\net6.0\FashionBoutique.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\FashionBoutique\obj\Debug\net6.0\FashionBoutique.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\FashionBoutique\obj\Debug\net6.0\FashionBoutique.dll
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\FashionBoutique\obj\Debug\net6.0\refint\FashionBoutique.dll
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\FashionBoutique\obj\Debug\net6.0\FashionBoutique.pdb
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\FashionBoutique\obj\Debug\net6.0\FashionBoutique.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\FashionBoutique\obj\Debug\net6.0\ref\FashionBoutique.dll

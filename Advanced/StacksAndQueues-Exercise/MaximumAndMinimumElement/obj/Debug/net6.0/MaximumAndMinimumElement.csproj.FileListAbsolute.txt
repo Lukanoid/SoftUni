@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\MaximumAndMinimumElement\bin\Debug\net6.0\MaximumAndMinimumElement.exe
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\MaximumAndMinimumElement\bin\Debug\net6.0\MaximumAndMinimumElement.deps.json
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\MaximumAndMinimumElement\bin\Debug\net6.0\MaximumAndMinimumElement.runtimeconfig.json
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\MaximumAndMinimumElement\bin\Debug\net6.0\MaximumAndMinimumElement.dll
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\MaximumAndMinimumElement\bin\Debug\net6.0\MaximumAndMinimumElement.pdb
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\MaximumAndMinimumElement\obj\Debug\net6.0\MaximumAndMinimumElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\MaximumAndMinimumElement\obj\Debug\net6.0\MaximumAndMinimumElement.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\MaximumAndMinimumElement\obj\Debug\net6.0\MaximumAndMinimumElement.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\MaximumAndMinimumElement\obj\Debug\net6.0\MaximumAndMinimumElement.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\MaximumAndMinimumElement\obj\Debug\net6.0\MaximumAndMinimumElement.dll
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\MaximumAndMinimumElement\obj\Debug\net6.0\refint\MaximumAndMinimumElement.dll
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\MaximumAndMinimumElement\obj\Debug\net6.0\MaximumAndMinimumElement.pdb
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\MaximumAndMinimumElement\obj\Debug\net6.0\MaximumAndMinimumElement.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\MaximumAndMinimumElement\obj\Debug\net6.0\ref\MaximumAndMinimumElement.dll

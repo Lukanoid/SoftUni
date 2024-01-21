@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\StacksAndQueues-Exercise\bin\Debug\net6.0\StacksAndQueues-Exercise.exe
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\StacksAndQueues-Exercise\bin\Debug\net6.0\StacksAndQueues-Exercise.deps.json
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\StacksAndQueues-Exercise\bin\Debug\net6.0\StacksAndQueues-Exercise.runtimeconfig.json
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\StacksAndQueues-Exercise\bin\Debug\net6.0\StacksAndQueues-Exercise.dll
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\StacksAndQueues-Exercise\bin\Debug\net6.0\StacksAndQueues-Exercise.pdb
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\StacksAndQueues-Exercise\obj\Debug\net6.0\StacksAndQueues-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\StacksAndQueues-Exercise\obj\Debug\net6.0\StacksAndQueues-Exercise.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\StacksAndQueues-Exercise\obj\Debug\net6.0\StacksAndQueues-Exercise.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\StacksAndQueues-Exercise\obj\Debug\net6.0\StacksAndQueues-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\StacksAndQueues-Exercise\obj\Debug\net6.0\StacksAndQueues-Exercise.dll
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\StacksAndQueues-Exercise\obj\Debug\net6.0\refint\StacksAndQueues-Exercise.dll
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\StacksAndQueues-Exercise\obj\Debug\net6.0\StacksAndQueues-Exercise.pdb
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\StacksAndQueues-Exercise\obj\Debug\net6.0\StacksAndQueues-Exercise.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\StacksAndQueues-Exercise\obj\Debug\net6.0\ref\StacksAndQueues-Exercise.dll

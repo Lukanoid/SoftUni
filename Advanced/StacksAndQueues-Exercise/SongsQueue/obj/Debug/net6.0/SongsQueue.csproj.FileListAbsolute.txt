@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\SongsQueue\bin\Debug\net6.0\SongsQueue.exe
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\SongsQueue\bin\Debug\net6.0\SongsQueue.deps.json
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\SongsQueue\bin\Debug\net6.0\SongsQueue.runtimeconfig.json
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\SongsQueue\bin\Debug\net6.0\SongsQueue.dll
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\SongsQueue\bin\Debug\net6.0\SongsQueue.pdb
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\SongsQueue\obj\Debug\net6.0\SongsQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\SongsQueue\obj\Debug\net6.0\SongsQueue.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\SongsQueue\obj\Debug\net6.0\SongsQueue.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\SongsQueue\obj\Debug\net6.0\SongsQueue.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\SongsQueue\obj\Debug\net6.0\SongsQueue.dll
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\SongsQueue\obj\Debug\net6.0\refint\SongsQueue.dll
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\SongsQueue\obj\Debug\net6.0\SongsQueue.pdb
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\SongsQueue\obj\Debug\net6.0\SongsQueue.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\StacksAndQueues-Exercise\SongsQueue\obj\Debug\net6.0\ref\SongsQueue.dll
