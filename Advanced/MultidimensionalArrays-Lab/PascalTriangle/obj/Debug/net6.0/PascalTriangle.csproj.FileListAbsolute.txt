@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Lab\PascalTriangle\bin\Debug\net6.0\PascalTriangle.exe
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Lab\PascalTriangle\bin\Debug\net6.0\PascalTriangle.deps.json
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Lab\PascalTriangle\bin\Debug\net6.0\PascalTriangle.runtimeconfig.json
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Lab\PascalTriangle\bin\Debug\net6.0\PascalTriangle.dll
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Lab\PascalTriangle\bin\Debug\net6.0\PascalTriangle.pdb
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Lab\PascalTriangle\obj\Debug\net6.0\PascalTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Lab\PascalTriangle\obj\Debug\net6.0\PascalTriangle.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Lab\PascalTriangle\obj\Debug\net6.0\PascalTriangle.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Lab\PascalTriangle\obj\Debug\net6.0\PascalTriangle.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Lab\PascalTriangle\obj\Debug\net6.0\PascalTriangle.dll
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Lab\PascalTriangle\obj\Debug\net6.0\refint\PascalTriangle.dll
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Lab\PascalTriangle\obj\Debug\net6.0\PascalTriangle.pdb
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Lab\PascalTriangle\obj\Debug\net6.0\PascalTriangle.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Lab\PascalTriangle\obj\Debug\net6.0\ref\PascalTriangle.dll

@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Lab\JaggedArrayModification\bin\Debug\net6.0\JaggedArrayModification.exe
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Lab\JaggedArrayModification\bin\Debug\net6.0\JaggedArrayModification.deps.json
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Lab\JaggedArrayModification\bin\Debug\net6.0\JaggedArrayModification.runtimeconfig.json
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Lab\JaggedArrayModification\bin\Debug\net6.0\JaggedArrayModification.dll
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Lab\JaggedArrayModification\bin\Debug\net6.0\JaggedArrayModification.pdb
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Lab\JaggedArrayModification\obj\Debug\net6.0\JaggedArrayModification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Lab\JaggedArrayModification\obj\Debug\net6.0\JaggedArrayModification.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Lab\JaggedArrayModification\obj\Debug\net6.0\JaggedArrayModification.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Lab\JaggedArrayModification\obj\Debug\net6.0\JaggedArrayModification.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Lab\JaggedArrayModification\obj\Debug\net6.0\JaggedArrayModification.dll
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Lab\JaggedArrayModification\obj\Debug\net6.0\refint\JaggedArrayModification.dll
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Lab\JaggedArrayModification\obj\Debug\net6.0\JaggedArrayModification.pdb
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Lab\JaggedArrayModification\obj\Debug\net6.0\JaggedArrayModification.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Lab\JaggedArrayModification\obj\Debug\net6.0\ref\JaggedArrayModification.dll

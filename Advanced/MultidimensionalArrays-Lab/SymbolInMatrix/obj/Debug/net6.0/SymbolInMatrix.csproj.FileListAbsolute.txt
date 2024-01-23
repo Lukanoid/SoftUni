@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Lab\SymbolInMatrix\bin\Debug\net6.0\SymbolInMatrix.exe
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Lab\SymbolInMatrix\bin\Debug\net6.0\SymbolInMatrix.deps.json
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Lab\SymbolInMatrix\bin\Debug\net6.0\SymbolInMatrix.runtimeconfig.json
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Lab\SymbolInMatrix\bin\Debug\net6.0\SymbolInMatrix.dll
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Lab\SymbolInMatrix\bin\Debug\net6.0\SymbolInMatrix.pdb
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Lab\SymbolInMatrix\obj\Debug\net6.0\SymbolInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Lab\SymbolInMatrix\obj\Debug\net6.0\SymbolInMatrix.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Lab\SymbolInMatrix\obj\Debug\net6.0\SymbolInMatrix.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Lab\SymbolInMatrix\obj\Debug\net6.0\SymbolInMatrix.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Lab\SymbolInMatrix\obj\Debug\net6.0\SymbolInMatrix.dll
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Lab\SymbolInMatrix\obj\Debug\net6.0\refint\SymbolInMatrix.dll
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Lab\SymbolInMatrix\obj\Debug\net6.0\SymbolInMatrix.pdb
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Lab\SymbolInMatrix\obj\Debug\net6.0\SymbolInMatrix.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Lab\SymbolInMatrix\obj\Debug\net6.0\ref\SymbolInMatrix.dll
