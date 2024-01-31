@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiagonalDifference", "DiagonalDifference\DiagonalDifference.csproj", "{4856026D-6E1E-49B0-8C2F-636510492FC6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SquaresInMatrix", "SquaresInMatrix\SquaresInMatrix.csproj", "{DD8DB869-1820-404E-8407-28D0BAE1E839}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaximalSum", "MaximalSum\MaximalSum.csproj", "{4A48A0B8-F897-4164-8B08-890798F56FBE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatrixShuffling", "MatrixShuffling\MatrixShuffling.csproj", "{D332C55B-51F5-4CE5-B9BF-4B66647320F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnakeMoves", "SnakeMoves\SnakeMoves.csproj", "{B2DE34B2-27BC-433A-9BF3-C2B04EBF6B67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaggedArrayManipulator", "JaggedArrayManipulator\JaggedArrayManipulator.csproj", "{61CFABCF-1477-4A32-B6CC-B5978EEC0A60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnightGame", "KnighGame\KnightGame.csproj", "{8170BF03-F088-4C66-895A-46A9611AE071}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4856026D-6E1E-49B0-8C2F-636510492FC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4856026D-6E1E-49B0-8C2F-636510492FC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4856026D-6E1E-49B0-8C2F-636510492FC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4856026D-6E1E-49B0-8C2F-636510492FC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD8DB869-1820-404E-8407-28D0BAE1E839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD8DB869-1820-404E-8407-28D0BAE1E839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD8DB869-1820-404E-8407-28D0BAE1E839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD8DB869-1820-404E-8407-28D0BAE1E839}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A48A0B8-F897-4164-8B08-890798F56FBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A48A0B8-F897-4164-8B08-890798F56FBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A48A0B8-F897-4164-8B08-890798F56FBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A48A0B8-F897-4164-8B08-890798F56FBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D332C55B-51F5-4CE5-B9BF-4B66647320F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D332C55B-51F5-4CE5-B9BF-4B66647320F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D332C55B-51F5-4CE5-B9BF-4B66647320F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D332C55B-51F5-4CE5-B9BF-4B66647320F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2DE34B2-27BC-433A-9BF3-C2B04EBF6B67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2DE34B2-27BC-433A-9BF3-C2B04EBF6B67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2DE34B2-27BC-433A-9BF3-C2B04EBF6B67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2DE34B2-27BC-433A-9BF3-C2B04EBF6B67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61CFABCF-1477-4A32-B6CC-B5978EEC0A60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61CFABCF-1477-4A32-B6CC-B5978EEC0A60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61CFABCF-1477-4A32-B6CC-B5978EEC0A60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61CFABCF-1477-4A32-B6CC-B5978EEC0A60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8170BF03-F088-4C66-895A-46A9611AE071}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8170BF03-F088-4C66-895A-46A9611AE071}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8170BF03-F088-4C66-895A-46A9611AE071}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8170BF03-F088-4C66-895A-46A9611AE071}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35C761CA-1405-4A36-903E-2CE8F89B7EBD}
+	EndGlobalSection
+EndGlobal

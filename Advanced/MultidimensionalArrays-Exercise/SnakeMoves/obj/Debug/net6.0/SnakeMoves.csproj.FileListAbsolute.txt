@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Exercise\SnakeMoves\bin\Debug\net6.0\SnakeMoves.exe
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Exercise\SnakeMoves\bin\Debug\net6.0\SnakeMoves.deps.json
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Exercise\SnakeMoves\bin\Debug\net6.0\SnakeMoves.runtimeconfig.json
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Exercise\SnakeMoves\bin\Debug\net6.0\SnakeMoves.dll
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Exercise\SnakeMoves\bin\Debug\net6.0\SnakeMoves.pdb
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Exercise\SnakeMoves\obj\Debug\net6.0\SnakeMoves.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Exercise\SnakeMoves\obj\Debug\net6.0\SnakeMoves.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Exercise\SnakeMoves\obj\Debug\net6.0\SnakeMoves.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Exercise\SnakeMoves\obj\Debug\net6.0\SnakeMoves.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Exercise\SnakeMoves\obj\Debug\net6.0\SnakeMoves.dll
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Exercise\SnakeMoves\obj\Debug\net6.0\refint\SnakeMoves.dll
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Exercise\SnakeMoves\obj\Debug\net6.0\SnakeMoves.pdb
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Exercise\SnakeMoves\obj\Debug\net6.0\SnakeMoves.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Exercise\SnakeMoves\obj\Debug\net6.0\ref\SnakeMoves.dll

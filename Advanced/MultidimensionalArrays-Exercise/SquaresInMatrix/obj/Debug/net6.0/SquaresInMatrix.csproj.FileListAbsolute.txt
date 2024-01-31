@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Exercise\SquaresInMatrix\bin\Debug\net6.0\SquaresInMatrix.exe
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Exercise\SquaresInMatrix\bin\Debug\net6.0\SquaresInMatrix.deps.json
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Exercise\SquaresInMatrix\bin\Debug\net6.0\SquaresInMatrix.runtimeconfig.json
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Exercise\SquaresInMatrix\bin\Debug\net6.0\SquaresInMatrix.dll
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Exercise\SquaresInMatrix\bin\Debug\net6.0\SquaresInMatrix.pdb
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Exercise\SquaresInMatrix\obj\Debug\net6.0\SquaresInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Exercise\SquaresInMatrix\obj\Debug\net6.0\SquaresInMatrix.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Exercise\SquaresInMatrix\obj\Debug\net6.0\SquaresInMatrix.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Exercise\SquaresInMatrix\obj\Debug\net6.0\SquaresInMatrix.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Exercise\SquaresInMatrix\obj\Debug\net6.0\SquaresInMatrix.dll
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Exercise\SquaresInMatrix\obj\Debug\net6.0\refint\SquaresInMatrix.dll
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Exercise\SquaresInMatrix\obj\Debug\net6.0\SquaresInMatrix.pdb
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Exercise\SquaresInMatrix\obj\Debug\net6.0\SquaresInMatrix.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Exercise\SquaresInMatrix\obj\Debug\net6.0\ref\SquaresInMatrix.dll

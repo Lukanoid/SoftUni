@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Exercise\MatrixShuffling\bin\Debug\net6.0\MatrixShuffling.exe
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Exercise\MatrixShuffling\bin\Debug\net6.0\MatrixShuffling.deps.json
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Exercise\MatrixShuffling\bin\Debug\net6.0\MatrixShuffling.runtimeconfig.json
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Exercise\MatrixShuffling\bin\Debug\net6.0\MatrixShuffling.dll
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Exercise\MatrixShuffling\bin\Debug\net6.0\MatrixShuffling.pdb
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Exercise\MatrixShuffling\obj\Debug\net6.0\MatrixShuffling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Exercise\MatrixShuffling\obj\Debug\net6.0\MatrixShuffling.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Exercise\MatrixShuffling\obj\Debug\net6.0\MatrixShuffling.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Exercise\MatrixShuffling\obj\Debug\net6.0\MatrixShuffling.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Exercise\MatrixShuffling\obj\Debug\net6.0\MatrixShuffling.dll
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Exercise\MatrixShuffling\obj\Debug\net6.0\refint\MatrixShuffling.dll
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Exercise\MatrixShuffling\obj\Debug\net6.0\MatrixShuffling.pdb
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Exercise\MatrixShuffling\obj\Debug\net6.0\MatrixShuffling.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\MultidimensionalArrays-Exercise\MatrixShuffling\obj\Debug\net6.0\ref\MatrixShuffling.dll
