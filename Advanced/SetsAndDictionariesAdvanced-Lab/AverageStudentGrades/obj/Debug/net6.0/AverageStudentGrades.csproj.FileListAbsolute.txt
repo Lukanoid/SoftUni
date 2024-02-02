@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\AverageStudentGrades\bin\Debug\net6.0\AverageStudentGrades.exe
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\AverageStudentGrades\bin\Debug\net6.0\AverageStudentGrades.deps.json
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\AverageStudentGrades\bin\Debug\net6.0\AverageStudentGrades.runtimeconfig.json
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\AverageStudentGrades\bin\Debug\net6.0\AverageStudentGrades.dll
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\AverageStudentGrades\bin\Debug\net6.0\AverageStudentGrades.pdb
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\AverageStudentGrades\obj\Debug\net6.0\AverageStudentGrades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\AverageStudentGrades\obj\Debug\net6.0\AverageStudentGrades.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\AverageStudentGrades\obj\Debug\net6.0\AverageStudentGrades.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\AverageStudentGrades\obj\Debug\net6.0\AverageStudentGrades.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\AverageStudentGrades\obj\Debug\net6.0\AverageStudentGrades.dll
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\AverageStudentGrades\obj\Debug\net6.0\refint\AverageStudentGrades.dll
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\AverageStudentGrades\obj\Debug\net6.0\AverageStudentGrades.pdb
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\AverageStudentGrades\obj\Debug\net6.0\AverageStudentGrades.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\AverageStudentGrades\obj\Debug\net6.0\ref\AverageStudentGrades.dll

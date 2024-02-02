@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\CountSameValuesInArray\bin\Debug\net6.0\CountSameValuesInArray.exe
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\CountSameValuesInArray\bin\Debug\net6.0\CountSameValuesInArray.deps.json
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\CountSameValuesInArray\bin\Debug\net6.0\CountSameValuesInArray.runtimeconfig.json
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\CountSameValuesInArray\bin\Debug\net6.0\CountSameValuesInArray.dll
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\CountSameValuesInArray\bin\Debug\net6.0\CountSameValuesInArray.pdb
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\CountSameValuesInArray\obj\Debug\net6.0\CountSameValuesInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\CountSameValuesInArray\obj\Debug\net6.0\CountSameValuesInArray.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\CountSameValuesInArray\obj\Debug\net6.0\CountSameValuesInArray.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\CountSameValuesInArray\obj\Debug\net6.0\CountSameValuesInArray.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\CountSameValuesInArray\obj\Debug\net6.0\CountSameValuesInArray.dll
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\CountSameValuesInArray\obj\Debug\net6.0\refint\CountSameValuesInArray.dll
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\CountSameValuesInArray\obj\Debug\net6.0\CountSameValuesInArray.pdb
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\CountSameValuesInArray\obj\Debug\net6.0\CountSameValuesInArray.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\CountSameValuesInArray\obj\Debug\net6.0\ref\CountSameValuesInArray.dll

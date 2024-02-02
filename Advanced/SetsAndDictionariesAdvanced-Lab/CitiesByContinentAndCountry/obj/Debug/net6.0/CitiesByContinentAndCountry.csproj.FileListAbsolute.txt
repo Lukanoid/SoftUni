@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\CitiesByContinentAndCountry\bin\Debug\net6.0\CitiesByContinentAndCountry.exe
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\CitiesByContinentAndCountry\bin\Debug\net6.0\CitiesByContinentAndCountry.deps.json
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\CitiesByContinentAndCountry\bin\Debug\net6.0\CitiesByContinentAndCountry.runtimeconfig.json
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\CitiesByContinentAndCountry\bin\Debug\net6.0\CitiesByContinentAndCountry.dll
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\CitiesByContinentAndCountry\bin\Debug\net6.0\CitiesByContinentAndCountry.pdb
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\CitiesByContinentAndCountry\obj\Debug\net6.0\CitiesByContinentAndCountry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\CitiesByContinentAndCountry\obj\Debug\net6.0\CitiesByContinentAndCountry.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\CitiesByContinentAndCountry\obj\Debug\net6.0\CitiesByContinentAndCountry.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\CitiesByContinentAndCountry\obj\Debug\net6.0\CitiesByContinentAndCountry.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\CitiesByContinentAndCountry\obj\Debug\net6.0\CitiesByContinentAndCountry.dll
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\CitiesByContinentAndCountry\obj\Debug\net6.0\refint\CitiesByContinentAndCountry.dll
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\CitiesByContinentAndCountry\obj\Debug\net6.0\CitiesByContinentAndCountry.pdb
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\CitiesByContinentAndCountry\obj\Debug\net6.0\CitiesByContinentAndCountry.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\CitiesByContinentAndCountry\obj\Debug\net6.0\ref\CitiesByContinentAndCountry.dll

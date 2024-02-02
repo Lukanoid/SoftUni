@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\ParkingLot\bin\Debug\net6.0\ParkingLot.exe
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\ParkingLot\bin\Debug\net6.0\ParkingLot.deps.json
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\ParkingLot\bin\Debug\net6.0\ParkingLot.runtimeconfig.json
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\ParkingLot\bin\Debug\net6.0\ParkingLot.dll
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\ParkingLot\bin\Debug\net6.0\ParkingLot.pdb
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\ParkingLot\obj\Debug\net6.0\ParkingLot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\ParkingLot\obj\Debug\net6.0\ParkingLot.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\ParkingLot\obj\Debug\net6.0\ParkingLot.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\ParkingLot\obj\Debug\net6.0\ParkingLot.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\ParkingLot\obj\Debug\net6.0\ParkingLot.dll
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\ParkingLot\obj\Debug\net6.0\refint\ParkingLot.dll
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\ParkingLot\obj\Debug\net6.0\ParkingLot.pdb
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\ParkingLot\obj\Debug\net6.0\ParkingLot.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\ParkingLot\obj\Debug\net6.0\ref\ParkingLot.dll

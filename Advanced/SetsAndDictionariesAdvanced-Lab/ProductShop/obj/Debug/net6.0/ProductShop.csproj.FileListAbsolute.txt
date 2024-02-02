@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\ProductShop\bin\Debug\net6.0\ProductShop.exe
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\ProductShop\bin\Debug\net6.0\ProductShop.deps.json
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\ProductShop\bin\Debug\net6.0\ProductShop.runtimeconfig.json
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\ProductShop\bin\Debug\net6.0\ProductShop.dll
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\ProductShop\bin\Debug\net6.0\ProductShop.pdb
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\ProductShop\obj\Debug\net6.0\ProductShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\ProductShop\obj\Debug\net6.0\ProductShop.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\ProductShop\obj\Debug\net6.0\ProductShop.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\ProductShop\obj\Debug\net6.0\ProductShop.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\ProductShop\obj\Debug\net6.0\ProductShop.dll
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\ProductShop\obj\Debug\net6.0\refint\ProductShop.dll
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\ProductShop\obj\Debug\net6.0\ProductShop.pdb
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\ProductShop\obj\Debug\net6.0\ProductShop.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Lab\ProductShop\obj\Debug\net6.0\ref\ProductShop.dll
