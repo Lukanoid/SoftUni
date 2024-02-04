@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\ForceBook\bin\Debug\net6.0\ForceBook.exe
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\ForceBook\bin\Debug\net6.0\ForceBook.deps.json
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\ForceBook\bin\Debug\net6.0\ForceBook.runtimeconfig.json
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\ForceBook\bin\Debug\net6.0\ForceBook.dll
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\ForceBook\bin\Debug\net6.0\ForceBook.pdb
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\ForceBook\obj\Debug\net6.0\ForceBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\ForceBook\obj\Debug\net6.0\ForceBook.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\ForceBook\obj\Debug\net6.0\ForceBook.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\ForceBook\obj\Debug\net6.0\ForceBook.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\ForceBook\obj\Debug\net6.0\ForceBook.dll
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\ForceBook\obj\Debug\net6.0\refint\ForceBook.dll
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\ForceBook\obj\Debug\net6.0\ForceBook.pdb
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\ForceBook\obj\Debug\net6.0\ForceBook.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\ForceBook\obj\Debug\net6.0\ref\ForceBook.dll

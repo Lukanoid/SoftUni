@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\CountSymbols\bin\Debug\net6.0\CountSymbols.exe
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\CountSymbols\bin\Debug\net6.0\CountSymbols.deps.json
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\CountSymbols\bin\Debug\net6.0\CountSymbols.runtimeconfig.json
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\CountSymbols\bin\Debug\net6.0\CountSymbols.dll
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\CountSymbols\bin\Debug\net6.0\CountSymbols.pdb
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\CountSymbols\obj\Debug\net6.0\CountSymbols.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\CountSymbols\obj\Debug\net6.0\CountSymbols.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\CountSymbols\obj\Debug\net6.0\CountSymbols.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\CountSymbols\obj\Debug\net6.0\CountSymbols.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\CountSymbols\obj\Debug\net6.0\CountSymbols.dll
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\CountSymbols\obj\Debug\net6.0\refint\CountSymbols.dll
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\CountSymbols\obj\Debug\net6.0\CountSymbols.pdb
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\CountSymbols\obj\Debug\net6.0\CountSymbols.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\CountSymbols\obj\Debug\net6.0\ref\CountSymbols.dll

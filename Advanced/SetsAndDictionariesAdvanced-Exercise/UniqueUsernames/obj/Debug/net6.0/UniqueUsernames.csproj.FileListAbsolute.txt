@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\UniqueUsernames\bin\Debug\net6.0\UniqueUsernames.exe
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\UniqueUsernames\bin\Debug\net6.0\UniqueUsernames.deps.json
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\UniqueUsernames\bin\Debug\net6.0\UniqueUsernames.runtimeconfig.json
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\UniqueUsernames\bin\Debug\net6.0\UniqueUsernames.dll
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\UniqueUsernames\bin\Debug\net6.0\UniqueUsernames.pdb
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\UniqueUsernames\obj\Debug\net6.0\UniqueUsernames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\UniqueUsernames\obj\Debug\net6.0\UniqueUsernames.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\UniqueUsernames\obj\Debug\net6.0\UniqueUsernames.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\UniqueUsernames\obj\Debug\net6.0\UniqueUsernames.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\UniqueUsernames\obj\Debug\net6.0\UniqueUsernames.dll
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\UniqueUsernames\obj\Debug\net6.0\refint\UniqueUsernames.dll
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\UniqueUsernames\obj\Debug\net6.0\UniqueUsernames.pdb
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\UniqueUsernames\obj\Debug\net6.0\UniqueUsernames.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\UniqueUsernames\obj\Debug\net6.0\ref\UniqueUsernames.dll

@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\PeriodicTable\bin\Debug\net6.0\PeriodicTable.exe
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\PeriodicTable\bin\Debug\net6.0\PeriodicTable.deps.json
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\PeriodicTable\bin\Debug\net6.0\PeriodicTable.runtimeconfig.json
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\PeriodicTable\bin\Debug\net6.0\PeriodicTable.dll
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\PeriodicTable\bin\Debug\net6.0\PeriodicTable.pdb
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\PeriodicTable\obj\Debug\net6.0\PeriodicTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\PeriodicTable\obj\Debug\net6.0\PeriodicTable.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\PeriodicTable\obj\Debug\net6.0\PeriodicTable.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\PeriodicTable\obj\Debug\net6.0\PeriodicTable.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\PeriodicTable\obj\Debug\net6.0\PeriodicTable.dll
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\PeriodicTable\obj\Debug\net6.0\refint\PeriodicTable.dll
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\PeriodicTable\obj\Debug\net6.0\PeriodicTable.pdb
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\PeriodicTable\obj\Debug\net6.0\PeriodicTable.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\PeriodicTable\obj\Debug\net6.0\ref\PeriodicTable.dll

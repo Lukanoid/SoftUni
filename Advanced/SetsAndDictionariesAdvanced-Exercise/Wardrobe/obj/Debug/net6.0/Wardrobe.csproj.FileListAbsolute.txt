@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\Wardrobe\bin\Debug\net6.0\Wardrobe.exe
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\Wardrobe\bin\Debug\net6.0\Wardrobe.deps.json
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\Wardrobe\bin\Debug\net6.0\Wardrobe.runtimeconfig.json
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\Wardrobe\bin\Debug\net6.0\Wardrobe.dll
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\Wardrobe\bin\Debug\net6.0\Wardrobe.pdb
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\Wardrobe\obj\Debug\net6.0\Wardrobe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\Wardrobe\obj\Debug\net6.0\Wardrobe.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\Wardrobe\obj\Debug\net6.0\Wardrobe.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\Wardrobe\obj\Debug\net6.0\Wardrobe.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\Wardrobe\obj\Debug\net6.0\Wardrobe.dll
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\Wardrobe\obj\Debug\net6.0\refint\Wardrobe.dll
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\Wardrobe\obj\Debug\net6.0\Wardrobe.pdb
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\Wardrobe\obj\Debug\net6.0\Wardrobe.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\Wardrobe\obj\Debug\net6.0\ref\Wardrobe.dll

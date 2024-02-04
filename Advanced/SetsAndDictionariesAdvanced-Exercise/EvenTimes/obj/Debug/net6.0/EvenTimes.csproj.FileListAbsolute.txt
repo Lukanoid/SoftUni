@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\EvenTimes\bin\Debug\net6.0\EvenTimes.exe
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\EvenTimes\bin\Debug\net6.0\EvenTimes.deps.json
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\EvenTimes\bin\Debug\net6.0\EvenTimes.runtimeconfig.json
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\EvenTimes\bin\Debug\net6.0\EvenTimes.dll
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\EvenTimes\bin\Debug\net6.0\EvenTimes.pdb
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\EvenTimes\obj\Debug\net6.0\EvenTimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\EvenTimes\obj\Debug\net6.0\EvenTimes.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\EvenTimes\obj\Debug\net6.0\EvenTimes.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\EvenTimes\obj\Debug\net6.0\EvenTimes.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\EvenTimes\obj\Debug\net6.0\EvenTimes.dll
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\EvenTimes\obj\Debug\net6.0\refint\EvenTimes.dll
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\EvenTimes\obj\Debug\net6.0\EvenTimes.pdb
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\EvenTimes\obj\Debug\net6.0\EvenTimes.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\EvenTimes\obj\Debug\net6.0\ref\EvenTimes.dll
