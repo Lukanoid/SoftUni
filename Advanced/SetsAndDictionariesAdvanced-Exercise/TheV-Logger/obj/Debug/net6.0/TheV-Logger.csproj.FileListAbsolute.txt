@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\TheV-Logger\bin\Debug\net6.0\TheV-Logger.exe
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\TheV-Logger\bin\Debug\net6.0\TheV-Logger.deps.json
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\TheV-Logger\bin\Debug\net6.0\TheV-Logger.runtimeconfig.json
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\TheV-Logger\bin\Debug\net6.0\TheV-Logger.dll
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\TheV-Logger\bin\Debug\net6.0\TheV-Logger.pdb
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\TheV-Logger\obj\Debug\net6.0\TheV-Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\TheV-Logger\obj\Debug\net6.0\TheV-Logger.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\TheV-Logger\obj\Debug\net6.0\TheV-Logger.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\TheV-Logger\obj\Debug\net6.0\TheV-Logger.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\TheV-Logger\obj\Debug\net6.0\TheV-Logger.dll
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\TheV-Logger\obj\Debug\net6.0\refint\TheV-Logger.dll
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\TheV-Logger\obj\Debug\net6.0\TheV-Logger.pdb
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\TheV-Logger\obj\Debug\net6.0\TheV-Logger.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\SetsAndDictionariesAdvanced-Exercise\TheV-Logger\obj\Debug\net6.0\ref\TheV-Logger.dll
