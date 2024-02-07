@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\StreamsFilesAndDirectories-Exercises\CopyDirectory\bin\Debug\net6.0\CopyDirectory.exe
+C:\Users\GRIGS\source\repos\StreamsFilesAndDirectories-Exercises\CopyDirectory\bin\Debug\net6.0\CopyDirectory.deps.json
+C:\Users\GRIGS\source\repos\StreamsFilesAndDirectories-Exercises\CopyDirectory\bin\Debug\net6.0\CopyDirectory.runtimeconfig.json
+C:\Users\GRIGS\source\repos\StreamsFilesAndDirectories-Exercises\CopyDirectory\bin\Debug\net6.0\CopyDirectory.dll
+C:\Users\GRIGS\source\repos\StreamsFilesAndDirectories-Exercises\CopyDirectory\bin\Debug\net6.0\CopyDirectory.pdb
+C:\Users\GRIGS\source\repos\StreamsFilesAndDirectories-Exercises\CopyDirectory\obj\Debug\net6.0\CopyDirectory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\StreamsFilesAndDirectories-Exercises\CopyDirectory\obj\Debug\net6.0\CopyDirectory.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\StreamsFilesAndDirectories-Exercises\CopyDirectory\obj\Debug\net6.0\CopyDirectory.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\StreamsFilesAndDirectories-Exercises\CopyDirectory\obj\Debug\net6.0\CopyDirectory.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\StreamsFilesAndDirectories-Exercises\CopyDirectory\obj\Debug\net6.0\CopyDirectory.dll
+C:\Users\GRIGS\source\repos\StreamsFilesAndDirectories-Exercises\CopyDirectory\obj\Debug\net6.0\refint\CopyDirectory.dll
+C:\Users\GRIGS\source\repos\StreamsFilesAndDirectories-Exercises\CopyDirectory\obj\Debug\net6.0\CopyDirectory.pdb
+C:\Users\GRIGS\source\repos\StreamsFilesAndDirectories-Exercises\CopyDirectory\obj\Debug\net6.0\CopyDirectory.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\StreamsFilesAndDirectories-Exercises\CopyDirectory\obj\Debug\net6.0\ref\CopyDirectory.dll

@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\StreamsFilesAndDirectories-Exercises\ZipAndExtracts\bin\Debug\net6.0\ZipAndExtracts.exe
+C:\Users\GRIGS\source\repos\StreamsFilesAndDirectories-Exercises\ZipAndExtracts\bin\Debug\net6.0\ZipAndExtracts.deps.json
+C:\Users\GRIGS\source\repos\StreamsFilesAndDirectories-Exercises\ZipAndExtracts\bin\Debug\net6.0\ZipAndExtracts.runtimeconfig.json
+C:\Users\GRIGS\source\repos\StreamsFilesAndDirectories-Exercises\ZipAndExtracts\bin\Debug\net6.0\ZipAndExtracts.dll
+C:\Users\GRIGS\source\repos\StreamsFilesAndDirectories-Exercises\ZipAndExtracts\bin\Debug\net6.0\ZipAndExtracts.pdb
+C:\Users\GRIGS\source\repos\StreamsFilesAndDirectories-Exercises\ZipAndExtracts\obj\Debug\net6.0\ZipAndExtracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\StreamsFilesAndDirectories-Exercises\ZipAndExtracts\obj\Debug\net6.0\ZipAndExtracts.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\StreamsFilesAndDirectories-Exercises\ZipAndExtracts\obj\Debug\net6.0\ZipAndExtracts.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\StreamsFilesAndDirectories-Exercises\ZipAndExtracts\obj\Debug\net6.0\ZipAndExtracts.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\StreamsFilesAndDirectories-Exercises\ZipAndExtracts\obj\Debug\net6.0\ZipAndExtracts.dll
+C:\Users\GRIGS\source\repos\StreamsFilesAndDirectories-Exercises\ZipAndExtracts\obj\Debug\net6.0\refint\ZipAndExtracts.dll
+C:\Users\GRIGS\source\repos\StreamsFilesAndDirectories-Exercises\ZipAndExtracts\obj\Debug\net6.0\ZipAndExtracts.pdb
+C:\Users\GRIGS\source\repos\StreamsFilesAndDirectories-Exercises\ZipAndExtracts\obj\Debug\net6.0\ZipAndExtracts.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\StreamsFilesAndDirectories-Exercises\ZipAndExtracts\obj\Debug\net6.0\ref\ZipAndExtracts.dll

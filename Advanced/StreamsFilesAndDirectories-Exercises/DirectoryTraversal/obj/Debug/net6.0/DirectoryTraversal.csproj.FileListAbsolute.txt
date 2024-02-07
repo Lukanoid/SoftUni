@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\StreamsFilesAndDirectories-Exercises\DirectoryTraversal\bin\Debug\net6.0\DirectoryTraversal.exe
+C:\Users\GRIGS\source\repos\StreamsFilesAndDirectories-Exercises\DirectoryTraversal\bin\Debug\net6.0\DirectoryTraversal.deps.json
+C:\Users\GRIGS\source\repos\StreamsFilesAndDirectories-Exercises\DirectoryTraversal\bin\Debug\net6.0\DirectoryTraversal.runtimeconfig.json
+C:\Users\GRIGS\source\repos\StreamsFilesAndDirectories-Exercises\DirectoryTraversal\bin\Debug\net6.0\DirectoryTraversal.dll
+C:\Users\GRIGS\source\repos\StreamsFilesAndDirectories-Exercises\DirectoryTraversal\bin\Debug\net6.0\DirectoryTraversal.pdb
+C:\Users\GRIGS\source\repos\StreamsFilesAndDirectories-Exercises\DirectoryTraversal\obj\Debug\net6.0\DirectoryTraversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\StreamsFilesAndDirectories-Exercises\DirectoryTraversal\obj\Debug\net6.0\DirectoryTraversal.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\StreamsFilesAndDirectories-Exercises\DirectoryTraversal\obj\Debug\net6.0\DirectoryTraversal.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\StreamsFilesAndDirectories-Exercises\DirectoryTraversal\obj\Debug\net6.0\DirectoryTraversal.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\StreamsFilesAndDirectories-Exercises\DirectoryTraversal\obj\Debug\net6.0\DirectoryTraversal.dll
+C:\Users\GRIGS\source\repos\StreamsFilesAndDirectories-Exercises\DirectoryTraversal\obj\Debug\net6.0\refint\DirectoryTraversal.dll
+C:\Users\GRIGS\source\repos\StreamsFilesAndDirectories-Exercises\DirectoryTraversal\obj\Debug\net6.0\DirectoryTraversal.pdb
+C:\Users\GRIGS\source\repos\StreamsFilesAndDirectories-Exercises\DirectoryTraversal\obj\Debug\net6.0\DirectoryTraversal.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\StreamsFilesAndDirectories-Exercises\DirectoryTraversal\obj\Debug\net6.0\ref\DirectoryTraversal.dll
