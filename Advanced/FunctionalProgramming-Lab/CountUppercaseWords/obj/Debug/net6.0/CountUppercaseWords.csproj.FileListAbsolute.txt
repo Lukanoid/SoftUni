@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\CountUppercaseWords\bin\Debug\net6.0\CountUppercaseWords.exe
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\CountUppercaseWords\bin\Debug\net6.0\CountUppercaseWords.deps.json
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\CountUppercaseWords\bin\Debug\net6.0\CountUppercaseWords.runtimeconfig.json
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\CountUppercaseWords\bin\Debug\net6.0\CountUppercaseWords.dll
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\CountUppercaseWords\bin\Debug\net6.0\CountUppercaseWords.pdb
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\CountUppercaseWords\obj\Debug\net6.0\CountUppercaseWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\CountUppercaseWords\obj\Debug\net6.0\CountUppercaseWords.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\CountUppercaseWords\obj\Debug\net6.0\CountUppercaseWords.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\CountUppercaseWords\obj\Debug\net6.0\CountUppercaseWords.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\CountUppercaseWords\obj\Debug\net6.0\CountUppercaseWords.dll
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\CountUppercaseWords\obj\Debug\net6.0\refint\CountUppercaseWords.dll
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\CountUppercaseWords\obj\Debug\net6.0\CountUppercaseWords.pdb
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\CountUppercaseWords\obj\Debug\net6.0\CountUppercaseWords.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\CountUppercaseWords\obj\Debug\net6.0\ref\CountUppercaseWords.dll

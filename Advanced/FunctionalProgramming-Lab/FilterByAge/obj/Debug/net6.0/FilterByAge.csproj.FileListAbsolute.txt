@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\FilterByAge\bin\Debug\net6.0\FilterByAge.exe
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\FilterByAge\bin\Debug\net6.0\FilterByAge.deps.json
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\FilterByAge\bin\Debug\net6.0\FilterByAge.runtimeconfig.json
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\FilterByAge\bin\Debug\net6.0\FilterByAge.dll
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\FilterByAge\bin\Debug\net6.0\FilterByAge.pdb
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\FilterByAge\obj\Debug\net6.0\FilterByAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\FilterByAge\obj\Debug\net6.0\FilterByAge.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\FilterByAge\obj\Debug\net6.0\FilterByAge.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\FilterByAge\obj\Debug\net6.0\FilterByAge.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\FilterByAge\obj\Debug\net6.0\FilterByAge.dll
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\FilterByAge\obj\Debug\net6.0\refint\FilterByAge.dll
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\FilterByAge\obj\Debug\net6.0\FilterByAge.pdb
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\FilterByAge\obj\Debug\net6.0\FilterByAge.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\FilterByAge\obj\Debug\net6.0\ref\FilterByAge.dll

@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\SortEvenNumbers\bin\Debug\net6.0\SortEvenNumbers.exe
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\SortEvenNumbers\bin\Debug\net6.0\SortEvenNumbers.deps.json
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\SortEvenNumbers\bin\Debug\net6.0\SortEvenNumbers.runtimeconfig.json
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\SortEvenNumbers\bin\Debug\net6.0\SortEvenNumbers.dll
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\SortEvenNumbers\bin\Debug\net6.0\SortEvenNumbers.pdb
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\SortEvenNumbers\obj\Debug\net6.0\SortEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\SortEvenNumbers\obj\Debug\net6.0\SortEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\SortEvenNumbers\obj\Debug\net6.0\SortEvenNumbers.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\SortEvenNumbers\obj\Debug\net6.0\SortEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\SortEvenNumbers\obj\Debug\net6.0\SortEvenNumbers.dll
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\SortEvenNumbers\obj\Debug\net6.0\refint\SortEvenNumbers.dll
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\SortEvenNumbers\obj\Debug\net6.0\SortEvenNumbers.pdb
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\SortEvenNumbers\obj\Debug\net6.0\SortEvenNumbers.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\SortEvenNumbers\obj\Debug\net6.0\ref\SortEvenNumbers.dll

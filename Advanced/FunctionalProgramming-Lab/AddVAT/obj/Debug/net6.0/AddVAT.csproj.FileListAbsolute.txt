@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\AddVAT\bin\Debug\net6.0\AddVAT.exe
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\AddVAT\bin\Debug\net6.0\AddVAT.deps.json
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\AddVAT\bin\Debug\net6.0\AddVAT.runtimeconfig.json
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\AddVAT\bin\Debug\net6.0\AddVAT.dll
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\AddVAT\bin\Debug\net6.0\AddVAT.pdb
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\AddVAT\obj\Debug\net6.0\AddVAT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\AddVAT\obj\Debug\net6.0\AddVAT.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\AddVAT\obj\Debug\net6.0\AddVAT.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\AddVAT\obj\Debug\net6.0\AddVAT.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\AddVAT\obj\Debug\net6.0\AddVAT.dll
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\AddVAT\obj\Debug\net6.0\refint\AddVAT.dll
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\AddVAT\obj\Debug\net6.0\AddVAT.pdb
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\AddVAT\obj\Debug\net6.0\AddVAT.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Lab\AddVAT\obj\Debug\net6.0\ref\AddVAT.dll
