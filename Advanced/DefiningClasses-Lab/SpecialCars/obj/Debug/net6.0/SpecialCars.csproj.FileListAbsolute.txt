@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\SpecialCars\bin\Debug\net6.0\SpecialCars.exe
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\SpecialCars\bin\Debug\net6.0\SpecialCars.deps.json
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\SpecialCars\bin\Debug\net6.0\SpecialCars.runtimeconfig.json
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\SpecialCars\bin\Debug\net6.0\SpecialCars.dll
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\SpecialCars\bin\Debug\net6.0\SpecialCars.pdb
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\SpecialCars\obj\Debug\net6.0\SpecialCars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\SpecialCars\obj\Debug\net6.0\SpecialCars.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\SpecialCars\obj\Debug\net6.0\SpecialCars.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\SpecialCars\obj\Debug\net6.0\SpecialCars.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\SpecialCars\obj\Debug\net6.0\SpecialCars.dll
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\SpecialCars\obj\Debug\net6.0\refint\SpecialCars.dll
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\SpecialCars\obj\Debug\net6.0\SpecialCars.pdb
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\SpecialCars\obj\Debug\net6.0\SpecialCars.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\SpecialCars\obj\Debug\net6.0\ref\SpecialCars.dll

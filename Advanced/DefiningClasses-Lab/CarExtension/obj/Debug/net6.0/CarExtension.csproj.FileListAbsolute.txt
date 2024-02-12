@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\CarExtension\bin\Debug\net6.0\CarExtension.exe
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\CarExtension\bin\Debug\net6.0\CarExtension.deps.json
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\CarExtension\bin\Debug\net6.0\CarExtension.runtimeconfig.json
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\CarExtension\bin\Debug\net6.0\CarExtension.dll
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\CarExtension\bin\Debug\net6.0\CarExtension.pdb
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\CarExtension\obj\Debug\net6.0\CarExtension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\CarExtension\obj\Debug\net6.0\CarExtension.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\CarExtension\obj\Debug\net6.0\CarExtension.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\CarExtension\obj\Debug\net6.0\CarExtension.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\CarExtension\obj\Debug\net6.0\CarExtension.dll
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\CarExtension\obj\Debug\net6.0\refint\CarExtension.dll
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\CarExtension\obj\Debug\net6.0\CarExtension.pdb
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\CarExtension\obj\Debug\net6.0\CarExtension.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\CarExtension\obj\Debug\net6.0\ref\CarExtension.dll

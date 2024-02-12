@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\CarConstructors\bin\Debug\net6.0\CarConstructors.exe
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\CarConstructors\bin\Debug\net6.0\CarConstructors.deps.json
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\CarConstructors\bin\Debug\net6.0\CarConstructors.runtimeconfig.json
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\CarConstructors\bin\Debug\net6.0\CarConstructors.dll
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\CarConstructors\bin\Debug\net6.0\CarConstructors.pdb
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\CarConstructors\obj\Debug\net6.0\CarConstructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\CarConstructors\obj\Debug\net6.0\CarConstructors.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\CarConstructors\obj\Debug\net6.0\CarConstructors.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\CarConstructors\obj\Debug\net6.0\CarConstructors.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\CarConstructors\obj\Debug\net6.0\CarConstructors.dll
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\CarConstructors\obj\Debug\net6.0\refint\CarConstructors.dll
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\CarConstructors\obj\Debug\net6.0\CarConstructors.pdb
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\CarConstructors\obj\Debug\net6.0\CarConstructors.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\CarConstructors\obj\Debug\net6.0\ref\CarConstructors.dll

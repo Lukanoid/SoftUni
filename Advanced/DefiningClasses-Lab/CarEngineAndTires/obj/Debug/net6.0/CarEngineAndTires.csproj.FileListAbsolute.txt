@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\CarEngineAndTires\bin\Debug\net6.0\CarEngineAndTires.exe
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\CarEngineAndTires\bin\Debug\net6.0\CarEngineAndTires.deps.json
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\CarEngineAndTires\bin\Debug\net6.0\CarEngineAndTires.runtimeconfig.json
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\CarEngineAndTires\bin\Debug\net6.0\CarEngineAndTires.dll
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\CarEngineAndTires\bin\Debug\net6.0\CarEngineAndTires.pdb
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\CarEngineAndTires\obj\Debug\net6.0\CarEngineAndTires.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\CarEngineAndTires\obj\Debug\net6.0\CarEngineAndTires.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\CarEngineAndTires\obj\Debug\net6.0\CarEngineAndTires.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\CarEngineAndTires\obj\Debug\net6.0\CarEngineAndTires.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\CarEngineAndTires\obj\Debug\net6.0\CarEngineAndTires.dll
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\CarEngineAndTires\obj\Debug\net6.0\refint\CarEngineAndTires.dll
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\CarEngineAndTires\obj\Debug\net6.0\CarEngineAndTires.pdb
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\CarEngineAndTires\obj\Debug\net6.0\CarEngineAndTires.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\DefiningClasses-Lab\CarEngineAndTires\obj\Debug\net6.0\ref\CarEngineAndTires.dll
