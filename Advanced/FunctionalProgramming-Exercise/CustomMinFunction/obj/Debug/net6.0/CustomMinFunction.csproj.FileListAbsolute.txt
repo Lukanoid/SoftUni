@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\CustomMinFunction\bin\Debug\net6.0\CustomMinFunction.exe
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\CustomMinFunction\bin\Debug\net6.0\CustomMinFunction.deps.json
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\CustomMinFunction\bin\Debug\net6.0\CustomMinFunction.runtimeconfig.json
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\CustomMinFunction\bin\Debug\net6.0\CustomMinFunction.dll
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\CustomMinFunction\bin\Debug\net6.0\CustomMinFunction.pdb
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\CustomMinFunction\obj\Debug\net6.0\CustomMinFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\CustomMinFunction\obj\Debug\net6.0\CustomMinFunction.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\CustomMinFunction\obj\Debug\net6.0\CustomMinFunction.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\CustomMinFunction\obj\Debug\net6.0\CustomMinFunction.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\CustomMinFunction\obj\Debug\net6.0\CustomMinFunction.dll
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\CustomMinFunction\obj\Debug\net6.0\refint\CustomMinFunction.dll
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\CustomMinFunction\obj\Debug\net6.0\CustomMinFunction.pdb
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\CustomMinFunction\obj\Debug\net6.0\CustomMinFunction.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\CustomMinFunction\obj\Debug\net6.0\ref\CustomMinFunction.dll

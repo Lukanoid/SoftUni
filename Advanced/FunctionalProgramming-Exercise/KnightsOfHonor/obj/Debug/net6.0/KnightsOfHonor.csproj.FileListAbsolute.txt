@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\KnightsOfHonor\bin\Debug\net6.0\KnightsOfHonor.exe
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\KnightsOfHonor\bin\Debug\net6.0\KnightsOfHonor.deps.json
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\KnightsOfHonor\bin\Debug\net6.0\KnightsOfHonor.runtimeconfig.json
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\KnightsOfHonor\bin\Debug\net6.0\KnightsOfHonor.dll
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\KnightsOfHonor\bin\Debug\net6.0\KnightsOfHonor.pdb
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\KnightsOfHonor\obj\Debug\net6.0\KnightsOfHonor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\KnightsOfHonor\obj\Debug\net6.0\KnightsOfHonor.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\KnightsOfHonor\obj\Debug\net6.0\KnightsOfHonor.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\KnightsOfHonor\obj\Debug\net6.0\KnightsOfHonor.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\KnightsOfHonor\obj\Debug\net6.0\KnightsOfHonor.dll
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\KnightsOfHonor\obj\Debug\net6.0\refint\KnightsOfHonor.dll
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\KnightsOfHonor\obj\Debug\net6.0\KnightsOfHonor.pdb
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\KnightsOfHonor\obj\Debug\net6.0\KnightsOfHonor.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\KnightsOfHonor\obj\Debug\net6.0\ref\KnightsOfHonor.dll

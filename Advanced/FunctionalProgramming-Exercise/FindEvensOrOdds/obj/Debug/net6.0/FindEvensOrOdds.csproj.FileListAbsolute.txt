@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\FindEvensOrOdds\bin\Debug\net6.0\FindEvensOrOdds.exe
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\FindEvensOrOdds\bin\Debug\net6.0\FindEvensOrOdds.deps.json
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\FindEvensOrOdds\bin\Debug\net6.0\FindEvensOrOdds.runtimeconfig.json
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\FindEvensOrOdds\bin\Debug\net6.0\FindEvensOrOdds.dll
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\FindEvensOrOdds\bin\Debug\net6.0\FindEvensOrOdds.pdb
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\FindEvensOrOdds\obj\Debug\net6.0\FindEvensOrOdds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\FindEvensOrOdds\obj\Debug\net6.0\FindEvensOrOdds.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\FindEvensOrOdds\obj\Debug\net6.0\FindEvensOrOdds.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\FindEvensOrOdds\obj\Debug\net6.0\FindEvensOrOdds.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\FindEvensOrOdds\obj\Debug\net6.0\FindEvensOrOdds.dll
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\FindEvensOrOdds\obj\Debug\net6.0\refint\FindEvensOrOdds.dll
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\FindEvensOrOdds\obj\Debug\net6.0\FindEvensOrOdds.pdb
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\FindEvensOrOdds\obj\Debug\net6.0\FindEvensOrOdds.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\FindEvensOrOdds\obj\Debug\net6.0\ref\FindEvensOrOdds.dll

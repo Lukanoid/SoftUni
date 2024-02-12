@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\ReverseAndExclude\bin\Debug\net6.0\ReverseAndExclude.exe
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\ReverseAndExclude\bin\Debug\net6.0\ReverseAndExclude.deps.json
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\ReverseAndExclude\bin\Debug\net6.0\ReverseAndExclude.runtimeconfig.json
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\ReverseAndExclude\bin\Debug\net6.0\ReverseAndExclude.dll
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\ReverseAndExclude\bin\Debug\net6.0\ReverseAndExclude.pdb
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\ReverseAndExclude\obj\Debug\net6.0\ReverseAndExclude.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\ReverseAndExclude\obj\Debug\net6.0\ReverseAndExclude.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\ReverseAndExclude\obj\Debug\net6.0\ReverseAndExclude.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\ReverseAndExclude\obj\Debug\net6.0\ReverseAndExclude.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\ReverseAndExclude\obj\Debug\net6.0\ReverseAndExclude.dll
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\ReverseAndExclude\obj\Debug\net6.0\refint\ReverseAndExclude.dll
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\ReverseAndExclude\obj\Debug\net6.0\ReverseAndExclude.pdb
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\ReverseAndExclude\obj\Debug\net6.0\ReverseAndExclude.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\ReverseAndExclude\obj\Debug\net6.0\ref\ReverseAndExclude.dll

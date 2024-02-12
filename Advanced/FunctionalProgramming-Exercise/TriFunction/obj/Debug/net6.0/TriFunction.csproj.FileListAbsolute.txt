@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\TriFunction\bin\Debug\net6.0\TriFunction.exe
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\TriFunction\bin\Debug\net6.0\TriFunction.deps.json
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\TriFunction\bin\Debug\net6.0\TriFunction.runtimeconfig.json
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\TriFunction\bin\Debug\net6.0\TriFunction.dll
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\TriFunction\bin\Debug\net6.0\TriFunction.pdb
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\TriFunction\obj\Debug\net6.0\TriFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\TriFunction\obj\Debug\net6.0\TriFunction.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\TriFunction\obj\Debug\net6.0\TriFunction.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\TriFunction\obj\Debug\net6.0\TriFunction.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\TriFunction\obj\Debug\net6.0\TriFunction.dll
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\TriFunction\obj\Debug\net6.0\refint\TriFunction.dll
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\TriFunction\obj\Debug\net6.0\TriFunction.pdb
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\TriFunction\obj\Debug\net6.0\TriFunction.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\TriFunction\obj\Debug\net6.0\ref\TriFunction.dll

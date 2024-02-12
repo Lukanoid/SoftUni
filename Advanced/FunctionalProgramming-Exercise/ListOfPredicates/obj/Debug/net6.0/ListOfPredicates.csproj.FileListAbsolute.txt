@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\ListOfPredicates\bin\Debug\net6.0\ListOfPredicates.exe
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\ListOfPredicates\bin\Debug\net6.0\ListOfPredicates.deps.json
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\ListOfPredicates\bin\Debug\net6.0\ListOfPredicates.runtimeconfig.json
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\ListOfPredicates\bin\Debug\net6.0\ListOfPredicates.dll
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\ListOfPredicates\bin\Debug\net6.0\ListOfPredicates.pdb
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\ListOfPredicates\obj\Debug\net6.0\ListOfPredicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\ListOfPredicates\obj\Debug\net6.0\ListOfPredicates.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\ListOfPredicates\obj\Debug\net6.0\ListOfPredicates.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\ListOfPredicates\obj\Debug\net6.0\ListOfPredicates.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\ListOfPredicates\obj\Debug\net6.0\ListOfPredicates.dll
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\ListOfPredicates\obj\Debug\net6.0\refint\ListOfPredicates.dll
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\ListOfPredicates\obj\Debug\net6.0\ListOfPredicates.pdb
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\ListOfPredicates\obj\Debug\net6.0\ListOfPredicates.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\ListOfPredicates\obj\Debug\net6.0\ref\ListOfPredicates.dll

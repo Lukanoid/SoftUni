@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\PredicateParty!\bin\Debug\net6.0\PredicateParty!.exe
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\PredicateParty!\bin\Debug\net6.0\PredicateParty!.deps.json
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\PredicateParty!\bin\Debug\net6.0\PredicateParty!.runtimeconfig.json
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\PredicateParty!\bin\Debug\net6.0\PredicateParty!.dll
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\PredicateParty!\bin\Debug\net6.0\PredicateParty!.pdb
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\PredicateParty!\obj\Debug\net6.0\PredicateParty!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\PredicateParty!\obj\Debug\net6.0\PredicateParty!.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\PredicateParty!\obj\Debug\net6.0\PredicateParty!.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\PredicateParty!\obj\Debug\net6.0\PredicateParty!.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\PredicateParty!\obj\Debug\net6.0\PredicateParty!.dll
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\PredicateParty!\obj\Debug\net6.0\refint\PredicateParty!.dll
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\PredicateParty!\obj\Debug\net6.0\PredicateParty!.pdb
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\PredicateParty!\obj\Debug\net6.0\PredicateParty!.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\PredicateParty!\obj\Debug\net6.0\ref\PredicateParty!.dll

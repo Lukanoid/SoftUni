@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\AppliedArithmetics\bin\Debug\net6.0\AppliedArithmetics.exe
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\AppliedArithmetics\bin\Debug\net6.0\AppliedArithmetics.deps.json
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\AppliedArithmetics\bin\Debug\net6.0\AppliedArithmetics.runtimeconfig.json
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\AppliedArithmetics\bin\Debug\net6.0\AppliedArithmetics.dll
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\AppliedArithmetics\bin\Debug\net6.0\AppliedArithmetics.pdb
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\AppliedArithmetics\obj\Debug\net6.0\AppliedArithmetics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\AppliedArithmetics\obj\Debug\net6.0\AppliedArithmetics.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\AppliedArithmetics\obj\Debug\net6.0\AppliedArithmetics.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\AppliedArithmetics\obj\Debug\net6.0\AppliedArithmetics.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\AppliedArithmetics\obj\Debug\net6.0\AppliedArithmetics.dll
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\AppliedArithmetics\obj\Debug\net6.0\refint\AppliedArithmetics.dll
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\AppliedArithmetics\obj\Debug\net6.0\AppliedArithmetics.pdb
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\AppliedArithmetics\obj\Debug\net6.0\AppliedArithmetics.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\AppliedArithmetics\obj\Debug\net6.0\ref\AppliedArithmetics.dll

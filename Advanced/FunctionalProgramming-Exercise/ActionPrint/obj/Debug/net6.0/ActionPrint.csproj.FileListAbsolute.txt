@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\ActionPrint\bin\Debug\net6.0\ActionPrint.exe
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\ActionPrint\bin\Debug\net6.0\ActionPrint.deps.json
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\ActionPrint\bin\Debug\net6.0\ActionPrint.runtimeconfig.json
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\ActionPrint\bin\Debug\net6.0\ActionPrint.dll
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\ActionPrint\bin\Debug\net6.0\ActionPrint.pdb
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\ActionPrint\obj\Debug\net6.0\ActionPrint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\ActionPrint\obj\Debug\net6.0\ActionPrint.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\ActionPrint\obj\Debug\net6.0\ActionPrint.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\ActionPrint\obj\Debug\net6.0\ActionPrint.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\ActionPrint\obj\Debug\net6.0\ActionPrint.dll
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\ActionPrint\obj\Debug\net6.0\refint\ActionPrint.dll
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\ActionPrint\obj\Debug\net6.0\ActionPrint.pdb
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\ActionPrint\obj\Debug\net6.0\ActionPrint.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\FunctionalProgramming-Exercise\ActionPrint\obj\Debug\net6.0\ref\ActionPrint.dll
