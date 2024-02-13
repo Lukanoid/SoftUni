@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\DefiningClasses-Exercise\SoftUniParking\obj\Debug\net6.0\SoftUniParking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\DefiningClasses-Exercise\SoftUniParking\obj\Debug\net6.0\SoftUniParking.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\DefiningClasses-Exercise\SoftUniParking\obj\Debug\net6.0\SoftUniParking.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\DefiningClasses-Exercise\SoftUniParking\obj\Debug\net6.0\SoftUniParking.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\DefiningClasses-Exercise\SoftUniParking\bin\Debug\net6.0\SoftUniParking.exe
+C:\Users\GRIGS\source\repos\DefiningClasses-Exercise\SoftUniParking\bin\Debug\net6.0\SoftUniParking.deps.json
+C:\Users\GRIGS\source\repos\DefiningClasses-Exercise\SoftUniParking\bin\Debug\net6.0\SoftUniParking.runtimeconfig.json
+C:\Users\GRIGS\source\repos\DefiningClasses-Exercise\SoftUniParking\bin\Debug\net6.0\SoftUniParking.dll
+C:\Users\GRIGS\source\repos\DefiningClasses-Exercise\SoftUniParking\bin\Debug\net6.0\SoftUniParking.pdb
+C:\Users\GRIGS\source\repos\DefiningClasses-Exercise\SoftUniParking\obj\Debug\net6.0\SoftUniParking.dll
+C:\Users\GRIGS\source\repos\DefiningClasses-Exercise\SoftUniParking\obj\Debug\net6.0\refint\SoftUniParking.dll
+C:\Users\GRIGS\source\repos\DefiningClasses-Exercise\SoftUniParking\obj\Debug\net6.0\SoftUniParking.pdb
+C:\Users\GRIGS\source\repos\DefiningClasses-Exercise\SoftUniParking\obj\Debug\net6.0\SoftUniParking.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\DefiningClasses-Exercise\SoftUniParking\obj\Debug\net6.0\ref\SoftUniParking.dll

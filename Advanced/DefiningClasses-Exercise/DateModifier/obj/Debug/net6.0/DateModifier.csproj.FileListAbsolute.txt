@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\DefiningClasses-Exercise\DateModifier\bin\Debug\net6.0\DateModifier.exe
+C:\Users\GRIGS\source\repos\DefiningClasses-Exercise\DateModifier\bin\Debug\net6.0\DateModifier.deps.json
+C:\Users\GRIGS\source\repos\DefiningClasses-Exercise\DateModifier\bin\Debug\net6.0\DateModifier.runtimeconfig.json
+C:\Users\GRIGS\source\repos\DefiningClasses-Exercise\DateModifier\bin\Debug\net6.0\DateModifier.dll
+C:\Users\GRIGS\source\repos\DefiningClasses-Exercise\DateModifier\bin\Debug\net6.0\DateModifier.pdb
+C:\Users\GRIGS\source\repos\DefiningClasses-Exercise\DateModifier\obj\Debug\net6.0\DateModifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\DefiningClasses-Exercise\DateModifier\obj\Debug\net6.0\DateModifier.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\DefiningClasses-Exercise\DateModifier\obj\Debug\net6.0\DateModifier.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\DefiningClasses-Exercise\DateModifier\obj\Debug\net6.0\DateModifier.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\DefiningClasses-Exercise\DateModifier\obj\Debug\net6.0\DateModifier.dll
+C:\Users\GRIGS\source\repos\DefiningClasses-Exercise\DateModifier\obj\Debug\net6.0\refint\DateModifier.dll
+C:\Users\GRIGS\source\repos\DefiningClasses-Exercise\DateModifier\obj\Debug\net6.0\DateModifier.pdb
+C:\Users\GRIGS\source\repos\DefiningClasses-Exercise\DateModifier\obj\Debug\net6.0\DateModifier.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\DefiningClasses-Exercise\DateModifier\obj\Debug\net6.0\ref\DateModifier.dll

@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\DefiningClasses-Exercise\DefineAClassPerson\obj\Debug\net6.0\DefineAClassPerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\DefiningClasses-Exercise\DefineAClassPerson\obj\Debug\net6.0\DefineAClassPerson.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\DefiningClasses-Exercise\DefineAClassPerson\obj\Debug\net6.0\DefineAClassPerson.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\DefiningClasses-Exercise\DefineAClassPerson\obj\Debug\net6.0\DefineAClassPerson.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\DefiningClasses-Exercise\DefineAClassPerson\bin\Debug\net6.0\DefineAClassPerson.exe
+C:\Users\GRIGS\source\repos\DefiningClasses-Exercise\DefineAClassPerson\bin\Debug\net6.0\DefineAClassPerson.deps.json
+C:\Users\GRIGS\source\repos\DefiningClasses-Exercise\DefineAClassPerson\bin\Debug\net6.0\DefineAClassPerson.runtimeconfig.json
+C:\Users\GRIGS\source\repos\DefiningClasses-Exercise\DefineAClassPerson\bin\Debug\net6.0\DefineAClassPerson.dll
+C:\Users\GRIGS\source\repos\DefiningClasses-Exercise\DefineAClassPerson\bin\Debug\net6.0\DefineAClassPerson.pdb
+C:\Users\GRIGS\source\repos\DefiningClasses-Exercise\DefineAClassPerson\obj\Debug\net6.0\DefineAClassPerson.dll
+C:\Users\GRIGS\source\repos\DefiningClasses-Exercise\DefineAClassPerson\obj\Debug\net6.0\refint\DefineAClassPerson.dll
+C:\Users\GRIGS\source\repos\DefiningClasses-Exercise\DefineAClassPerson\obj\Debug\net6.0\DefineAClassPerson.pdb
+C:\Users\GRIGS\source\repos\DefiningClasses-Exercise\DefineAClassPerson\obj\Debug\net6.0\DefineAClassPerson.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\DefiningClasses-Exercise\DefineAClassPerson\obj\Debug\net6.0\ref\DefineAClassPerson.dll
