@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem1", "ExamPrep\Problem1.csproj", "{8B241B43-3B8E-4E2E-8D72-C127ACD657A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem2", "Problem2\Problem2.csproj", "{F3FDF4E4-19BF-4D92-8C31-C9D56E26FB04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem3", "Problem3\Problem3.csproj", "{83D3776C-2B15-4C2A-977A-4FFCE3F696A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B241B43-3B8E-4E2E-8D72-C127ACD657A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B241B43-3B8E-4E2E-8D72-C127ACD657A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B241B43-3B8E-4E2E-8D72-C127ACD657A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B241B43-3B8E-4E2E-8D72-C127ACD657A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3FDF4E4-19BF-4D92-8C31-C9D56E26FB04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3FDF4E4-19BF-4D92-8C31-C9D56E26FB04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3FDF4E4-19BF-4D92-8C31-C9D56E26FB04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3FDF4E4-19BF-4D92-8C31-C9D56E26FB04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83D3776C-2B15-4C2A-977A-4FFCE3F696A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83D3776C-2B15-4C2A-977A-4FFCE3F696A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83D3776C-2B15-4C2A-977A-4FFCE3F696A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83D3776C-2B15-4C2A-977A-4FFCE3F696A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A6687E4-F9A3-4CAB-82F8-E889BF896FE6}
+	EndGlobalSection
+EndGlobal
