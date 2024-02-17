@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\AdvancedExam\Problem3\bin\Debug\net6.0\SharkTaxonomy.exe
+C:\Users\GRIGS\source\repos\AdvancedExam\Problem3\bin\Debug\net6.0\SharkTaxonomy.deps.json
+C:\Users\GRIGS\source\repos\AdvancedExam\Problem3\bin\Debug\net6.0\SharkTaxonomy.runtimeconfig.json
+C:\Users\GRIGS\source\repos\AdvancedExam\Problem3\bin\Debug\net6.0\SharkTaxonomy.dll
+C:\Users\GRIGS\source\repos\AdvancedExam\Problem3\bin\Debug\net6.0\SharkTaxonomy.pdb
+C:\Users\GRIGS\source\repos\AdvancedExam\Problem3\obj\Debug\net6.0\SharkTaxonomy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\AdvancedExam\Problem3\obj\Debug\net6.0\SharkTaxonomy.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\AdvancedExam\Problem3\obj\Debug\net6.0\SharkTaxonomy.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\AdvancedExam\Problem3\obj\Debug\net6.0\SharkTaxonomy.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\AdvancedExam\Problem3\obj\Debug\net6.0\SharkTaxonomy.dll
+C:\Users\GRIGS\source\repos\AdvancedExam\Problem3\obj\Debug\net6.0\refint\SharkTaxonomy.dll
+C:\Users\GRIGS\source\repos\AdvancedExam\Problem3\obj\Debug\net6.0\SharkTaxonomy.pdb
+C:\Users\GRIGS\source\repos\AdvancedExam\Problem3\obj\Debug\net6.0\SharkTaxonomy.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\AdvancedExam\Problem3\obj\Debug\net6.0\ref\SharkTaxonomy.dll
