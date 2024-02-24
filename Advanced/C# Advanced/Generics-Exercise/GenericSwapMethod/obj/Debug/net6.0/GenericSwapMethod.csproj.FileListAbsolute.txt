@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\Generics-Exercise\GenericSwapMethod\bin\Debug\net6.0\GenericSwapMethod.exe
+C:\Users\GRIGS\source\repos\Generics-Exercise\GenericSwapMethod\bin\Debug\net6.0\GenericSwapMethod.deps.json
+C:\Users\GRIGS\source\repos\Generics-Exercise\GenericSwapMethod\bin\Debug\net6.0\GenericSwapMethod.runtimeconfig.json
+C:\Users\GRIGS\source\repos\Generics-Exercise\GenericSwapMethod\bin\Debug\net6.0\GenericSwapMethod.dll
+C:\Users\GRIGS\source\repos\Generics-Exercise\GenericSwapMethod\bin\Debug\net6.0\GenericSwapMethod.pdb
+C:\Users\GRIGS\source\repos\Generics-Exercise\GenericSwapMethod\obj\Debug\net6.0\GenericSwapMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\Generics-Exercise\GenericSwapMethod\obj\Debug\net6.0\GenericSwapMethod.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\Generics-Exercise\GenericSwapMethod\obj\Debug\net6.0\GenericSwapMethod.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\Generics-Exercise\GenericSwapMethod\obj\Debug\net6.0\GenericSwapMethod.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\Generics-Exercise\GenericSwapMethod\obj\Debug\net6.0\GenericSwapMethod.dll
+C:\Users\GRIGS\source\repos\Generics-Exercise\GenericSwapMethod\obj\Debug\net6.0\refint\GenericSwapMethod.dll
+C:\Users\GRIGS\source\repos\Generics-Exercise\GenericSwapMethod\obj\Debug\net6.0\GenericSwapMethod.pdb
+C:\Users\GRIGS\source\repos\Generics-Exercise\GenericSwapMethod\obj\Debug\net6.0\GenericSwapMethod.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\Generics-Exercise\GenericSwapMethod\obj\Debug\net6.0\ref\GenericSwapMethod.dll

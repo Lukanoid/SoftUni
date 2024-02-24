@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\Generics-Exercise\GenericCountMethod\bin\Debug\net6.0\GenericCountMethod.exe
+C:\Users\GRIGS\source\repos\Generics-Exercise\GenericCountMethod\bin\Debug\net6.0\GenericCountMethod.deps.json
+C:\Users\GRIGS\source\repos\Generics-Exercise\GenericCountMethod\bin\Debug\net6.0\GenericCountMethod.runtimeconfig.json
+C:\Users\GRIGS\source\repos\Generics-Exercise\GenericCountMethod\bin\Debug\net6.0\GenericCountMethod.dll
+C:\Users\GRIGS\source\repos\Generics-Exercise\GenericCountMethod\bin\Debug\net6.0\GenericCountMethod.pdb
+C:\Users\GRIGS\source\repos\Generics-Exercise\GenericCountMethod\obj\Debug\net6.0\GenericCountMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\Generics-Exercise\GenericCountMethod\obj\Debug\net6.0\GenericCountMethod.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\Generics-Exercise\GenericCountMethod\obj\Debug\net6.0\GenericCountMethod.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\Generics-Exercise\GenericCountMethod\obj\Debug\net6.0\GenericCountMethod.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\Generics-Exercise\GenericCountMethod\obj\Debug\net6.0\GenericCountMethod.dll
+C:\Users\GRIGS\source\repos\Generics-Exercise\GenericCountMethod\obj\Debug\net6.0\refint\GenericCountMethod.dll
+C:\Users\GRIGS\source\repos\Generics-Exercise\GenericCountMethod\obj\Debug\net6.0\GenericCountMethod.pdb
+C:\Users\GRIGS\source\repos\Generics-Exercise\GenericCountMethod\obj\Debug\net6.0\GenericCountMethod.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\Generics-Exercise\GenericCountMethod\obj\Debug\net6.0\ref\GenericCountMethod.dll
