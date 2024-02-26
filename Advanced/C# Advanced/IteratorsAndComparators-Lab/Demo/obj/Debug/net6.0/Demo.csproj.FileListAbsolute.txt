@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Lab\Demo\bin\Debug\net6.0\Demo.exe
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Lab\Demo\bin\Debug\net6.0\Demo.deps.json
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Lab\Demo\bin\Debug\net6.0\Demo.runtimeconfig.json
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Lab\Demo\bin\Debug\net6.0\Demo.dll
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Lab\Demo\bin\Debug\net6.0\Demo.pdb
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Lab\Demo\obj\Debug\net6.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Lab\Demo\obj\Debug\net6.0\Demo.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Lab\Demo\obj\Debug\net6.0\Demo.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Lab\Demo\obj\Debug\net6.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Lab\Demo\obj\Debug\net6.0\Demo.dll
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Lab\Demo\obj\Debug\net6.0\refint\Demo.dll
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Lab\Demo\obj\Debug\net6.0\Demo.pdb
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Lab\Demo\obj\Debug\net6.0\Demo.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Lab\Demo\obj\Debug\net6.0\ref\Demo.dll
