@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\EqualityLogic\bin\Debug\net6.0\EqualityLogic.exe
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\EqualityLogic\bin\Debug\net6.0\EqualityLogic.deps.json
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\EqualityLogic\bin\Debug\net6.0\EqualityLogic.runtimeconfig.json
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\EqualityLogic\bin\Debug\net6.0\EqualityLogic.dll
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\EqualityLogic\bin\Debug\net6.0\EqualityLogic.pdb
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\EqualityLogic\obj\Debug\net6.0\EqualityLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\EqualityLogic\obj\Debug\net6.0\EqualityLogic.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\EqualityLogic\obj\Debug\net6.0\EqualityLogic.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\EqualityLogic\obj\Debug\net6.0\EqualityLogic.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\EqualityLogic\obj\Debug\net6.0\EqualityLogic.dll
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\EqualityLogic\obj\Debug\net6.0\refint\EqualityLogic.dll
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\EqualityLogic\obj\Debug\net6.0\EqualityLogic.pdb
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\EqualityLogic\obj\Debug\net6.0\EqualityLogic.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\EqualityLogic\obj\Debug\net6.0\ref\EqualityLogic.dll

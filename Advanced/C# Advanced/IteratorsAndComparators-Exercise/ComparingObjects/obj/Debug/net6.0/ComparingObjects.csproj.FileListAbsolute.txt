@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\ComparingObjects\bin\Debug\net6.0\ComparingObjects.exe
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\ComparingObjects\bin\Debug\net6.0\ComparingObjects.deps.json
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\ComparingObjects\bin\Debug\net6.0\ComparingObjects.runtimeconfig.json
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\ComparingObjects\bin\Debug\net6.0\ComparingObjects.dll
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\ComparingObjects\bin\Debug\net6.0\ComparingObjects.pdb
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\ComparingObjects\obj\Debug\net6.0\ComparingObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\ComparingObjects\obj\Debug\net6.0\ComparingObjects.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\ComparingObjects\obj\Debug\net6.0\ComparingObjects.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\ComparingObjects\obj\Debug\net6.0\ComparingObjects.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\ComparingObjects\obj\Debug\net6.0\ComparingObjects.dll
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\ComparingObjects\obj\Debug\net6.0\refint\ComparingObjects.dll
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\ComparingObjects\obj\Debug\net6.0\ComparingObjects.pdb
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\ComparingObjects\obj\Debug\net6.0\ComparingObjects.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\ComparingObjects\obj\Debug\net6.0\ref\ComparingObjects.dll

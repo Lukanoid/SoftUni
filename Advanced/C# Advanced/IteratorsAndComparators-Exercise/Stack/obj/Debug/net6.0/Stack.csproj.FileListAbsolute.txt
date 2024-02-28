@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\Stack\obj\Debug\net6.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\Stack\obj\Debug\net6.0\Stack.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\Stack\obj\Debug\net6.0\Stack.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\Stack\obj\Debug\net6.0\Stack.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\Stack\bin\Debug\net6.0\Stack.exe
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\Stack\bin\Debug\net6.0\Stack.deps.json
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\Stack\bin\Debug\net6.0\Stack.runtimeconfig.json
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\Stack\bin\Debug\net6.0\Stack.dll
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\Stack\bin\Debug\net6.0\Stack.pdb
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\Stack\obj\Debug\net6.0\Stack.dll
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\Stack\obj\Debug\net6.0\refint\Stack.dll
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\Stack\obj\Debug\net6.0\Stack.pdb
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\Stack\obj\Debug\net6.0\Stack.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\Stack\obj\Debug\net6.0\ref\Stack.dll

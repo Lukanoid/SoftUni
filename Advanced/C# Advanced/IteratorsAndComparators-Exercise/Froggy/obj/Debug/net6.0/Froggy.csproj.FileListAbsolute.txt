@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\Froggy\bin\Debug\net6.0\Froggy.exe
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\Froggy\bin\Debug\net6.0\Froggy.deps.json
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\Froggy\bin\Debug\net6.0\Froggy.runtimeconfig.json
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\Froggy\bin\Debug\net6.0\Froggy.dll
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\Froggy\bin\Debug\net6.0\Froggy.pdb
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\Froggy\obj\Debug\net6.0\Froggy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\Froggy\obj\Debug\net6.0\Froggy.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\Froggy\obj\Debug\net6.0\Froggy.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\Froggy\obj\Debug\net6.0\Froggy.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\Froggy\obj\Debug\net6.0\Froggy.dll
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\Froggy\obj\Debug\net6.0\refint\Froggy.dll
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\Froggy\obj\Debug\net6.0\Froggy.pdb
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\Froggy\obj\Debug\net6.0\Froggy.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\IteratorsAndComparators-Exercise\Froggy\obj\Debug\net6.0\ref\Froggy.dll
