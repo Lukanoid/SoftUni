@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\Inheritance-Lab\HierarchicalInheritance\bin\Debug\net6.0\RandomList.exe
+C:\Users\GRIGS\source\repos\Inheritance-Lab\HierarchicalInheritance\bin\Debug\net6.0\RandomList.deps.json
+C:\Users\GRIGS\source\repos\Inheritance-Lab\HierarchicalInheritance\bin\Debug\net6.0\RandomList.runtimeconfig.json
+C:\Users\GRIGS\source\repos\Inheritance-Lab\HierarchicalInheritance\bin\Debug\net6.0\RandomList.dll
+C:\Users\GRIGS\source\repos\Inheritance-Lab\HierarchicalInheritance\bin\Debug\net6.0\RandomList.pdb
+C:\Users\GRIGS\source\repos\Inheritance-Lab\HierarchicalInheritance\obj\Debug\net6.0\RandomList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\Inheritance-Lab\HierarchicalInheritance\obj\Debug\net6.0\RandomList.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\Inheritance-Lab\HierarchicalInheritance\obj\Debug\net6.0\RandomList.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\Inheritance-Lab\HierarchicalInheritance\obj\Debug\net6.0\RandomList.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\Inheritance-Lab\HierarchicalInheritance\obj\Debug\net6.0\RandomList.dll
+C:\Users\GRIGS\source\repos\Inheritance-Lab\HierarchicalInheritance\obj\Debug\net6.0\refint\RandomList.dll
+C:\Users\GRIGS\source\repos\Inheritance-Lab\HierarchicalInheritance\obj\Debug\net6.0\RandomList.pdb
+C:\Users\GRIGS\source\repos\Inheritance-Lab\HierarchicalInheritance\obj\Debug\net6.0\RandomList.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\Inheritance-Lab\HierarchicalInheritance\obj\Debug\net6.0\ref\RandomList.dll

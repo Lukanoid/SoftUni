@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\Inheritance-Lab\MultipleInheritance\bin\Debug\net6.0\MultipleInheritance.exe
+C:\Users\GRIGS\source\repos\Inheritance-Lab\MultipleInheritance\bin\Debug\net6.0\MultipleInheritance.deps.json
+C:\Users\GRIGS\source\repos\Inheritance-Lab\MultipleInheritance\bin\Debug\net6.0\MultipleInheritance.runtimeconfig.json
+C:\Users\GRIGS\source\repos\Inheritance-Lab\MultipleInheritance\bin\Debug\net6.0\MultipleInheritance.dll
+C:\Users\GRIGS\source\repos\Inheritance-Lab\MultipleInheritance\bin\Debug\net6.0\MultipleInheritance.pdb
+C:\Users\GRIGS\source\repos\Inheritance-Lab\MultipleInheritance\obj\Debug\net6.0\MultipleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\Inheritance-Lab\MultipleInheritance\obj\Debug\net6.0\MultipleInheritance.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\Inheritance-Lab\MultipleInheritance\obj\Debug\net6.0\MultipleInheritance.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\Inheritance-Lab\MultipleInheritance\obj\Debug\net6.0\MultipleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\Inheritance-Lab\MultipleInheritance\obj\Debug\net6.0\MultipleInheritance.dll
+C:\Users\GRIGS\source\repos\Inheritance-Lab\MultipleInheritance\obj\Debug\net6.0\refint\MultipleInheritance.dll
+C:\Users\GRIGS\source\repos\Inheritance-Lab\MultipleInheritance\obj\Debug\net6.0\MultipleInheritance.pdb
+C:\Users\GRIGS\source\repos\Inheritance-Lab\MultipleInheritance\obj\Debug\net6.0\MultipleInheritance.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\Inheritance-Lab\MultipleInheritance\obj\Debug\net6.0\ref\MultipleInheritance.dll

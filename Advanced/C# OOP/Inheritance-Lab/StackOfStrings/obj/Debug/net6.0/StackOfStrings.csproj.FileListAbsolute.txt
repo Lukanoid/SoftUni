@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\Inheritance-Lab\StackOfStrings\bin\Debug\net6.0\StackOfStrings.exe
+C:\Users\GRIGS\source\repos\Inheritance-Lab\StackOfStrings\bin\Debug\net6.0\StackOfStrings.deps.json
+C:\Users\GRIGS\source\repos\Inheritance-Lab\StackOfStrings\bin\Debug\net6.0\StackOfStrings.runtimeconfig.json
+C:\Users\GRIGS\source\repos\Inheritance-Lab\StackOfStrings\bin\Debug\net6.0\StackOfStrings.dll
+C:\Users\GRIGS\source\repos\Inheritance-Lab\StackOfStrings\bin\Debug\net6.0\StackOfStrings.pdb
+C:\Users\GRIGS\source\repos\Inheritance-Lab\StackOfStrings\obj\Debug\net6.0\StackOfStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\Inheritance-Lab\StackOfStrings\obj\Debug\net6.0\StackOfStrings.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\Inheritance-Lab\StackOfStrings\obj\Debug\net6.0\StackOfStrings.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\Inheritance-Lab\StackOfStrings\obj\Debug\net6.0\StackOfStrings.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\Inheritance-Lab\StackOfStrings\obj\Debug\net6.0\StackOfStrings.dll
+C:\Users\GRIGS\source\repos\Inheritance-Lab\StackOfStrings\obj\Debug\net6.0\refint\StackOfStrings.dll
+C:\Users\GRIGS\source\repos\Inheritance-Lab\StackOfStrings\obj\Debug\net6.0\StackOfStrings.pdb
+C:\Users\GRIGS\source\repos\Inheritance-Lab\StackOfStrings\obj\Debug\net6.0\StackOfStrings.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\Inheritance-Lab\StackOfStrings\obj\Debug\net6.0\ref\StackOfStrings.dll

@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\Inheritance-Lab\Farm\bin\Debug\net6.0\SingleInheritance.exe
+C:\Users\GRIGS\source\repos\Inheritance-Lab\Farm\bin\Debug\net6.0\SingleInheritance.deps.json
+C:\Users\GRIGS\source\repos\Inheritance-Lab\Farm\bin\Debug\net6.0\SingleInheritance.runtimeconfig.json
+C:\Users\GRIGS\source\repos\Inheritance-Lab\Farm\bin\Debug\net6.0\SingleInheritance.dll
+C:\Users\GRIGS\source\repos\Inheritance-Lab\Farm\bin\Debug\net6.0\SingleInheritance.pdb
+C:\Users\GRIGS\source\repos\Inheritance-Lab\Farm\obj\Debug\net6.0\SingleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\Inheritance-Lab\Farm\obj\Debug\net6.0\SingleInheritance.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\Inheritance-Lab\Farm\obj\Debug\net6.0\SingleInheritance.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\Inheritance-Lab\Farm\obj\Debug\net6.0\SingleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\Inheritance-Lab\Farm\obj\Debug\net6.0\SingleInheritance.dll
+C:\Users\GRIGS\source\repos\Inheritance-Lab\Farm\obj\Debug\net6.0\refint\SingleInheritance.dll
+C:\Users\GRIGS\source\repos\Inheritance-Lab\Farm\obj\Debug\net6.0\SingleInheritance.pdb
+C:\Users\GRIGS\source\repos\Inheritance-Lab\Farm\obj\Debug\net6.0\SingleInheritance.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\Inheritance-Lab\Farm\obj\Debug\net6.0\ref\SingleInheritance.dll
