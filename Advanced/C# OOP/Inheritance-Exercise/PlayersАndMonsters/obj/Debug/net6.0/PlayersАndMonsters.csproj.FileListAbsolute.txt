@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\Inheritance-Exercise\PlayersАndMonsters\bin\Debug\net6.0\PlayersАndMonsters.exe
+C:\Users\GRIGS\source\repos\Inheritance-Exercise\PlayersАndMonsters\bin\Debug\net6.0\PlayersАndMonsters.deps.json
+C:\Users\GRIGS\source\repos\Inheritance-Exercise\PlayersАndMonsters\bin\Debug\net6.0\PlayersАndMonsters.runtimeconfig.json
+C:\Users\GRIGS\source\repos\Inheritance-Exercise\PlayersАndMonsters\bin\Debug\net6.0\PlayersАndMonsters.dll
+C:\Users\GRIGS\source\repos\Inheritance-Exercise\PlayersАndMonsters\bin\Debug\net6.0\PlayersАndMonsters.pdb
+C:\Users\GRIGS\source\repos\Inheritance-Exercise\PlayersАndMonsters\obj\Debug\net6.0\PlayersАndMonsters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\Inheritance-Exercise\PlayersАndMonsters\obj\Debug\net6.0\PlayersАndMonsters.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\Inheritance-Exercise\PlayersАndMonsters\obj\Debug\net6.0\PlayersАndMonsters.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\Inheritance-Exercise\PlayersАndMonsters\obj\Debug\net6.0\PlayersАndMonsters.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\Inheritance-Exercise\PlayersАndMonsters\obj\Debug\net6.0\PlayersАndMonsters.dll
+C:\Users\GRIGS\source\repos\Inheritance-Exercise\PlayersАndMonsters\obj\Debug\net6.0\refint\PlayersАndMonsters.dll
+C:\Users\GRIGS\source\repos\Inheritance-Exercise\PlayersАndMonsters\obj\Debug\net6.0\PlayersАndMonsters.pdb
+C:\Users\GRIGS\source\repos\Inheritance-Exercise\PlayersАndMonsters\obj\Debug\net6.0\PlayersАndMonsters.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\Inheritance-Exercise\PlayersАndMonsters\obj\Debug\net6.0\ref\PlayersАndMonsters.dll
