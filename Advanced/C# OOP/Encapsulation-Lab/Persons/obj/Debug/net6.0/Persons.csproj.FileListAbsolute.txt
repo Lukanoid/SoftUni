@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\Encapsulation-Lab\Persons\bin\Debug\net6.0\Persons.exe
+C:\Users\GRIGS\source\repos\Encapsulation-Lab\Persons\bin\Debug\net6.0\Persons.deps.json
+C:\Users\GRIGS\source\repos\Encapsulation-Lab\Persons\bin\Debug\net6.0\Persons.runtimeconfig.json
+C:\Users\GRIGS\source\repos\Encapsulation-Lab\Persons\bin\Debug\net6.0\Persons.dll
+C:\Users\GRIGS\source\repos\Encapsulation-Lab\Persons\bin\Debug\net6.0\Persons.pdb
+C:\Users\GRIGS\source\repos\Encapsulation-Lab\Persons\obj\Debug\net6.0\Persons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\Encapsulation-Lab\Persons\obj\Debug\net6.0\Persons.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\Encapsulation-Lab\Persons\obj\Debug\net6.0\Persons.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\Encapsulation-Lab\Persons\obj\Debug\net6.0\Persons.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\Encapsulation-Lab\Persons\obj\Debug\net6.0\Persons.dll
+C:\Users\GRIGS\source\repos\Encapsulation-Lab\Persons\obj\Debug\net6.0\refint\Persons.dll
+C:\Users\GRIGS\source\repos\Encapsulation-Lab\Persons\obj\Debug\net6.0\Persons.pdb
+C:\Users\GRIGS\source\repos\Encapsulation-Lab\Persons\obj\Debug\net6.0\Persons.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\Encapsulation-Lab\Persons\obj\Debug\net6.0\ref\Persons.dll
