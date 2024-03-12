@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\Encapsulation-Exercise\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.exe
+C:\Users\GRIGS\source\repos\Encapsulation-Exercise\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.deps.json
+C:\Users\GRIGS\source\repos\Encapsulation-Exercise\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.runtimeconfig.json
+C:\Users\GRIGS\source\repos\Encapsulation-Exercise\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.dll
+C:\Users\GRIGS\source\repos\Encapsulation-Exercise\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.pdb
+C:\Users\GRIGS\source\repos\Encapsulation-Exercise\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\Encapsulation-Exercise\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\Encapsulation-Exercise\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\Encapsulation-Exercise\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\Encapsulation-Exercise\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.dll
+C:\Users\GRIGS\source\repos\Encapsulation-Exercise\ShoppingSpree\obj\Debug\net6.0\refint\ShoppingSpree.dll
+C:\Users\GRIGS\source\repos\Encapsulation-Exercise\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.pdb
+C:\Users\GRIGS\source\repos\Encapsulation-Exercise\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\Encapsulation-Exercise\ShoppingSpree\obj\Debug\net6.0\ref\ShoppingSpree.dll

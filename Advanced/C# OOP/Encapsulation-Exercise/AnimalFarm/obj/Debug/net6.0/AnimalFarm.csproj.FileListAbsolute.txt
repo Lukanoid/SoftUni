@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\Encapsulation-Exercise\AnimalFarm\bin\Debug\net6.0\AnimalFarm.exe
+C:\Users\GRIGS\source\repos\Encapsulation-Exercise\AnimalFarm\bin\Debug\net6.0\AnimalFarm.deps.json
+C:\Users\GRIGS\source\repos\Encapsulation-Exercise\AnimalFarm\bin\Debug\net6.0\AnimalFarm.runtimeconfig.json
+C:\Users\GRIGS\source\repos\Encapsulation-Exercise\AnimalFarm\bin\Debug\net6.0\AnimalFarm.dll
+C:\Users\GRIGS\source\repos\Encapsulation-Exercise\AnimalFarm\bin\Debug\net6.0\AnimalFarm.pdb
+C:\Users\GRIGS\source\repos\Encapsulation-Exercise\AnimalFarm\obj\Debug\net6.0\AnimalFarm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\Encapsulation-Exercise\AnimalFarm\obj\Debug\net6.0\AnimalFarm.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\Encapsulation-Exercise\AnimalFarm\obj\Debug\net6.0\AnimalFarm.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\Encapsulation-Exercise\AnimalFarm\obj\Debug\net6.0\AnimalFarm.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\Encapsulation-Exercise\AnimalFarm\obj\Debug\net6.0\AnimalFarm.dll
+C:\Users\GRIGS\source\repos\Encapsulation-Exercise\AnimalFarm\obj\Debug\net6.0\refint\AnimalFarm.dll
+C:\Users\GRIGS\source\repos\Encapsulation-Exercise\AnimalFarm\obj\Debug\net6.0\AnimalFarm.pdb
+C:\Users\GRIGS\source\repos\Encapsulation-Exercise\AnimalFarm\obj\Debug\net6.0\AnimalFarm.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\Encapsulation-Exercise\AnimalFarm\obj\Debug\net6.0\ref\AnimalFarm.dll
