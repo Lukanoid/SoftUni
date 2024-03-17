@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Lab\Cars\bin\Debug\net6.0\Cars.exe
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Lab\Cars\bin\Debug\net6.0\Cars.deps.json
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Lab\Cars\bin\Debug\net6.0\Cars.runtimeconfig.json
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Lab\Cars\bin\Debug\net6.0\Cars.dll
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Lab\Cars\bin\Debug\net6.0\Cars.pdb
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Lab\Cars\obj\Debug\net6.0\Cars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Lab\Cars\obj\Debug\net6.0\Cars.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Lab\Cars\obj\Debug\net6.0\Cars.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Lab\Cars\obj\Debug\net6.0\Cars.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Lab\Cars\obj\Debug\net6.0\Cars.dll
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Lab\Cars\obj\Debug\net6.0\refint\Cars.dll
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Lab\Cars\obj\Debug\net6.0\Cars.pdb
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Lab\Cars\obj\Debug\net6.0\Cars.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Lab\Cars\obj\Debug\net6.0\ref\Cars.dll

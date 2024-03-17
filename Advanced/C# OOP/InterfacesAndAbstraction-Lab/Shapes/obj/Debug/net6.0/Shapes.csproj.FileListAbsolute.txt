@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Lab\Shapes\bin\Debug\net6.0\Shapes.exe
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Lab\Shapes\bin\Debug\net6.0\Shapes.deps.json
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Lab\Shapes\bin\Debug\net6.0\Shapes.runtimeconfig.json
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Lab\Shapes\bin\Debug\net6.0\Shapes.dll
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Lab\Shapes\bin\Debug\net6.0\Shapes.pdb
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Lab\Shapes\obj\Debug\net6.0\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Lab\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Lab\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Lab\Shapes\obj\Debug\net6.0\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Lab\Shapes\obj\Debug\net6.0\Shapes.dll
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Lab\Shapes\obj\Debug\net6.0\refint\Shapes.dll
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Lab\Shapes\obj\Debug\net6.0\Shapes.pdb
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Lab\Shapes\obj\Debug\net6.0\Shapes.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Lab\Shapes\obj\Debug\net6.0\ref\Shapes.dll
