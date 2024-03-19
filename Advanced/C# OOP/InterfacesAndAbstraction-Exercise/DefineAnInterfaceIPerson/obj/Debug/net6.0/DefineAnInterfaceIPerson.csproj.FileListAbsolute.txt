@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Exercise\DefineAnInterfaceIPerson\bin\Debug\net6.0\DefineAnInterfaceIPerson.exe
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Exercise\DefineAnInterfaceIPerson\bin\Debug\net6.0\DefineAnInterfaceIPerson.deps.json
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Exercise\DefineAnInterfaceIPerson\bin\Debug\net6.0\DefineAnInterfaceIPerson.runtimeconfig.json
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Exercise\DefineAnInterfaceIPerson\bin\Debug\net6.0\DefineAnInterfaceIPerson.dll
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Exercise\DefineAnInterfaceIPerson\bin\Debug\net6.0\DefineAnInterfaceIPerson.pdb
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Exercise\DefineAnInterfaceIPerson\obj\Debug\net6.0\DefineAnInterfaceIPerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Exercise\DefineAnInterfaceIPerson\obj\Debug\net6.0\DefineAnInterfaceIPerson.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Exercise\DefineAnInterfaceIPerson\obj\Debug\net6.0\DefineAnInterfaceIPerson.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Exercise\DefineAnInterfaceIPerson\obj\Debug\net6.0\DefineAnInterfaceIPerson.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Exercise\DefineAnInterfaceIPerson\obj\Debug\net6.0\DefineAnInterfaceIPerson.dll
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Exercise\DefineAnInterfaceIPerson\obj\Debug\net6.0\refint\DefineAnInterfaceIPerson.dll
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Exercise\DefineAnInterfaceIPerson\obj\Debug\net6.0\DefineAnInterfaceIPerson.pdb
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Exercise\DefineAnInterfaceIPerson\obj\Debug\net6.0\DefineAnInterfaceIPerson.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Exercise\DefineAnInterfaceIPerson\obj\Debug\net6.0\ref\DefineAnInterfaceIPerson.dll

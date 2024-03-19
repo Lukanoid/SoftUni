@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Exercise\BorderControl\bin\Debug\net6.0\BorderControl.exe
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Exercise\BorderControl\bin\Debug\net6.0\BorderControl.deps.json
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Exercise\BorderControl\bin\Debug\net6.0\BorderControl.runtimeconfig.json
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Exercise\BorderControl\bin\Debug\net6.0\BorderControl.dll
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Exercise\BorderControl\bin\Debug\net6.0\BorderControl.pdb
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Exercise\BorderControl\obj\Debug\net6.0\BorderControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Exercise\BorderControl\obj\Debug\net6.0\BorderControl.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Exercise\BorderControl\obj\Debug\net6.0\BorderControl.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Exercise\BorderControl\obj\Debug\net6.0\BorderControl.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Exercise\BorderControl\obj\Debug\net6.0\BorderControl.dll
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Exercise\BorderControl\obj\Debug\net6.0\refint\BorderControl.dll
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Exercise\BorderControl\obj\Debug\net6.0\BorderControl.pdb
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Exercise\BorderControl\obj\Debug\net6.0\BorderControl.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\InterfacesAndAbstraction-Exercise\BorderControl\obj\Debug\net6.0\ref\BorderControl.dll
