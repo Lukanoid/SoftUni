@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\Polymorphism-Lab\MathOperations\bin\Debug\net6.0\MathOperations.exe
+C:\Users\GRIGS\source\repos\Polymorphism-Lab\MathOperations\bin\Debug\net6.0\MathOperations.deps.json
+C:\Users\GRIGS\source\repos\Polymorphism-Lab\MathOperations\bin\Debug\net6.0\MathOperations.runtimeconfig.json
+C:\Users\GRIGS\source\repos\Polymorphism-Lab\MathOperations\bin\Debug\net6.0\MathOperations.dll
+C:\Users\GRIGS\source\repos\Polymorphism-Lab\MathOperations\bin\Debug\net6.0\MathOperations.pdb
+C:\Users\GRIGS\source\repos\Polymorphism-Lab\MathOperations\obj\Debug\net6.0\MathOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\Polymorphism-Lab\MathOperations\obj\Debug\net6.0\MathOperations.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\Polymorphism-Lab\MathOperations\obj\Debug\net6.0\MathOperations.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\Polymorphism-Lab\MathOperations\obj\Debug\net6.0\MathOperations.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\Polymorphism-Lab\MathOperations\obj\Debug\net6.0\MathOperations.dll
+C:\Users\GRIGS\source\repos\Polymorphism-Lab\MathOperations\obj\Debug\net6.0\refint\MathOperations.dll
+C:\Users\GRIGS\source\repos\Polymorphism-Lab\MathOperations\obj\Debug\net6.0\MathOperations.pdb
+C:\Users\GRIGS\source\repos\Polymorphism-Lab\MathOperations\obj\Debug\net6.0\MathOperations.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\Polymorphism-Lab\MathOperations\obj\Debug\net6.0\ref\MathOperations.dll
