@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\Polymorphism-Exercise\BaseHero\bin\Debug\net6.0\BaseHero.exe
+C:\Users\GRIGS\source\repos\Polymorphism-Exercise\BaseHero\bin\Debug\net6.0\BaseHero.deps.json
+C:\Users\GRIGS\source\repos\Polymorphism-Exercise\BaseHero\bin\Debug\net6.0\BaseHero.runtimeconfig.json
+C:\Users\GRIGS\source\repos\Polymorphism-Exercise\BaseHero\bin\Debug\net6.0\BaseHero.dll
+C:\Users\GRIGS\source\repos\Polymorphism-Exercise\BaseHero\bin\Debug\net6.0\BaseHero.pdb
+C:\Users\GRIGS\source\repos\Polymorphism-Exercise\BaseHero\obj\Debug\net6.0\BaseHero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\Polymorphism-Exercise\BaseHero\obj\Debug\net6.0\BaseHero.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\Polymorphism-Exercise\BaseHero\obj\Debug\net6.0\BaseHero.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\Polymorphism-Exercise\BaseHero\obj\Debug\net6.0\BaseHero.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\Polymorphism-Exercise\BaseHero\obj\Debug\net6.0\BaseHero.dll
+C:\Users\GRIGS\source\repos\Polymorphism-Exercise\BaseHero\obj\Debug\net6.0\refint\BaseHero.dll
+C:\Users\GRIGS\source\repos\Polymorphism-Exercise\BaseHero\obj\Debug\net6.0\BaseHero.pdb
+C:\Users\GRIGS\source\repos\Polymorphism-Exercise\BaseHero\obj\Debug\net6.0\BaseHero.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\Polymorphism-Exercise\BaseHero\obj\Debug\net6.0\ref\BaseHero.dll
