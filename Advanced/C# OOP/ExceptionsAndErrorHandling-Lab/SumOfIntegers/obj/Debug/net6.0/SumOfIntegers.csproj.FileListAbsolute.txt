@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\ExceptionsAndErrorHandling-Lab\SumOfIntegers\bin\Debug\net6.0\SumOfIntegers.exe
+C:\Users\GRIGS\source\repos\ExceptionsAndErrorHandling-Lab\SumOfIntegers\bin\Debug\net6.0\SumOfIntegers.deps.json
+C:\Users\GRIGS\source\repos\ExceptionsAndErrorHandling-Lab\SumOfIntegers\bin\Debug\net6.0\SumOfIntegers.runtimeconfig.json
+C:\Users\GRIGS\source\repos\ExceptionsAndErrorHandling-Lab\SumOfIntegers\bin\Debug\net6.0\SumOfIntegers.dll
+C:\Users\GRIGS\source\repos\ExceptionsAndErrorHandling-Lab\SumOfIntegers\bin\Debug\net6.0\SumOfIntegers.pdb
+C:\Users\GRIGS\source\repos\ExceptionsAndErrorHandling-Lab\SumOfIntegers\obj\Debug\net6.0\SumOfIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\ExceptionsAndErrorHandling-Lab\SumOfIntegers\obj\Debug\net6.0\SumOfIntegers.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\ExceptionsAndErrorHandling-Lab\SumOfIntegers\obj\Debug\net6.0\SumOfIntegers.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\ExceptionsAndErrorHandling-Lab\SumOfIntegers\obj\Debug\net6.0\SumOfIntegers.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\ExceptionsAndErrorHandling-Lab\SumOfIntegers\obj\Debug\net6.0\SumOfIntegers.dll
+C:\Users\GRIGS\source\repos\ExceptionsAndErrorHandling-Lab\SumOfIntegers\obj\Debug\net6.0\refint\SumOfIntegers.dll
+C:\Users\GRIGS\source\repos\ExceptionsAndErrorHandling-Lab\SumOfIntegers\obj\Debug\net6.0\SumOfIntegers.pdb
+C:\Users\GRIGS\source\repos\ExceptionsAndErrorHandling-Lab\SumOfIntegers\obj\Debug\net6.0\SumOfIntegers.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\ExceptionsAndErrorHandling-Lab\SumOfIntegers\obj\Debug\net6.0\ref\SumOfIntegers.dll
