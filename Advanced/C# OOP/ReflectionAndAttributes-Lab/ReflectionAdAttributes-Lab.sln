@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stealer", "Stealer\Stealer.csproj", "{D943B5C6-9E2E-49ED-B67E-6D705D9C8D80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateAttribute", "CreateAttribute\CreateAttribute.csproj", "{A151AD88-C17C-4514-B06C-9CE84F0E554D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D943B5C6-9E2E-49ED-B67E-6D705D9C8D80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D943B5C6-9E2E-49ED-B67E-6D705D9C8D80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D943B5C6-9E2E-49ED-B67E-6D705D9C8D80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D943B5C6-9E2E-49ED-B67E-6D705D9C8D80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A151AD88-C17C-4514-B06C-9CE84F0E554D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A151AD88-C17C-4514-B06C-9CE84F0E554D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A151AD88-C17C-4514-B06C-9CE84F0E554D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A151AD88-C17C-4514-B06C-9CE84F0E554D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {457CE782-EB1B-4E32-82FC-AAC37806FFA4}
+	EndGlobalSection
+EndGlobal
