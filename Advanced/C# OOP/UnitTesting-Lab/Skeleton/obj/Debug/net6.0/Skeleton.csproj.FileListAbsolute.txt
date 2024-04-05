@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\09.CSharp-OOP-Unit-Testing-Lab-Skeleton_6.0\Skeleton\bin\Debug\net6.0\Skeleton.exe
+C:\Users\GRIGS\Desktop\09.CSharp-OOP-Unit-Testing-Lab-Skeleton_6.0\Skeleton\bin\Debug\net6.0\Skeleton.deps.json
+C:\Users\GRIGS\Desktop\09.CSharp-OOP-Unit-Testing-Lab-Skeleton_6.0\Skeleton\bin\Debug\net6.0\Skeleton.runtimeconfig.json
+C:\Users\GRIGS\Desktop\09.CSharp-OOP-Unit-Testing-Lab-Skeleton_6.0\Skeleton\bin\Debug\net6.0\Skeleton.dll
+C:\Users\GRIGS\Desktop\09.CSharp-OOP-Unit-Testing-Lab-Skeleton_6.0\Skeleton\bin\Debug\net6.0\Skeleton.pdb
+C:\Users\GRIGS\Desktop\09.CSharp-OOP-Unit-Testing-Lab-Skeleton_6.0\Skeleton\obj\Debug\net6.0\Skeleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\09.CSharp-OOP-Unit-Testing-Lab-Skeleton_6.0\Skeleton\obj\Debug\net6.0\Skeleton.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\09.CSharp-OOP-Unit-Testing-Lab-Skeleton_6.0\Skeleton\obj\Debug\net6.0\Skeleton.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\09.CSharp-OOP-Unit-Testing-Lab-Skeleton_6.0\Skeleton\obj\Debug\net6.0\Skeleton.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\09.CSharp-OOP-Unit-Testing-Lab-Skeleton_6.0\Skeleton\obj\Debug\net6.0\Skeleton.dll
+C:\Users\GRIGS\Desktop\09.CSharp-OOP-Unit-Testing-Lab-Skeleton_6.0\Skeleton\obj\Debug\net6.0\refint\Skeleton.dll
+C:\Users\GRIGS\Desktop\09.CSharp-OOP-Unit-Testing-Lab-Skeleton_6.0\Skeleton\obj\Debug\net6.0\Skeleton.pdb
+C:\Users\GRIGS\Desktop\09.CSharp-OOP-Unit-Testing-Lab-Skeleton_6.0\Skeleton\obj\Debug\net6.0\Skeleton.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\09.CSharp-OOP-Unit-Testing-Lab-Skeleton_6.0\Skeleton\obj\Debug\net6.0\ref\Skeleton.dll
