@@ -1,0 +1,11 @@
+C:\Users\GRIGS\Desktop\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton_6.0\DatabaseExtended\bin\Debug\net6.0\DatabaseExtended.deps.json
+C:\Users\GRIGS\Desktop\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton_6.0\DatabaseExtended\bin\Debug\net6.0\DatabaseExtended.dll
+C:\Users\GRIGS\Desktop\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton_6.0\DatabaseExtended\bin\Debug\net6.0\DatabaseExtended.pdb
+C:\Users\GRIGS\Desktop\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton_6.0\DatabaseExtended\obj\Debug\net6.0\DatabaseExtended.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton_6.0\DatabaseExtended\obj\Debug\net6.0\DatabaseExtended.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton_6.0\DatabaseExtended\obj\Debug\net6.0\DatabaseExtended.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton_6.0\DatabaseExtended\obj\Debug\net6.0\DatabaseExtended.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton_6.0\DatabaseExtended\obj\Debug\net6.0\DatabaseExtended.dll
+C:\Users\GRIGS\Desktop\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton_6.0\DatabaseExtended\obj\Debug\net6.0\refint\DatabaseExtended.dll
+C:\Users\GRIGS\Desktop\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton_6.0\DatabaseExtended\obj\Debug\net6.0\DatabaseExtended.pdb
+C:\Users\GRIGS\Desktop\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton_6.0\DatabaseExtended\obj\Debug\net6.0\ref\DatabaseExtended.dll

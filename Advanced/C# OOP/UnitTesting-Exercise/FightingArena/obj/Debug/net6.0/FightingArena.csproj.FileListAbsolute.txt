@@ -1,0 +1,11 @@
+C:\Users\GRIGS\Desktop\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton_6.0\FightingArena\bin\Debug\net6.0\FightingArena.deps.json
+C:\Users\GRIGS\Desktop\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton_6.0\FightingArena\bin\Debug\net6.0\FightingArena.dll
+C:\Users\GRIGS\Desktop\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton_6.0\FightingArena\bin\Debug\net6.0\FightingArena.pdb
+C:\Users\GRIGS\Desktop\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton_6.0\FightingArena\obj\Debug\net6.0\FightingArena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton_6.0\FightingArena\obj\Debug\net6.0\FightingArena.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton_6.0\FightingArena\obj\Debug\net6.0\FightingArena.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton_6.0\FightingArena\obj\Debug\net6.0\FightingArena.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton_6.0\FightingArena\obj\Debug\net6.0\FightingArena.dll
+C:\Users\GRIGS\Desktop\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton_6.0\FightingArena\obj\Debug\net6.0\refint\FightingArena.dll
+C:\Users\GRIGS\Desktop\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton_6.0\FightingArena\obj\Debug\net6.0\FightingArena.pdb
+C:\Users\GRIGS\Desktop\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton_6.0\FightingArena\obj\Debug\net6.0\ref\FightingArena.dll
