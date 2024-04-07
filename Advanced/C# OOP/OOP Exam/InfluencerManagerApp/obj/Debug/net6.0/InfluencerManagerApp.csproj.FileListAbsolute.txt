@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\InfluencerManagerApp-Skeleton\InfluencerManagerApp\bin\Debug\net6.0\InfluencerManagerApp.exe
+C:\Users\GRIGS\Desktop\InfluencerManagerApp-Skeleton\InfluencerManagerApp\bin\Debug\net6.0\InfluencerManagerApp.deps.json
+C:\Users\GRIGS\Desktop\InfluencerManagerApp-Skeleton\InfluencerManagerApp\bin\Debug\net6.0\InfluencerManagerApp.runtimeconfig.json
+C:\Users\GRIGS\Desktop\InfluencerManagerApp-Skeleton\InfluencerManagerApp\bin\Debug\net6.0\InfluencerManagerApp.dll
+C:\Users\GRIGS\Desktop\InfluencerManagerApp-Skeleton\InfluencerManagerApp\bin\Debug\net6.0\InfluencerManagerApp.pdb
+C:\Users\GRIGS\Desktop\InfluencerManagerApp-Skeleton\InfluencerManagerApp\obj\Debug\net6.0\InfluencerManagerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\InfluencerManagerApp-Skeleton\InfluencerManagerApp\obj\Debug\net6.0\InfluencerManagerApp.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\InfluencerManagerApp-Skeleton\InfluencerManagerApp\obj\Debug\net6.0\InfluencerManagerApp.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\InfluencerManagerApp-Skeleton\InfluencerManagerApp\obj\Debug\net6.0\InfluencerManagerApp.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\InfluencerManagerApp-Skeleton\InfluencerManagerApp\obj\Debug\net6.0\InfluencerManagerApp.dll
+C:\Users\GRIGS\Desktop\InfluencerManagerApp-Skeleton\InfluencerManagerApp\obj\Debug\net6.0\refint\InfluencerManagerApp.dll
+C:\Users\GRIGS\Desktop\InfluencerManagerApp-Skeleton\InfluencerManagerApp\obj\Debug\net6.0\InfluencerManagerApp.pdb
+C:\Users\GRIGS\Desktop\InfluencerManagerApp-Skeleton\InfluencerManagerApp\obj\Debug\net6.0\InfluencerManagerApp.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\InfluencerManagerApp-Skeleton\InfluencerManagerApp\obj\Debug\net6.0\ref\InfluencerManagerApp.dll
